@@ -1,9 +1,11 @@
 name: Anthropic news briefing
 
 on:
-  schedule:
-    # 23:20 UTC daily == 08:20 KST. GitHub Actions cron is always UTC.
-    - cron: "20 23 * * *"
+  # 자동 실행 비활성화 — anthropic-daily.yml(anthropic_pro.py)로 대체됨.
+  # 수동 실행만 남김.
+  # schedule:
+  #   # 23:20 UTC daily == 08:20 KST. GitHub Actions cron is always UTC.
+  #   - cron: "20 23 * * *"
   workflow_dispatch:
 
 jobs:

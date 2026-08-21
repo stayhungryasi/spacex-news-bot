@@ -36,8 +36,13 @@ load_dotenv()
 # --- Configuration ---------------------------------------------------------
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
 NEWSDATA_API_KEY = os.environ.get("NEWSDATA_API_KEY", "").strip()
-TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
-TELEGRAM_CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "@stayhungry_asi")
+# Both Telegram settings are optional at import so --dry-run works with no
+# secrets at all; the send paths check them first (see missing_telegram_config).
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+# No default channel on purpose. A plausible-looking fallback turns a missing
+# secret into a silent delivery failure (or a post to the wrong chat); prefer a
+# numeric chat_id over an @name, which breaks on rename.
+TELEGRAM_CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "").strip()
 
 KST = timezone(timedelta(hours=9))
 
@@ -1118,6 +1123,18 @@ def send_telegram(chunks: list[str]) -> None:
             raise RuntimeError(f"Telegram error: {result}")
 
 
+def missing_telegram_config() -> list[str]:
+    """Names of the settings send_telegram needs but does not have."""
+    return [
+        name
+        for name, value in (
+            ("TELEGRAM_BOT_TOKEN", TELEGRAM_BOT_TOKEN),
+            ("TELEGRAM_CHANNEL", TELEGRAM_CHANNEL),
+        )
+        if not value
+    ]
+
+
 # --- Main ------------------------------------------------------------------
 def main() -> int:
     parser = argparse.ArgumentParser(description="SpaceX news bot (breaking/daily).")
@@ -1210,6 +1227,10 @@ def main() -> int:
             if dry_run:
                 log.info("[dry-run] would send:\n%s", notice)
             else:
+                missing = missing_telegram_config()
+                if missing:
+                    log.error("%s not set — cannot send.", ", ".join(missing))
+                    return 1
                 log.info("No in-window articles — sending daily 'no news' notice.")
                 send_telegram([notice])
             log.info("Done.")
@@ -1250,6 +1271,10 @@ def main() -> int:
         log.info("Done.")
         return 0
 
+    missing = missing_telegram_config()
+    if missing:
+        log.error("%s not set — cannot send.", ", ".join(missing))
+        return 1
     log.info("Sending %d Telegram message(s) to %s", len(chunks), TELEGRAM_CHANNEL)
     send_telegram(chunks)
 

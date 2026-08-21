@@ -1,9 +1,11 @@
 name: SpaceX news briefing
 
 on:
-  schedule:
-    # 23:00 UTC daily == 08:00 KST. GitHub Actions cron is always UTC.
-    - cron: "0 23 * * *"
+  # 자동 실행 비활성화 — spacex-daily.yml(spacex_pro.py)로 대체됨.
+  # 수동 실행만 남김.
+  # schedule:
+  #   # 23:00 UTC daily == 08:00 KST. GitHub Actions cron is always UTC.
+  #   - cron: "0 23 * * *"
   workflow_dispatch:
 
 jobs:

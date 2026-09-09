@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "published": "2026-08-09T19:20:32+00:00",
-    "sent_at": "2026-08-09T23:49:50.039069+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-    "published": "2026-08-07T13:29:22+00:00",
-    "sent_at": "2026-08-09T23:49:50.039069+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "published": "2026-08-05T21:21:28+00:00",
-    "sent_at": "2026-08-09T23:49:50.039069+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0Y5VVJWSkc1aEJOMEF4QlNaeGxsVDg0YklRUzluTE5rVTVKekh5ZnM5VWh4NUcxNXBvNXB3djlZbm1DbHkxNTJhMFI4anFvakJnSndGYTI1WktTS2hOSmhXcUE5c0hXS1lrTmhjTEY3aGNERmlKOWc5TER3MUQtOHk4VHg3T0FwU0NLQmlNR09FbnMwLV9FaE80VU5qWG9HMXg2TDFKVENTeHJ6d0E5Mg?oc=5",
     "title": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers - Bloomberg.com",
     "published": "2026-08-10T12:31:17+00:00",
@@ -1156,5 +1138,35 @@
     "title": "What to Know About Anthropic’s Planned IPO - WSJ",
     "published": "2026-09-08T19:13:00+00:00",
     "sent_at": "2026-09-08T21:04:57.761429+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "published": "2026-09-08T21:10:27+00:00",
+    "sent_at": "2026-09-09T01:17:13.792469+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5",
+    "title": "Scoop: Anthropic breaks from major tech group over chips - Axios",
+    "published": "2026-09-08T19:54:27+00:00",
+    "sent_at": "2026-09-09T01:17:13.792469+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+    "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+    "published": "2026-09-08T17:27:31+00:00",
+    "sent_at": "2026-09-09T01:17:13.792469+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2lNQzJnT2E2aDFPT2ZwbnN3dFFKTS1aV0g2clJSYzFuUGdKM1lyaFZxWndDR3E1ZDRXODVmeUdQUXlvRmNRckJRb3Rkd3k5UkJWU3AxcTh1Wlk0WWdMNG5qOUp4WWVIUlFzQzBDOC1QVzByNjRpbnlyWDdLald4c1NEZkgxX0g1Vzg3UzhQa1I4Z1BT?oc=5",
+    "title": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition - Yahoo Finance",
+    "published": "2026-09-08T09:11:17+00:00",
+    "sent_at": "2026-09-09T01:17:13.792469+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXdpbTR4a3I5cVBjNTRnNml0djNKZVdDZk94b3VLeERjdS1MZmNld0lJOHl0SnJGdW5TMnN6cFN1aVVsTDctako5LVZrdERURG5PNnFXamlTMF9aemtUeFQ2dGdZSzFSRXV0enZVc2owV09YX21vZjhhWTZrTFBwRjhmTDNORkVOdFN2cHZLWG5MWlYzVWRIMjZIa2VRMGxF?oc=5",
+    "title": "Anthropic names ANZ comms lead as APAC expansion gathers pace - Marketing-Interactive",
+    "published": "2026-09-09T01:08:07+00:00",
+    "sent_at": "2026-09-09T01:17:13.792469+00:00"
   }
 ]

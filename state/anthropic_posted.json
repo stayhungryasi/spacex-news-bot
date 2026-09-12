@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTGg2WHkzMjJKbTVZOTQwZEx0Q2lWZ1pTT2FTa0FVZjFHdFNTTDVQNlRweURVZ0hSTm1SdUVVZ0owbjhHaDZ1bm1udnVKWHpJOElSeDBNb1d1VTctUWd3MEd1UTRrSUIwSHB1VGtmSHFTVGlkT0E4MVdCS21YbnZ1MndnQmJZWm4wQVZLcg?oc=5",
-    "title": "Anthropic reportedly plans a $2 trillion IPO in October—the largest ever—that will eclipse SpaceX - Fortune",
-    "published": "2026-08-13T09:12:00+00:00",
-    "sent_at": "2026-08-13T11:08:06.430377+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-    "title": "Anthropic could be worth $2 trillion when it goes public",
-    "published": "2026-08-13T13:58:56+00:00",
-    "sent_at": "2026-08-13T15:08:33.357115+00:00"
-  },
-  {
     "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
     "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
     "published": "2026-08-13T18:28:14+00:00",
@@ -1156,5 +1144,11 @@
     "title": "Detecting and countering misuse of AI: September 2026 - Anthropic",
     "published": "2026-09-10T17:10:27+00:00",
     "sent_at": "2026-09-12T07:07:07.126413+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+    "published": "2026-09-12T16:23:40+00:00",
+    "sent_at": "2026-09-12T17:00:33.068848+00:00"
   }
 ]

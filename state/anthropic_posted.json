@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.anthropic.com/news/claude-text-watermark",
-    "title": "How Claude’s text watermark works",
-    "published": "2026-08-11T16:00:00+00:00",
-    "sent_at": "2026-08-14T23:42:08.536841+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "published": "2026-08-14T14:27:14+00:00",
-    "sent_at": "2026-08-14T23:42:08.536841+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
-    "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
-    "published": "2026-08-14T19:31:51+00:00",
-    "sent_at": "2026-08-14T23:42:08.536841+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUjNMa3hzU1VFbE9BS2Jib2QwV2lFdUt6RkhJVXd1ZFVpMkxGUTE1cGwtZTRTUk9fY3VuR2Ffa0hQYkFuN1FEYmRnYXlQMC1ESzJzRWhtUDFWTnNrUlQ2QlpUUVFrdHIzcWVabDBQYVB6LUtjQklHUE9QcFBCWnBlY1FCMFZPcVpYXzlENE5hRkF5OXRnaElUUVJZTkc5YlFQRVROQVRtdGVlNl9tWmxybHJWTjd4T0U3WUE?oc=5",
-    "title": "Anthropic details unreleased Model 2, new alignment concerns in latest AI risk report - SiliconANGLE",
-    "published": "2026-08-14T23:31:54+00:00",
-    "sent_at": "2026-08-14T23:42:08.536841+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWgwX0doUEdwTmZPRWVvd2FPUktpeXh6WnF6T1g2ZVFMMVBISlpFbnI4RnVoRFk2cjhDa2pqajBTN0RBakdDNXRFYW1qUzdJbGxobV91MVV4MnVsNDZydVpPVXoyamZjWGRuQkduNGhjTTJQWUlfdV9hN1FncmVlUHV1UjRYX2VCaS1Pbk9wa1hLNmEwejRxODdZRFl5T1ZDeFhlUGJjMFZncjZHdmRlRVFEbXRMMmRGMUxUejRB0gHDAUFVX3lxTE5WSlRyTlpURWRhODJESVZfcS00U29HN2N1M3Z0d3FsUXhWSmQ1MnFNMmtJMnVKeE5QbmJVSW1taGkxUW5LWnBMX25WRTlUaVc4TmhWaFF3RVQ3T2VtT2VXVGRudjBiNnl5ZUZCcy1lbkZjY2s1dTUyU24zcXFrX05UYl9tTTEzbURHQkViNzU3M1lFUGNsUkU1eEVvTjJtaE8xY3E3NXp5LXc2X3Ftd2s2OVhjb2NNUW94cGZfYm9OZUgtVQ?oc=5",
-    "title": "How Anthropic plans to watermark Claude's AI-generated text - BleepingComputer",
-    "published": "2026-08-14T23:24:17+00:00",
-    "sent_at": "2026-08-14T23:42:08.536841+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGFTR2NEWkd0UXZ2Y3pITjZ4MXRQZEREU3A0LU9GXy1aY0Z1bzNUY083NE4xN21wc2V3czEtWC1idGliQzZxM2h4WTRuSzRSVGFUN2tMS2VFN0k2QTlHSEhaWHd3ekpSSS16YTVSdTFwMUtkX1lZYVZGdjA1NEx2aFdQUVJnSXZWRE11RGxJSGpsWG9qZWxYY2s4bGNFSWfSAaQBQVVfeXFMTXllMzRNcmVRZTZib3pmRjVWZHg0ZEoxSkx0VTM2dnR1dWFOOGlxQWZqRVh1dXB5b1BuUjVaaUlCRURqclhkbDZpd3l1V3VnR3RSazBJYUdSYW5zaS1LbnpGNllGakRId1FFYkRWNlZfeGNYUkxUbTl3bzN0eDdZUWdqSVA2eDh4RVQ0NHhmcTlfemp4Tzc2blFNWVNsa2lGSDBJSnU?oc=5",
     "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter - CNBC",
     "published": "2026-08-15T14:45:31+00:00",
@@ -1162,5 +1132,11 @@
     "title": "Anthropic selects Nasdaq for IPO, Business Insider reports - Reuters",
     "published": "2026-09-13T16:23:45+00:00",
     "sent_at": "2026-09-13T20:42:50.863210+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEJ6YVJJNkh0djM5TC1ZNW9wSkJoeU1nMDA1dmpxeW5XdjR1cmVlZzUzeEJLbHFfQm9KMFNhbkY2S2N1bHV1V2xncGtBMERtRzItTlFqUEFBVHZ0LUJwSDY2eTA5c21rS3hEdzBlWVZNMHgyalBTbnZ3MjgtbEozU00yUnY?oc=5",
+    "title": "Anthropic tells investors it will be profitable for second straight quarter - Financial Times",
+    "published": "2026-09-13T22:29:46+00:00",
+    "sent_at": "2026-09-14T00:06:03.671319+00:00"
   }
 ]

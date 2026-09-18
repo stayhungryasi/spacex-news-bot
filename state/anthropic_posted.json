@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWhlcVlRMWxYS3FJNUhUVXRBbHBaMXh6OTdJYm9JODFsNUF3Z2NVd2tjWGpCUkExSENidW9ZSzlObEtvbWJ4dlIxd21ab3lseXRRY21ad1dyeGdNV2dZdXNWc0lhR3NBYWo4SGwxYm9wZi1CVzNXQlVObGROTVZxcm93SzlIVkhJTG5QWVplMV9WNm9yZEpsOTZxb0Z5QjJ4OWF4czUtRDdkWWV5TlRiVzVqWWV0YXd3WEVQQw?oc=5",
-    "title": "Anthropic prepares supervoting power for founders ahead of IPO, the Information reports - Reuters",
-    "published": "2026-08-18T22:22:54+00:00",
-    "sent_at": "2026-08-19T01:49:10.844307+00:00"
-  },
-  {
     "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
     "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
     "published": "2026-08-19T22:10:46+00:00",
@@ -1150,5 +1144,17 @@
     "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
     "published": "2026-09-17T13:38:33+00:00",
     "sent_at": "2026-09-18T01:19:21.576952+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+    "published": "2026-09-18T14:00:14+00:00",
+    "sent_at": "2026-09-18T17:39:08.112461+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
+    "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
+    "published": "2026-09-18T17:18:30+00:00",
+    "sent_at": "2026-09-18T17:39:08.112461+00:00"
   }
 ]

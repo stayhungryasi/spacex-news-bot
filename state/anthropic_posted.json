@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "published": "2026-08-19T22:10:46+00:00",
-    "sent_at": "2026-08-19T23:41:20.625431+00:00"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-    "title": "OpenAI hit the brakes. Now what?",
-    "published": "2026-08-19T17:10:09+00:00",
-    "sent_at": "2026-08-19T23:41:20.625431+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "published": "2026-08-14T15:43:28+00:00",
-    "sent_at": "2026-08-19T23:41:20.625431+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "published": "2026-08-13T19:22:40+00:00",
-    "sent_at": "2026-08-19T23:41:20.625431+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-    "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "published": "2026-08-15T16:10:00+00:00",
-    "sent_at": "2026-08-19T23:41:20.625431+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjdKM3p6TTVON2FNcXFDRVhHd056NU03dGQxNzFYYkNYc09xWDhwS1hETzdFUkoyVkpWM0o1VENSaENzWnIwODBmUThla2dsUWF5UkRuWThvVmRsRVdCZHhCaDVQZ2NYSVdLU2J4aHdaZ19OeDY5LUREbVg1cmR6ZmZxVk5OcG5YX0lHMmFUelNSYjNoVVBJVWNYdENoeFFZdmxEQVBPSDNsQWdIMFdtQnJn?oc=5",
     "title": "Anthropic Expects to Match SpaceX’s Record IPO Size or Top It - Bloomberg.com",
     "published": "2026-08-20T17:56:02+00:00",
@@ -1162,5 +1132,11 @@
     "title": "Partnering with Accenture on embedded evaluation",
     "published": "2026-09-17T16:00:00+00:00",
     "sent_at": "2026-09-18T20:51:00.610976+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNk1Xck9GUE41UTZPc1p6elBuenQyZnA3bEg0WFEyeHNLNXBfNXZmZUNIOUtodnVSaWFXRGtueDFzenhuMS1xYVBvSjIwM0RQM25fSWtoVUszVmJCZEg5Q2RFb1llLVNlOEN4VjR1eDg0dWJyc09tN0QxNnZQeWc?oc=5",
+    "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings - The New York Times",
+    "published": "2026-09-18T22:32:05+00:00",
+    "sent_at": "2026-09-19T00:12:20.423757+00:00"
   }
 ]

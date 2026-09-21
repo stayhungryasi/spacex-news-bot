@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-    "title": "Trump's space transportation policy calls for new spaceport on federal land",
-    "published": "2026-08-21T23:32:17+00:00",
-    "sent_at": "2026-08-22T04:52:08.957675+00:00"
-  },
-  {
     "url": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/",
     "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
     "published": "2026-08-21T18:45:52+00:00",
@@ -1102,5 +1096,11 @@
     "title": "ASTS, RKLB, LUNR, RDW Stocks Slide Overnight: Analyst Questions Whether Rivals Can Compete If SpaceX Controls Access To Orbit - stocktwits.com",
     "published": "2026-09-20T15:05:20+00:00",
     "sent_at": "2026-09-21T00:41:50.837218+00:00"
+  },
+  {
+    "url": "https://www.theregister.com/offbeat/2026/09/21/nasa-gives-spacex-a-billion-reasons-to-keep-flying-crew-dragon/5297705",
+    "title": "NASA gives SpaceX a billion reasons to keep flying Crew Dragon - The Register",
+    "published": "2026-09-21T12:01:00+00:00",
+    "sent_at": "2026-09-21T12:52:58.128178+00:00"
   }
 ]

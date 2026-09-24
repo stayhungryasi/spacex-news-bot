@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bloomberg.com/news/articles/2026-08-25/spacex-plans-100-billion-louisiana-starship-rocket-launch-site",
-    "title": "SpaceX Plans $100 Billion Starship Launch Site in Louisiana - Bloomberg",
-    "published": "2026-08-25T16:25:03+00:00",
-    "sent_at": "2026-08-25T16:57:53.500804+00:00"
-  },
-  {
     "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
     "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
     "published": "2026-08-25T17:26:15+00:00",
@@ -1144,5 +1138,11 @@
     "title": "One Acadiana’s involvement in SpaceX development - KLFY.com",
     "published": "2026-09-23T23:16:17+00:00",
     "sent_at": "2026-09-24T00:59:29.196328+00:00"
+  },
+  {
+    "url": "https://www.techspot.com/news/113977-spacex-may-stop-flying-falcon-9-after-2028.html",
+    "title": "SpaceX has stopped taking Falcon 9 bookings past 2028, betting everything on Starship - TechSpot",
+    "published": "2026-09-24T15:53:00+00:00",
+    "sent_at": "2026-09-24T17:14:25.088322+00:00"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-082426/",
-    "title": "Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites",
-    "published": "2026-08-24T20:45:23+00:00",
-    "sent_at": "2026-08-24T23:16:30.213569+00:00"
-  },
-  {
-    "url": "https://myrgv.com/alerts-vms/2026/08/24/brownsville-may-give-spacex-444-acres-as-company-proposes-regional-water-solution/",
-    "title": "Brownsville may give SpaceX 444 acres as company proposes ‘regional water solution’ - MyRGV.com",
-    "published": "2026-08-24T22:54:15+00:00",
-    "sent_at": "2026-08-24T23:16:30.213569+00:00"
-  },
-  {
-    "url": "https://www.wafb.com/video/2026/08/24/spacex-spaceport-coming-louisiana-could-bring-jobs-environmental-concerns/",
-    "title": "SpaceX spaceport coming to Louisiana could bring jobs and environmental concerns - WAFB",
-    "published": "2026-08-24T22:16:29+00:00",
-    "sent_at": "2026-08-24T23:16:30.213569+00:00"
-  },
-  {
-    "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-praises-spacex-nvidia-213952014.html",
-    "title": "Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall - Yahoo Finance",
-    "published": "2026-08-24T21:39:52+00:00",
-    "sent_at": "2026-08-24T23:16:30.213569+00:00"
-  },
-  {
-    "url": "https://www.kbtx.com/2026/08/24/spacexs-grimes-county-land-holdings-nearly-double-just-four-days/",
-    "title": "SpaceX’s Grimes County land holdings nearly double in just four days - KBTX News 3",
-    "published": "2026-08-24T22:13:00+00:00",
-    "sent_at": "2026-08-24T23:16:30.213569+00:00"
-  },
-  {
     "url": "https://www.bloomberg.com/news/articles/2026-08-25/spacex-plans-100-billion-louisiana-starship-rocket-launch-site",
     "title": "SpaceX Plans $100 Billion Starship Launch Site in Louisiana - Bloomberg",
     "published": "2026-08-25T16:25:03+00:00",
@@ -1144,5 +1114,35 @@
     "title": "NASA’s $946 Million SpaceX Award Extends Crew Dragon Through 2030, But Redundancy Remains Uncertain - finance.yahoo.com",
     "published": "2026-09-23T22:25:39+00:00",
     "sent_at": "2026-09-23T22:58:34.314219+00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/technology/articles/nasa-946-million-spacex-award-222539616.html",
+    "title": "NASA’s $946 Million SpaceX Award Extends Crew Dragon Through 2030, But Redundancy Remains Uncertain - Yahoo Finance",
+    "published": "2026-09-23T22:25:39+00:00",
+    "sent_at": "2026-09-24T00:59:29.196328+00:00"
+  },
+  {
+    "url": "https://www.fool.com/investing/2026/09/23/spacex-can-t-join-the-s-and-p-500-before-june-2027-and-its-losses-could-keep-it-out-longer/",
+    "title": "SpaceX Can't Join the S&P 500 Before June 2027 -- and Its Losses Could Keep It Out Longer - The Motley Fool",
+    "published": "2026-09-24T00:51:23+00:00",
+    "sent_at": "2026-09-24T00:59:29.196328+00:00"
+  },
+  {
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-edgecortix-looks-to-work-with-spacex-on-space-data-center-chips",
+    "title": "Japan's EdgeCortix looks to work with SpaceX on space data center chips - Nikkei Asia",
+    "published": "2026-09-23T23:14:00+00:00",
+    "sent_at": "2026-09-24T00:59:29.196328+00:00"
+  },
+  {
+    "url": "https://broadbandbreakfast.com/trump-administrations-bead-overhaul-aided-spacex-levin/",
+    "title": "Trump Administration's BEAD Overhaul Aided SpaceX: Levin - Broadband Breakfast",
+    "published": "2026-09-23T22:56:45+00:00",
+    "sent_at": "2026-09-24T00:59:29.196328+00:00"
+  },
+  {
+    "url": "https://www.klfy.com/video/one-acadianas-involvement-in-spacex-development/12199940/",
+    "title": "One Acadiana’s involvement in SpaceX development - KLFY.com",
+    "published": "2026-09-23T23:16:17+00:00",
+    "sent_at": "2026-09-24T00:59:29.196328+00:00"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzVZckV2QWFDb2xsVWN6OGhuamVpbENEQTZxZWk3SjFxVWxhSlVWeERya1lGM0dzbGx0RGlsMU1kLWhxcFQxVldKZThrR01CUS1Gcnhya0NEMGk2aklKMnZIRHIzZlNlTWRIekdlQ19jaU5NczBNUmpqY1hWVlVTbTFVclF2dWRGUVZ3SUN2NFp4OXA3QktYcW5LWWNHZWtmMDBxVFItc2FBS3Iy?oc=5",
-    "title": "Anthropic to Pay Nscale $45 Billion for AI Computing Power - Bloomberg",
-    "published": "2026-08-26T17:02:32+00:00",
-    "sent_at": "2026-08-26T19:59:41.811144+00:00"
-  },
-  {
     "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
     "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
     "published": "2026-08-26T21:37:39+00:00",
@@ -1168,5 +1162,17 @@
     "title": "Appeals court allows Pentagon to label Anthropic a national security risk - Politico",
     "published": "2026-09-25T17:18:00+00:00",
     "sent_at": "2026-09-25T18:30:34.157461+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "published": "2026-09-25T19:13:38+00:00",
+    "sent_at": "2026-09-25T23:16:21.619755+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "published": "2026-09-25T21:36:20+00:00",
+    "sent_at": "2026-09-25T23:16:21.619755+00:00"
   }
 ]

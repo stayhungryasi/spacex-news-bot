@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/",
-    "title": "Starbase, Louisiana: The Largest Private Spaceport in the World",
-    "published": "2026-08-26T03:56:21+00:00",
-    "sent_at": "2026-08-26T10:53:17.461998+00:00"
-  },
-  {
     "url": "https://www.tradingview.com/news/stocktwits:10e9ff5b8094b:0-spcx-stock-rises-overnight-analyst-says-nvidia-s-results-reveal-spacex-s-growing-hyperscaler-status/",
     "title": "SPCX Stock Rises Overnight: Analyst Says Nvidia’s Results Reveal SpaceX’s Growing Hyperscaler Status - TradingView",
     "published": "2026-08-27T03:15:00+00:00",
@@ -1138,5 +1132,11 @@
     "title": "NASA awards SpaceX nearly $1 billion contract for 3 flights - Waco Tribune-Herald",
     "published": "2026-09-25T04:45:00+00:00",
     "sent_at": "2026-09-25T07:52:18.273504+00:00"
+  },
+  {
+    "url": "https://www.nasa.gov/blogs/commercialcrew/2026/09/25/nasas-spacex-crew-13-flight-readiness-review-underway/",
+    "title": "NASA’s SpaceX Crew-13 Flight Readiness Review Underway - NASA (.gov)",
+    "published": "2026-09-25T13:20:58+00:00",
+    "sent_at": "2026-09-25T13:50:51.745643+00:00"
   }
 ]

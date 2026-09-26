@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.tradingview.com/news/stocktwits:10e9ff5b8094b:0-spcx-stock-rises-overnight-analyst-says-nvidia-s-results-reveal-spacex-s-growing-hyperscaler-status/",
-    "title": "SPCX Stock Rises Overnight: Analyst Says Nvidia’s Results Reveal SpaceX’s Growing Hyperscaler Status - TradingView",
-    "published": "2026-08-27T03:15:00+00:00",
-    "sent_at": "2026-08-27T04:10:10.127926+00:00"
-  },
-  {
-    "url": "https://www.fool.com/investing/2026/08/26/cerebras-vs-spacex-which-2026-ipo-is-the-better-ai/",
-    "title": "Cerebras vs. SpaceX: Which 2026 IPO Is the Better AI Stock to Own for the Next 5 Years? - The Motley Fool",
-    "published": "2026-08-27T00:00:00+00:00",
-    "sent_at": "2026-08-27T04:10:10.127926+00:00"
-  },
-  {
-    "url": "https://www.nasaspaceflight.com/2026/08/iss-roundup-082626/",
-    "title": "Soyuz MS-28 departs the ISS, three spacewalks install upgrades to solar arrays and antennae",
-    "published": "2026-08-26T20:44:42+00:00",
-    "sent_at": "2026-08-27T04:10:10.127926+00:00"
-  },
-  {
-    "url": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
-    "title": "SpaceX launches 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
-    "published": "2026-08-25T22:28:32+00:00",
-    "sent_at": "2026-08-27T04:10:10.127926+00:00"
-  },
-  {
     "url": "https://www.moomoo.com/news/post/75425735/morgan-stanley-asserting-that-spacex-is-undervalued-projected-its-revenue",
     "title": "Morgan Stanley, asserting that SpaceX is undervalued, projected its revenue to reach $3.5 trillion by 2040. Musk responded, “No, I estimate it will reach that level by 2033.” - Moomoo",
     "published": "2026-08-28T02:27:58+00:00",
@@ -1174,5 +1150,17 @@
     "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
     "published": "2026-09-25T11:00:10+00:00",
     "sent_at": "2026-09-26T01:05:28.253650+00:00"
+  },
+  {
+    "url": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/",
+    "title": "Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps",
+    "published": "2026-09-26T04:01:59+00:00",
+    "sent_at": "2026-09-26T05:02:40.894969+00:00"
+  },
+  {
+    "url": "https://au.finance.yahoo.com/news/spacex-spcx-wins-946-million-235804734.html",
+    "title": "SpaceX (SPCX) Wins $946 Million More from NASA. What Comes after the Space Station? - Yahoo Finance Australia",
+    "published": "2026-09-25T23:58:04+00:00",
+    "sent_at": "2026-09-26T05:02:40.894969+00:00"
   }
 ]

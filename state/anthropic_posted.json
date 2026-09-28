@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "published": "2026-08-28T03:14:06+00:00",
-    "sent_at": "2026-08-28T06:05:16.629124+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcU1MM0dBSGszZW5iT2lINDRHaldaN2xpZFFmMS1hVEozRFkwQ3RUSFFVWnRLZWZVOGcxbDUtc2RJaTBoOG1zcUZGYWpJTTg2VEpCd2R1NVUwV25rNnJka0FCWDRncWhlSzlNQkJJWHFfRTEwWDMzN3Nfc2FFczRDUHJxMzJ6NE5RSW04Um0wVGpKdWhkU21zNGxlZzVxVkdYZU9keHhLenM3bEM1d3ZESkwxZWdaT0h1QXEyR0JBTG53RlFGUDdmOG81U0c1THhWU3gyNnhBX1lzM0RveDF4VjlmTHpuSGZzYnpUYVBWbmhtTVUtTXc?oc=5",
-    "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless' - The Killeen Daily Herald",
-    "published": "2026-08-28T06:17:59+00:00",
-    "sent_at": "2026-08-28T06:57:57.821619+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaS1uWVhhdmFfZjYxRU5TakgybFBkb01GZlc2VGdUbDRiZUhXRkVZQ0R0R0s0R0hIanVLNHFOdzlkT3NTRVdTUzNxbXM4ajhzX19wWVlQYnJlZkJDbmYyd3EwcERkUk1rUlhkUHlIN2pJUGEyOHUyRWgyTVVsQTJXLXozR3JvOFFwcXAzY0h2WFlQZDdTNWpseGtGRmFSRzhEaFNnTkZXT292NVFiX3BYMjFR?oc=5",
-    "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless' - MySA",
-    "published": "2026-08-28T06:15:04+00:00",
-    "sent_at": "2026-08-28T06:57:57.821619+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWWJpUThiX21uRFlUVlpHeVBfMVh1YmJFX2w0b3B2NjdJd09WQlBseUxpbmtaT0g4QVdGbG9yMDN0ak9RLUxVZVoxQTBKMGtORXVDbi1vMFVsSGhhTnBtYkkyOUplY3owSkFuTTFla2ZyWnlyX2ctdkU4UDZiUkJJdlNpeV9PTG51Sm1OMEtCdlI5N2hKTFBBRDBkd3JGUnNLWXpmNmtUZ2RPcW1KM1pGYzJjTnV4YWJKRF9tcnRieEoyYlJmYWx0dmlGVHVZR2NuTXRyQmVVbWw4N3FKT3lwUk9Yc3QwaG1GNnl30gHrAUFVX3lxTE9ZYmlROGJfbW5EWVRWWkd5UF8xWHViYkVfbDRvcHY2N0l3T1ZCUGx5TGlua1pPSDhBV0Zsb3IwM3RqT1EtTFVlWjFBMEowa05FdUNuLW8wVWxIaGFOcG1iSTI5SmVjejBKQW5NMWVrZnJaeXJfZy12RThQNmJSQkl2U2l5X09MbnVKbU4wS0J2Ujk3aEpMUEFEMGR3ckZSc0tZemY2a1RnZE9xbUozWkZjMmNOdXhhYkpEX21ydGJ4SjJiUmZhbHR2aUZUdVlHY25NdHJCZVVtbDg3cUpPeXBST1hzdDBobUY2eXc?oc=5",
-    "title": "Anthropic announces new Model Hardware Standard for AI agents; plans open-source release with safety guidance - The Tribune",
-    "published": "2026-08-28T06:03:13+00:00",
-    "sent_at": "2026-08-28T06:57:57.821619+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTU0xUjJYS0h1N1hlUDUzeFFRZDlheU1ZOFNLUEN2V2xQdkRrd0dDUXYxUTc3OWpYTFA3OFY1MDVWSEZpbHhlcUVtOFJHc0hmdTVheDFFbU8yUTQ4cklRY01WRnhvZmFqbTRxV3lXdVVnUkRRM0tQd2t3UkZGcnRQT2hkanRMbTdaTTZGXzRUMG02d0dsOENrYw?oc=5",
-    "title": "Judge Sides With Anthropic in Fight Against Pentagon - Newser",
-    "published": "2026-08-28T06:00:00+00:00",
-    "sent_at": "2026-08-28T06:57:57.821619+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UbjlQaGEtaFdQSFJ1THdyNVhHYjRxMHVNUnJtelhockp5c0t2UHZ4Y1djaHYtN0NzUjN2QUNEeHZubzcteXNXS0hBNXhYOWVaOE1xT3hyNWtpWGxVcms1Nl9LTHpKX2t4ZVhQYVFpRU5pMEYyV2F6TnZmOVR5Zw?oc=5",
-    "title": "US judge rules Pentagon blacklisting of Anthropic unlawful - China Daily",
-    "published": "2026-08-28T05:50:00+00:00",
-    "sent_at": "2026-08-28T06:57:57.821619+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "published": "2026-08-28T12:46:12+00:00",
-    "sent_at": "2026-08-28T18:37:26.640622+00:00"
-  },
-  {
     "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
     "title": "An Anthropic researcher just gave us a peek at self-improving AI",
     "published": "2026-08-28T19:30:38+00:00",
@@ -1192,5 +1150,35 @@
     "title": "Anthropic’s IPO is a $300 billion test for Amazon - thestreet.com",
     "published": "2026-09-26T22:47:00+00:00",
     "sent_at": "2026-09-27T01:32:10.143227+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "published": "2026-09-27T20:34:28+00:00",
+    "sent_at": "2026-09-28T01:43:22.418873+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1V4cHRDMlBrTDlxNlRReXJ5S2lkWFZWRmpFY3g3ZUlHbENldDRnRGRhTVhsZnU4bTZPLUNvbmlQenhqSndSSEtDVEVHQXU1VWpMSThJVWlVbHBTMkpScFVZUUdkSk1jZHJwaDhlQV9BR2dwUlNDVnlmY1Rtd0xuTWxxLVl2Y2M5NEhlWHp6Q2UwNXJSZVE3LWV3WF9ad21iSS1r?oc=5",
+    "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - AP News",
+    "published": "2026-09-27T18:13:00+00:00",
+    "sent_at": "2026-09-28T01:43:22.418873+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSk1qOGxtaGFlS09COTdKOHk1S2NDRnFURlN3ejJvcHE3THNIQUdHblZESVdzMzBpWnc3ZV9OLUstajZtbkppdkRUd0tOR1c5S1hEdzZSVGlHZV9JRTRvMUtja1lZSVVKclJiMlVYR1QxTDhVYVhqUmhaZW8yNzJHTDRmdGVFd1lDZlIwQW1lZDViRnJuRVFucTZwWERTZEFJdlNUR18ySU54WEdUcVdMdmY2NWk3QkdpM3ZIZ2dR0gHDAUFVX3lxTE1waGdnZmxOMXdNU1BPT2hHb1p5dGR1LVgxazBvemRyUkxZRk9wNHFKVFlSZ0dVWjloNTVlaWI5eVdheFZKVjNFbUdOQ25MZktlVThMTVdNN3RXUjdFRUhkOUQ3QWZUOENnOFE0U0ZWOWl1OFp0SWJSbElIWnhseWtTQUFxQTlfRGUxY1lEZzM5TDA5Q3hXYkszMmEwRWtoQ2JlQzRCZ0hHNGFITG1SbFk1UjBXWWxWMlhkeUczaE45Rzdvdw?oc=5",
+    "title": "Anthropic CEO Amodei to dine with Trump at White House - The Manila Times",
+    "published": "2026-09-28T01:11:00+00:00",
+    "sent_at": "2026-09-28T01:43:22.418873+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUlQRzRuZHlvaFpXODRLd1VReWRib3BnX0VHNHpfWktaaXJfTnBndWQxaW1vdUd3aDdnVkp2aWtLR0NfRTluMmlqeEU2M3JhOFBkV0xEeVpOYXFIZ3F4U1BSV2hqbER6UTU2RWt5ZTkydVI1dDlnZFlOb2RHazZpVFBSaUZSZm53UmJzcjBacUJUcGx5UGZBMTh1aTQ?oc=5",
+    "title": "Concerns Rise Over AI Risks as Anthropic's CEO Meets Trump - gurufocus.com",
+    "published": "2026-09-28T01:03:19+00:00",
+    "sent_at": "2026-09-28T01:43:22.418873+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMGhIbXBiTzd1SFkzaW0wbHR5Q3BBNmg1ZFR2YlNEWm5yRXdkNGhqMVkwajZkaWdVc1JMSDlwQklXRVgteHZKYWlsR1psMWVzOHluMHZfX2lJU2lWNFp2Z1J6MGRoUS10QTBTUDViWm5KdTRQUDN3NkN30gGOAUFVX3lxTE9BVFEzR2V0bTdjR2k5YTMyYjg5MWFlV01waGVQdURMbnVrNGtMWFdiMEZYRlRJdFB1dFZSZlpsRnZRVXJzTllmQXVZbTVHUk1JQ1VXZFJJWjg5N01FSVExMjVqaldsRUdxSzIxQkxlc09NWWY4djhWVVJKQ2t6VjVYUDJvZ1htZkhXaFRxNWc?oc=5",
+    "title": "Trump dines with Anthropic CEO, signals thaw in AI policy rift - CHOSUNBIZ - Chosunbiz",
+    "published": "2026-09-28T01:03:00+00:00",
+    "sent_at": "2026-09-28T01:43:22.418873+00:00"
   }
 ]

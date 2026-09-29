@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://simplywall.st/stocks/us/telecom/nasdaq-spcx/space-exploration-technologies/news/spacex-spcx-moves-florida-starlink-launches-to-starship-for",
-    "title": "SpaceX (SPCX) Moves Florida Starlink Launches To Starship For All East Coast Missions - simplywall.st",
-    "published": "2026-08-29T02:24:32+00:00",
-    "sent_at": "2026-08-29T03:59:04.091300+00:00"
-  },
-  {
-    "url": "https://www.moomoo.com/news/post/75501293/following-the-acquisition-of-cursor-by-spacex-spcxus-openai-announced",
-    "title": "Following the acquisition of Cursor by SpaceX (SPCX.US), OpenAI announced the termination of its partnership, citing Elon Musk’s prior history of contract breaches. - Moomoo",
-    "published": "2026-08-29T03:52:54+00:00",
-    "sent_at": "2026-08-29T03:59:04.091300+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
-    "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-    "published": "2026-08-28T11:00:39+00:00",
-    "sent_at": "2026-08-29T03:59:04.091300+00:00"
-  },
-  {
-    "url": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/",
-    "title": "NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday",
-    "published": "2026-08-29T20:20:42+00:00",
-    "sent_at": "2026-08-29T20:57:18.035733+00:00"
-  },
-  {
-    "url": "https://spaceflightnow.com/2026/08/29/roman-space-telescope-nasas-next-great-observatory-poised-for-sunday-launch/",
-    "title": "Roman Space Telescope, NASA’s next ‘great observatory,’ poised for Sunday launch",
-    "published": "2026-08-29T22:17:36+00:00",
-    "sent_at": "2026-08-30T00:22:33.165566+00:00"
-  },
-  {
-    "url": "https://www.basenor.com/blogs/news/spacexs-turbine-blade-problem-years-of-work-now-a-dedicated-factory",
-    "title": "SpaceX's Turbine Blade Problem: Years of Work, Now a Dedicated Factory - BASENOR - Tesla Accessories",
-    "published": "2026-08-30T00:15:56+00:00",
-    "sent_at": "2026-08-30T00:56:04.905561+00:00"
-  },
-  {
-    "url": "https://www.wsj.com/science/space-astronomy/spacex-and-rivals-dodge-traffic-as-satellites-debris-crowd-low-earth-orbit-2a870efe",
-    "title": "SpaceX and Rivals Dodge Traffic as Satellites, Debris Crowd Low-Earth Orbit - WSJ",
-    "published": "2026-08-30T00:00:00+00:00",
-    "sent_at": "2026-08-30T00:56:04.905561+00:00"
-  },
-  {
-    "url": "https://www.thestreet.com/investing/spacex-stock-morgan-stanley-louisiana-starbase",
-    "title": "Morgan Stanley finds bigger story in SpaceX’s $100 billion bet - thestreet.com",
-    "published": "2026-08-30T00:07:00+00:00",
-    "sent_at": "2026-08-30T00:56:04.905561+00:00"
-  },
-  {
-    "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/4340830/spacex-is-trading-near-its-135-offering-price-wall-street-analysts-say-this-is-what-happens-next/",
-    "title": "SpaceX Is Trading Near Its $135 Offering Price. Wall Street Analysts Say This Is What Happens Next. - The Globe and Mail",
-    "published": "2026-08-29T23:13:52+00:00",
-    "sent_at": "2026-08-30T00:56:04.905561+00:00"
-  },
-  {
-    "url": "https://gagadget.com/en/723767-openai-cuts-off-cursors-access-to-its-models-after-spacex-acquisition/",
-    "title": "OpenAI cuts off Cursor's access to its models after SpaceX acquisition - Gagadget.com",
-    "published": "2026-08-29T22:07:31+00:00",
-    "sent_at": "2026-08-30T00:56:04.905561+00:00"
-  },
-  {
     "url": "https://www.spacex.com/launches/roman",
     "title": "Roman Space Telescope Mission - SpaceX",
     "published": "2026-08-30T08:17:24+00:00",
@@ -1216,5 +1156,11 @@
     "title": "Launch Preview: Electron, Falcon 9, and Starship set for launches",
     "published": "2026-09-21T21:01:41+00:00",
     "sent_at": "2026-09-28T01:20:16.124134+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+    "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+    "published": "2026-09-28T21:26:19+00:00",
+    "sent_at": "2026-09-29T02:00:07.651361+00:00"
   }
 ]

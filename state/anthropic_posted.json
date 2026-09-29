@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "published": "2026-08-28T19:30:38+00:00",
-    "sent_at": "2026-08-29T02:48:11.346795+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm12QTFLek9sVlhENXNNaFlpUHlnbEl5dDRNZTBCbG1iSUtndjBhaUQ3UGl6N2VOWFppR19kbGhHWjlGaWRnby1BcHNlM0lNLUFaZXVrWV9MTFFOcjg0dmpFcWc0cHkyUTd1d2Z3bjNjaU9FeUQzUnpKbFloc1lRVDRPNjBHQ2JRVDh6cg?oc=5",
-    "title": "Automated researchers can reliably mitigate alignment failures - Anthropic",
-    "published": "2026-08-28T17:03:08+00:00",
-    "sent_at": "2026-08-29T04:12:02.242275+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "published": "2026-08-27T17:43:24+00:00",
-    "sent_at": "2026-08-29T04:12:02.242275+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlE5NkhYWnAyYlQ3THpzWURLTjVoOS1abXU4R05nZ0owVVpiRVVhTkhvNV92NGdIb3pydDhNRWhuZ3hVd3ZZSWNnN3NsM1BQeHVJcDQxRlFqSndHa3p6T3pWUzhVZTh1aWt6elEyMnY0aWVoSTJrU1BMejlkMnRWZkpSZXF3U0RWZ2FxNldtLXFQWlZKTnVUSGVTdk5YMUZZVVlrVG5fQnNrY3M4RG45M2dvejZEX0XSAbwBQVVfeXFMTnhpY09fbWNWdjczVnFkN3JRd1JuR3AyV0tlYW11WVNlT3dGaEdjaW5NMFBxZmJlVGpQUk12cjhxck5zSTZjb3dQei1GUW9KckVtaGdaQVRNenhCb2xBd2FucmdmRGtOa3h4cGtjMUhTMEpEVnhxME5HUFA3VFpETzVJbEhhSHZZM2RhZmJ2NVRQUS1tTGVJZkt3ZlhPamR2dWRnNFE5SERjS3BDTWVwRVhqZjBic2kzZnBBZkc?oc=5",
-    "title": "A US judge says the Pentagon broke the law when it blacklisted Anthropic - WION",
-    "published": "2026-08-29T03:39:52+00:00",
-    "sent_at": "2026-08-29T04:12:02.242275+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mSndraHRLdVBTdjg5VnFLdmVlbEJDWm01LXY2YURPS1EzM2dDMjRCeFJ1cGpkZURlbVplSWcyYkl4M2VITXVJeFFkUUtwcFppYTE0?oc=5",
-    "title": "Anthropic Trains Claude AI at $4 Hourly Cost, Outperforming $150/Hour Human Researchers - 36 Kr",
-    "published": "2026-08-29T03:01:16+00:00",
-    "sent_at": "2026-08-29T04:12:02.242275+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVpaX1RfSmRzNzNYODhTLU5mRzFUYWNuT09yeFNSeUNzQlN5azlQRlhDa0JSdlRyN0ZkUmlJYXVWQjZnbTh4a2xWbHU3dWdJcnJQN0Nlazk4OG1pS1ZJTUE1MHZBSkctdlVVdktvZ2JCaFptem5BX2g5WFlzckZNQ29kV2tHbkhINU9jdFdjVWxrbVpJVkp1RFZoMEZoU1FYREdyaGFQQQ?oc=5",
-    "title": "Opinion | The Pentagon loses a battle in its unnecessary war with Anthropic - The Washington Post",
-    "published": "2026-08-29T02:52:43+00:00",
-    "sent_at": "2026-08-29T04:12:02.242275+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-    "published": "2026-08-29T18:41:59+00:00",
-    "sent_at": "2026-08-29T20:52:44.175218+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Qc1BxNFFZRmNJdDhsNTU2dFFuZ3dEeHZISURRUERjRHVhOF9nM2ZGb0p2dmNLdW1yTG1OWllvOVh2OUp1SmdxTjJYVEtod0JGdUx2Z0RUMVY0dnUtTThXbVQwZ1pUeHBqN2Rxek5UaG5nWW9fSkE?oc=5",
-    "title": "China's GLM-5.3 Nears Anthropic on Cyber Test [2026] - tech-insider.org",
-    "published": "2026-08-30T00:22:57+00:00",
-    "sent_at": "2026-08-30T01:18:07.392543+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdU5TRG1haGhTVUY0Ukxlc2pOYVZHRG9BVmRlZ3pZVWJoOTNEZFhlcGJHSF8tdkc3bS1KUXItaEF0Vi00MGdjRHpmVjYtTmhaNWtoUV9fWXBzWU9FblYyX19MSXd1V0U2UjFHcTZxME81R3FyczZWNndTdzZQOGYtZmM2c0VJel91bi1MVUYyTmtnWWZpTnQ4YUh5Ry15WmdTbWVfM0E2WEdjdDBWSWZzVzRyaWJHbERBQ0dkeHhoZ3Bfb0hqQ2FEb2o0V0tBYlkwUzZ1dXpRQkswMFFXMG95bk5ySElPUQ?oc=5",
-    "title": "100 Companies Including OpenAI and Anthropic Warn of Escalating AI Cyberattacks: Which Cybersecurity Stocks Are Worth Watching? - TradingKey",
-    "published": "2026-08-30T00:05:14+00:00",
-    "sent_at": "2026-08-30T01:18:07.392543+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb3lzZENsdmlkQU5TVWo4VGFNdVYwV05wVDVEdEdEelc5dkhNeDVkQ3FqR0JPNHdLaXllWHphTWFSd3FkRUFCYTR5OUVFdGhVVzM5emZjalZHTDYxLTI1RXhvcGplRERpZ0dVR0RZWm5MU29uLVhURHREd1MzdjJHNFJMaGtxSUU3S0dDSXI4RXRKSEpjS2FiWDVQNS14MG1IZEo5a0pkcVJVY2tWV0hCaDJxSDN5Sjlpc3gwSTBTcnpMQmFJQ2p4UUttZTfSAdIBQVVfeXFMTll1YlFSYW1Ec3V6VFBOZzE2OE9mUC1nR1FLeWlZMHNXbk1ndzBYZm11SzQ4OWhQQWhZSnBTbkRYLTRaNG0tQTZSRmdTRXdDcDZpR3kzdUVjdWppdlp1d2ZwUTJGZEZGaFlGeVNOSnNiZGFvRmdGT0Fucjlkd3V2S0tRVmc1VnN4SXhSdGhlMG91QWxtRzhsSkNoUG5IdmtEeHFCc3JRVng4ZmdZeVJEZUpnWnQ0MnBOeHBoUk1aUm1rSVlyZk9WLXlkYV85WldhcENR?oc=5",
-    "title": "Anthropic is cutting Claude Code's current weekly limits by 17% - BleepingComputer",
-    "published": "2026-08-29T23:11:51+00:00",
-    "sent_at": "2026-08-30T01:18:07.392543+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOby1sMjZQM1cxQmFzWmpoWVBBdVc4eF9nVHZ5UDNpUXc1bGVDS1owM09UVXN2d056R3g3ODRXbG5JTlJzVER2cUZGZGVXY0RoODhUMTdXYmhkbXZxV2lsd1dlUFBEVjlNUnQ5VlMxMmo2S05nMmRfQ1JfLVBWa2ZzYWl2RkNJYXk2Yk9wZzRZMFFGRmFGNk1VRGFvU0NreHlibmpLLTBGOA?oc=5",
-    "title": "Salesforce Stock Soars 23% on Real Agentforce Growth, Not Just Anthropic Gains - Startup Fortune",
-    "published": "2026-08-29T22:53:26+00:00",
-    "sent_at": "2026-08-30T01:18:07.392543+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2UzVXpWdjFZRHpLRWg5NUpJVUlha3lwdVVjVWp2YmE0OWwxV2lXblFQaGpoNFVxRmJ1Q1l3YUlvd0JqWnB1dVhFR01nTTd4QnBJS2tlaG9FTkpWU1NXRDNaeFdjNy15TmVFLXBtUlNBZ253WkxETzFiRzdDck9QUHV6dFRiRFhyd1dOLXBCblFfMVVreE5Md3RvdDBsdHE3RDdid2JVTWxUZw?oc=5",
-    "title": "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property - Gizmodo",
-    "published": "2026-08-29T22:12:12+00:00",
-    "sent_at": "2026-08-30T01:18:07.392543+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KUlc2N0NFRnhPLWZVR3phdWNyNjJOb0RDZDhuZmdvRnNoQVYwOGJKcTJPbVl3a1RNUE5lRV8xWktzTHZqSXhsQkxIcVhsRS1ONlhz?oc=5",
     "title": "OpenAI Acquires Tens of Thousands of Macs for AI Reinforcement Training – Apple Secures High-Value AI Training Business from NVIDIA - 36 Kr",
     "published": "2026-08-31T01:14:25+00:00",
@@ -1180,5 +1108,17 @@
     "title": "Trump dines with Anthropic CEO, signals thaw in AI policy rift - CHOSUNBIZ - Chosunbiz",
     "published": "2026-09-28T01:03:00+00:00",
     "sent_at": "2026-09-28T01:43:22.418873+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c?oc=5",
+    "title": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing - Reuters",
+    "published": "2026-09-29T00:17:00+00:00",
+    "sent_at": "2026-09-29T01:49:16.312999+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "published": "2026-09-28T18:00:00+00:00",
+    "sent_at": "2026-09-29T01:49:16.312999+00:00"
   }
 ]

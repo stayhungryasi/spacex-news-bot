@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/",
-    "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
-    "published": "2026-09-01T18:15:54+00:00",
-    "sent_at": "2026-09-02T00:17:12.417650+00:00"
-  },
-  {
-    "url": "https://www.fox7austin.com/news/spacex-brownsville-water-projects-after-land-de-annexation.amp",
-    "title": "SpaceX pledges up to $220M for Brownsville water projects after land de-annexation - FOX 7 Austin",
-    "published": "2026-09-01T20:55:06+00:00",
-    "sent_at": "2026-09-02T00:42:43.673878+00:00"
-  },
-  {
-    "url": "https://www.tradingview.com/news/gurufocus:d74a01f97094b:0-technip-energies-jumps-8-on-a-possible-10-billion-spacex-deal/",
-    "title": "Technip Energies Jumps 8% on a Possible $10 Billion SpaceX Deal - TradingView",
-    "published": "2026-09-01T20:32:39+00:00",
-    "sent_at": "2026-09-02T00:42:43.673878+00:00"
-  },
-  {
-    "url": "https://www.investors.com/news/spacex-dod-starshield-ai-grok-military-openai-chatgpt-nasa-mission-spacex-stock/",
-    "title": "SpaceX, DOD Relationship Deepens With AI Integration. NASA Delays Space Station Mission. - Investor's Business Daily",
-    "published": "2026-09-01T20:24:00+00:00",
-    "sent_at": "2026-09-02T00:42:43.673878+00:00"
-  },
-  {
-    "url": "https://www.thestreet.com/investing/howmet-stock-drop-spacex-turbines",
-    "title": "SpaceX just targeted a key AI supplier: The stock tanked - thestreet.com",
-    "published": "2026-09-02T00:07:00+00:00",
-    "sent_at": "2026-09-02T00:42:43.673878+00:00"
-  },
-  {
-    "url": "https://www.fool.com/investing/2026/09/01/spacex-stock-price-challenges-september/",
-    "title": "The SpaceX Stock Price Faces 3 Big Challenges in September -- Here's What It Means for Investors. - The Motley Fool",
-    "published": "2026-09-01T20:32:00+00:00",
-    "sent_at": "2026-09-02T00:42:43.673878+00:00"
-  },
-  {
     "url": "https://www.basenor.com/blogs/news/faa-clears-starship-for-expanded-pacific-landing-zones",
     "title": "FAA Clears Starship for Expanded Pacific Landing Zones - BASENOR - Tesla Accessories",
     "published": "2026-09-02T17:05:14+00:00",
@@ -1204,5 +1168,23 @@
     "title": "Falcon Heavy to fly its first mission for U.S. spy satellite agency",
     "published": "2026-10-01T22:37:30+00:00",
     "sent_at": "2026-10-01T23:54:40.088723+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+    "title": "SpaceX describes surgical intervention before launch of latest crew mission",
+    "published": "2026-10-01T22:07:33+00:00",
+    "sent_at": "2026-10-02T01:54:33.743228+00:00"
+  },
+  {
+    "url": "https://www.orlandosentinel.com/2026/10/01/pictures-50-space-coast-launches-and-counting-in-2026/",
+    "title": "Pictures: 57 Space Coast launches and counting in 2026 - Orlando Sentinel",
+    "published": "2026-10-02T00:02:49+00:00",
+    "sent_at": "2026-10-02T01:54:33.743228+00:00"
+  },
+  {
+    "url": "https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/",
+    "title": "Canada Rocket Company plans first large-scale engine test site in London, Ontario",
+    "published": "2026-10-01T15:30:36+00:00",
+    "sent_at": "2026-10-02T01:54:33.743228+00:00"
   }
 ]

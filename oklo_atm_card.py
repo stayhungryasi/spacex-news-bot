@@ -90,15 +90,42 @@ def rows(e):
 
 
 def render_card(e, path, week_label):
+    import logging
+    import warnings
+    from pathlib import Path
+
     import matplotlib
     matplotlib.use("Agg")
-    try:
-        import koreanize_matplotlib  # noqa: F401  (나눔고딕 번들)
-    except Exception:  # noqa: BLE001
-        pass
     import matplotlib.pyplot as plt
-    plt.rcParams["text.parse_math"] = False   # "$" 를 수식 기호로 해석하지 않음
+    from matplotlib import font_manager
     from matplotlib.patches import FancyBboxPatch
+
+    # 한글 글꼴은 저장소의 파일을 직접 지정한다 (러너 시스템 글꼴·패키지에 의존하지 않음)
+    font_dir = Path(__file__).parent / "fonts"
+    regular, bold = font_dir / "NanumGothic.ttf", font_dir / "NanumGothicBold.ttf"
+    for f in (regular, bold):
+        if not f.exists():
+            raise RuntimeError(f"한글 글꼴 파일 없음: {f}")
+        font_manager.fontManager.addfont(str(f))
+    family = font_manager.FontProperties(fname=str(regular)).get_name()
+    plt.rcParams["font.family"] = family
+    plt.rcParams["text.parse_math"] = False   # "$" 를 수식 기호로 해석하지 않음
+    plt.rcParams["axes.unicode_minus"] = False
+
+    # 글자가 빠지면(□) 조용히 보내지 말고 실패로 올린다
+    missing = []
+
+    class _GlyphTrap(logging.Handler):
+        def emit(self, record):
+            msg = record.getMessage()
+            if "missing from" in msg or "does not have a glyph" in msg:
+                missing.append(msg)
+
+    trap = _GlyphTrap()
+    logging.getLogger("matplotlib").addHandler(trap)
+    warnings.simplefilter("always")
+    _warn_ctx = warnings.catch_warnings(record=True)
+    _caught = _warn_ctx.__enter__()
 
     BG, CARD, LINE = "#141416", "#1C1C20", "#2C2C33"
     INK, INK2, MUTED = "#F2F2F5", "#C9C9D1", "#8A8A96"
@@ -137,4 +164,9 @@ def render_card(e, path, week_label):
             color=MUTED, fontsize=7.6, va="center")
     fig.savefig(path, facecolor=BG)
     plt.close(fig)
+    _warn_ctx.__exit__(None, None, None)
+    logging.getLogger("matplotlib").removeHandler(trap)
+    missing += [str(w.message) for w in _caught if "glyph" in str(w.message).lower()]
+    if missing:
+        raise RuntimeError(f"카드 글자 깨짐 감지 — 발송 중단: {missing[0][:120]}")
     return path

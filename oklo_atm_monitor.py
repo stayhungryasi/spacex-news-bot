@@ -344,6 +344,7 @@ def main():
             lo, c, hi = est["sold_usd"]
             send_telegram_photo(card, f"오클로 2차 ATM 남은 물량 추적 — {now:%Y-%m-%d} (추정, 확정치 아님)")
             log = state.setdefault("weekly_estimates", [])
+            log[:] = [x for x in log if x.get("date") != now.date().isoformat()]   # 같은 날 재실행은 덮어쓰기
             log.append({"date": now.date().isoformat(), "sold_usd_low": round(lo), "sold_usd_mid": round(c),
                         "sold_usd_high": round(hi), "price": price, "basis": est["basis"]})
             del log[:-30]

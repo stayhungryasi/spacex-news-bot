@@ -107,6 +107,19 @@ def send_telegram(text):
         raise RuntimeError(f"텔레그램 발송 실패: {r.status_code} {r.text[:300]}")
 
 
+def send_telegram_photo(path, caption):
+    token = os.environ.get("OKLO_BOT_TOKEN", "").strip()
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    if not token or not chat_id:
+        print(f"[경고] 토큰/채널 미설정 — 이미지 저장만: {path}")
+        return
+    with open(path, "rb") as fh:
+        r = requests.post(f"https://api.telegram.org/bot{token}/sendPhoto",
+                          data={"chat_id": chat_id, "caption": caption}, files={"photo": fh}, timeout=60)
+    if not r.ok:
+        raise RuntimeError(f"텔레그램 이미지 발송 실패: {r.status_code} {r.text[:300]}")
+
+
 # ───────────────────────── 데이터 수집 ─────────────────────────
 def recent_filings():
     data = sec_get(f"https://data.sec.gov/submissions/CIK{CIK}.json", as_json=True)
@@ -133,6 +146,23 @@ def latest_shares_outstanding():
     except Exception as e:  # noqa: BLE001
         print(f"[XBRL] 발행주식 수 조회 실패: {e}")
         return None, None, None
+
+
+def price_history():
+    """2차 ATM 시작일 이후 일별 종가 [(date, close)] 와 최신가. 실패 시 ([], None)."""
+    try:
+        start = int(datetime(2026, 9, 10, tzinfo=timezone.utc).timestamp())
+        end = int(datetime.now(timezone.utc).timestamp())
+        r = requests.get(f"https://query1.finance.yahoo.com/v8/finance/chart/OKLO?period1={start}&period2={end}&interval=1d",
+                         headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
+        r.raise_for_status()
+        res = r.json()["chart"]["result"][0]
+        closes = [(datetime.fromtimestamp(t, timezone.utc).date(), c)
+                  for t, c in zip(res["timestamp"], res["indicators"]["quote"][0]["close"]) if c]
+        return closes, float(res["meta"]["regularMarketPrice"])
+    except Exception as e:  # noqa: BLE001
+        print(f"[가격이력] 조회 실패: {e}")
+        return [], None
 
 
 def latest_price():
@@ -247,7 +277,8 @@ def main():
     # 표지 발행주식 수가 2차 ATM 시작(9/11) 이전 날짜면 기준과 비교할 수 없다 (음수 착시 방지)
     comparable = bool(so and so_date and so_date >= ATM2_START)
     est_increase = (so - BASELINE_SHARES) if comparable else None
-    price = latest_price()
+    closes, price = price_history()
+    price = price or latest_price()
 
     sold = state["atm2_sold_shares"]
     trigger_shares = max(v for v in [sold or 0, est_increase or 0])
@@ -302,6 +333,25 @@ def main():
     lines.append("내부 투자검토용")
 
     send_telegram("\n".join(lines))
+
+    # 남은 물량 추정 카드 (실패해도 텍스트 보고는 이미 나갔으므로 경고만)
+    try:
+        from oklo_atm_card import estimate, render_card
+        est = estimate(state, now.date(), closes, price)
+        if est:
+            card = Path(os.environ.get("OKLO_CARD_PATH", "/tmp/oklo_atm_card.png"))
+            render_card(est, card, f"{now:%Y-%m-%d} 기준")
+            lo, c, hi = est["sold_usd"]
+            send_telegram_photo(card, f"오클로 2차 ATM 남은 물량 추적 — {now:%Y-%m-%d} (추정, 확정치 아님)")
+            log = state.setdefault("weekly_estimates", [])
+            log.append({"date": now.date().isoformat(), "sold_usd_low": round(lo), "sold_usd_mid": round(c),
+                        "sold_usd_high": round(hi), "price": price, "basis": est["basis"]})
+            del log[:-30]
+        else:
+            send_telegram("⚠️ 남은 물량 카드: 주가 조회 실패로 이번 주는 생략 (텍스트 보고는 정상)")
+    except Exception as e:  # noqa: BLE001
+        send_telegram(f"⚠️ 남은 물량 카드 생성 실패: {e} (텍스트 보고는 정상)")
+
     state["last_run"] = now.isoformat()
     save_state(state)
 

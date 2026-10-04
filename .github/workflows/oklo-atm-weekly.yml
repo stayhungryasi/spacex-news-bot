@@ -1,10 +1,23 @@
 name: OKLO ATM weekly
 
+# 감시 구조
+#  · 매일 2회(08:23·20:23 KST) SEC 공시 점검 — 사건(한도소진·2,700만 주·3차 ATM·신규 공시·자동 추출 실패)은 즉시 발송
+#  · 주간 보고 + 남은 물량 카드는 '이번 주 첫 실행'에 1회 (평소 월요일 08:23). 예약이 건너뛰어져도 다음 실행이 대신 보낸다
+#  · 자가진단(test_oklo_atm.py) 실패 · 어떤 단계든 실패 → 텔레그램 실패 알림 (침묵 금지)
 on:
   schedule:
-    # 매주 월요일 08:23 KST (= 일요일 23:23 UTC). GitHub cron은 UTC 기준, 정각 혼잡 회피.
-    - cron: "23 23 * * 0"
+    - cron: "23 23 * * *"   # 08:23 KST (GitHub cron은 UTC)
+    - cron: "23 11 * * *"   # 20:23 KST
   workflow_dispatch:
+    inputs:
+      force_report:
+        description: "주간 보고·카드를 지금 강제 발송"
+        type: boolean
+        default: false
+      dry_run:
+        description: "점검만 하고 발송·상태 저장은 하지 않음 (배포 검증용)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -16,7 +29,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
@@ -32,6 +45,9 @@ jobs:
           # 이 봇만 쓰는 카드 렌더링 패키지 — 글꼴은 저장소 fonts/ 에 포함, 다른 봇의 requirements는 건드리지 않음
           pip install matplotlib
 
+      - name: Self-test (parsing · estimate · card glyphs · send rules)
+        run: python test_oklo_atm.py
+
       - name: Sync latest state
         run: |
           git config user.name "github-actions[bot]"
@@ -43,6 +59,8 @@ jobs:
           OKLO_BOT_TOKEN: ${{ secrets.OKLO_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.SPACE8_CHAT_ID }}
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          OKLO_FORCE_REPORT: ${{ inputs.force_report || 'false' }}
+          OKLO_DRY_RUN: ${{ inputs.dry_run || 'false' }}
         run: python oklo_atm_monitor.py
 
       - name: Commit state if changed
@@ -51,7 +69,20 @@ jobs:
           if [[ -n "$(git status --porcelain state/oklo_atm_state.json)" ]]; then
             git add state/oklo_atm_state.json
             git commit -m "chore: update oklo atm state [skip ci]"
-            git push
+            for i in 1 2 3; do git push && break || { git pull --rebase --autostash; sleep 5; }; done
           else
             echo "No state change — skipping commit."
           fi
+
+      # 파이썬이 이미 실패를 알렸으면(/tmp/oklo_alert_sent) 중복 발송하지 않는다
+      - name: Notify failure
+        if: failure()
+        env:
+          OKLO_BOT_TOKEN: ${{ secrets.OKLO_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.SPACE8_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [[ -f /tmp/oklo_alert_sent ]]; then echo "already alerted"; exit 0; fi
+          curl -sS -X POST "https://api.telegram.org/bot${OKLO_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=⚠️ 오클로 ATM 감시 워크플로 실패 (자가진단·설치·상태 저장 등) — 다음 정기 실행에서 재시도. 실행 기록: ${RUN_URL}"

@@ -1,5 +1,8 @@
 {
-  "seen_accessions": ["0001104659-26-106909", "0001104659-26-106897"],
+  "seen_accessions": [
+    "0001104659-26-106909",
+    "0001104659-26-106897"
+  ],
   "atm2_sold_shares": null,
   "atm2_gross_usd": null,
   "atm2_as_of": null,
@@ -8,5 +11,5 @@
   "completed_alert_sent": false,
   "threshold_alert_sent": false,
   "atm3_alert_sent": false,
-  "last_run": null
+  "last_run": "2026-10-05T00:14:47.082403+09:00"
 }

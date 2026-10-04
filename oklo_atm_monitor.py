@@ -244,7 +244,9 @@ def main():
         state["completed"] = True
 
     so, so_date, so_form = latest_shares_outstanding()
-    est_increase = (so - BASELINE_SHARES) if so else None
+    # 표지 발행주식 수가 2차 ATM 시작(9/11) 이전 날짜면 기준과 비교할 수 없다 (음수 착시 방지)
+    comparable = bool(so and so_date and so_date >= ATM2_START)
+    est_increase = (so - BASELINE_SHARES) if comparable else None
     price = latest_price()
 
     sold = state["atm2_sold_shares"]
@@ -279,10 +281,13 @@ def main():
             lines.append(f"     근거 문구: “{state['atm2_snippet'][:240]}…”")
     else:
         lines.append("   · 공시 기준: 아직 판매량 공시 없음 (첫 확인 예정: 3분기 10-Q, 11월 10일 전후)")
-    if so:
+    if so and comparable:
         lines.append(f"   · 발행주식 수: {so:,.0f}주 ({so_form} 표지, {so_date} 기준)")
-        lines.append(f"   · 기준 대비 증가분(추정·상한): {est_increase:+,.0f}주")
+        lines.append(f"   · 2차 ATM 소화 추정(발행주식 증가분·상한): {est_increase:+,.0f}주")
         lines.append(f"     기준 {BASELINE_SHARES:,.0f}주 = {BASELINE_NOTE}")
+    elif so:
+        lines.append(f"   · 발행주식 기준 추정: 비교 불가 — 최신 공시 발행주식 수({so:,.0f}주)가 {so_date} 기준으로 2차 ATM 시작(9/11) 이전 자료")
+        lines.append("     → 3분기 10-Q 표지(11월)부터 계산됩니다")
     if price:
         lines.append(f"   · 현재가 ${price:,.2f} → $1B 완판 시 총 약 {ATM2_SIZE_USD/price/1e4:,.0f}만 주 필요")
         if state["atm2_gross_usd"]:

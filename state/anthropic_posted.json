@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0JCcDFiX0pScndEQWkwM1FBYXpPVEhPVVBhTFJoVV9JTW4xZllRX2MzLUI3UVJuTGdaZEROM2FPcXhPWGgxTm9WbFJpVkJXMmtMbzFUakpuVWZqRG5KY25GZzZNdlZpT1hweHZ3b3FJZVBtUUpVSTJINUUyMFhSM1AtMEpvaklaaFJKWXVn?oc=5",
-    "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement - The New York Times",
-    "published": "2026-09-05T09:03:10+00:00",
-    "sent_at": "2026-09-05T15:05:31.379735+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsQkxWVDFMTnFDZUl0VjZLNHN2dXJNOTJVWk9VY2IxXzZLVldnWHV1OTBQNFJQUnFUX2pKdXExcHI5VFRkRFU0TS1kWXFZQTU0ZGQzRDZfOWpkQ0UyUW9xbERnczlJTmVyNF8zWVgzSzdpMUVmYnAteHNB?oc=5",
     "title": "Redditors say Anthropic's expensive Claude plans offer far less usage than advertised - Mashable",
     "published": "2026-09-05T16:31:33+00:00",
@@ -1162,5 +1156,17 @@
     "title": "Claude Code 2.1.289 closes a second route past its rm guard, and stable is four builds behind - MIXED Reality News",
     "published": "2026-10-05T02:00:23+00:00",
     "sent_at": "2026-10-05T02:04:11.879077+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5",
+    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told - BBC",
+    "published": "2026-10-05T16:13:21+00:00",
+    "sent_at": "2026-10-05T22:33:37.215125+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmUzVVVySnJtNFBUYlhrMWlxY0xOMEVySFZTMzFlR25La0ZqSU00TlEtWTRMT3Z1ZE85S3dwTXg0LXZTV2JmeDZ5R1RYaU9qVGFtYzZrNnV4YXZMSEZ1bW5YUEFCQkZpV0t4V1NaRTI2VldmRGFwWEFLNkhzbzU0Nk9sQUpPRmVDNjg4YVBpMm5rR2hLR0FSYlhjZEhWemN2dHVWTW9mLS1mekdmU1RuSTBma2sta3B4T2p1Y3VmWUZnaG0zMmVNRENEOXZjZw?oc=5",
+    "title": "Anthropic whistleblower Jacob Coxon doubles down on AI warnings at NYC hearing: 'Extremely reckless' - New York Post",
+    "published": "2026-10-05T21:42:47+00:00",
+    "sent_at": "2026-10-05T22:33:37.215125+00:00"
   }
 ]

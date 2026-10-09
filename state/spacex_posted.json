@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/",
-    "title": "Flight 15 pairing undergo testing at Massey’s",
-    "published": "2026-09-09T20:22:02+00:00",
-    "sent_at": "2026-09-09T20:58:00.959930+00:00"
-  },
-  {
     "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
     "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
     "published": "2026-09-09T22:32:04+00:00",
@@ -1222,5 +1216,11 @@
     "title": "SpaceX Wants To Become A 'Major Mobile Carrier' With Low-Band Spectrum Acquisition - Engadget",
     "published": "2026-10-09T08:30:18+00:00",
     "sent_at": "2026-10-09T09:08:54.883777+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+    "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+    "published": "2026-10-09T18:24:39+00:00",
+    "sent_at": "2026-10-09T22:41:11.816188+00:00"
   }
 ]

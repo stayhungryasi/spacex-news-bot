@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://spacenews.com/spacex-confirms-plans-to-launch-starlink-satellites-on-next-starship-mission/",
-    "title": "SpaceX confirms plans to launch Starlink satellites on next Starship mission - SpaceNews",
-    "published": "2026-09-11T03:41:35+00:00",
-    "sent_at": "2026-09-11T04:48:44.786940+00:00"
-  },
-  {
-    "url": "https://www.businessinsider.com/spacex-strikes-billion-a-month-compute-deal-with-mystery-customer-2026-9",
-    "title": "SpaceX has struck a $1 billion a month compute deal with a mystery customer - Business Insider",
-    "published": "2026-09-11T11:01:19+00:00",
-    "sent_at": "2026-09-11T11:25:35.515162+00:00"
-  },
-  {
-    "url": "https://www.spacex.com/launches/mpower-f",
-    "title": "O3b mPOWER Mission - SpaceX",
-    "published": "2026-09-11T10:23:39+00:00",
-    "sent_at": "2026-09-11T11:25:35.515162+00:00"
-  },
-  {
-    "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61743369/spacex-starship-revenue-flight-14",
-    "title": "SpaceX Exec Says Starship Will Generate Revenue for First Time ‘Later This Month’ - Benzinga",
-    "published": "2026-09-11T15:25:56+00:00",
-    "sent_at": "2026-09-11T16:31:42.636566+00:00"
-  },
-  {
-    "url": "https://www.datacenterdynamics.com/en/news/spacex-signs-compute-contract-valued-at-133bn-annually/",
-    "title": "SpaceX signs compute contract valued at $13.3bn annually - Data Center Dynamics",
-    "published": "2026-09-11T16:07:13+00:00",
-    "sent_at": "2026-09-11T16:31:42.636566+00:00"
-  },
-  {
     "url": "https://finance.yahoo.com/video/spacex-signs-11-billion-per-month-computing-deal-195052486.html",
     "title": "SpaceX signs $1.1 billion-per month computing deal - Yahoo Finance",
     "published": "2026-09-11T19:50:52+00:00",
@@ -1222,5 +1192,11 @@
     "title": "Chipotle, Starbucks, Palantir, Intel, SpaceX, Wolfspeed, and More Stocks That Explain Today’s Market - Barron's",
     "published": "2026-10-10T20:59:05+00:00",
     "sent_at": "2026-10-11T01:26:24.477002+00:00"
+  },
+  {
+    "url": "https://www.spacex.com/launches/crs35",
+    "title": "CRS-35 Mission - SpaceX",
+    "published": "2026-10-11T17:50:07+00:00",
+    "sent_at": "2026-10-11T18:57:32.698757+00:00"
   }
 ]

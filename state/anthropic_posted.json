@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "published": "2026-09-10T20:57:30+00:00",
-    "sent_at": "2026-09-11T00:03:09.965200+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
-    "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times",
-    "published": "2026-09-10T21:50:37+00:00",
-    "sent_at": "2026-09-11T01:09:50.277634+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11eURtTHc1bkV6SnUyZXlsQTZLVENhWTc4NG8tU2dJaFU5emFBU1hHUGZSSFJYUldVbEk2THJjN1c2bzhuZ19NUndWUktRMndVTVVuckdzSzVuRjlTX0FyRzVzdHdycUcxRzFjMnpndk1fOFU?oc=5",
-    "title": "The AI safety vibe shift - Platformer",
-    "published": "2026-09-11T01:08:09+00:00",
-    "sent_at": "2026-09-11T01:09:50.277634+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcHF5UERyNHlHQnVwRnllYmRJQVYxSnloUGdDTnAzNHVQT1pyWDQweVNCUGdhSnNQNDNKdHpyYnVFdUdfZ1ZONllDSEJjTnAxbmZpZ05FeUhxN19wTE1ubU1meDdlYUhVUElWTjhFVVhkbHlpQkt0eDM1RXJyU0txQjFFVXF6a0dIS1dZNWFIa3BfU09KVUhJbTlSU3BwWi1qcDVDXy1oRHF1YmowalF4clRPUjgwcEcwZlJxMmtiblh5ZE0?oc=5",
-    "title": "Anthropic says it blocked 5 attempts to use AI for potential bioweapons development - Anadolu Ajansı",
-    "published": "2026-09-11T00:56:51+00:00",
-    "sent_at": "2026-09-11T01:09:50.277634+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVd0QmhZYjdKejdISGxEbEVXOGNpcDlkZlVRV0M5N013T012blR0bHlEeUNmMS1LTWVzU29DTk41TmoyMG5CWVF3aWpBOUFMbmtINkd4VVFqaXRpQ2ZYb3dWU0dSSlpNQ2RRYlBudjdXeHVnYWt0YTVpV1M5SXloZnNKbmRKTFdIcEEtWGMwaC1ZQQ?oc=5",
-    "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says - CNBC",
-    "published": "2026-09-11T00:48:00+00:00",
-    "sent_at": "2026-09-11T01:09:50.277634+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQTI0TzZfWHNURTJlYlpGQ291OEdTX0tIVHBydWtveloxa0FheGE2TXkwWkJiNlpmOV8yd2Z6ZWRYa3AtZXlrdEdzZU53ZE5oa0l1d2VMTUpybm9ZUjh5LVI4NzVJTDRQbkNzNVlHa0ZTcHpKUmgzTmJiSFotQWY1MnlUSjRKbkV2Z3BsRzRQOWZhcktfTzRLSzV1R3JYSjA2LW5sRDgxY1lMRlFBeDNHUVd4ZmxpazRHazNOY1ZJS2dYSHMtZkhuRXBjYWlJY1k?oc=5",
-    "title": "Anthropic Reports Chinese Labs Clone Claude Capabilities on Industrial Scale - pymnts.com",
-    "published": "2026-09-11T00:14:21+00:00",
-    "sent_at": "2026-09-11T01:09:50.277634+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
     "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - WSJ",
     "published": "2026-09-11T13:49:00+00:00",
@@ -1168,5 +1132,35 @@
     "title": "Exclusive: Anthropic breaches spark White House AI reporting mandate - Axios",
     "published": "2026-10-10T00:24:39+00:00",
     "sent_at": "2026-10-10T05:41:21.339046+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzYzFyWXcwLVRXZzdZcDZkM1dKWFNqcFRWY3ZNYU4yWFBzQ05BUE5nTzlTT21QNjdIdVVfUEl4YVI1Qi1mYW1qV21XaVN2T0c4Ry1rc3F0c1IxaVdGM1lNRE5WbVBidHNqRmc?oc=5",
+    "title": "Anthropic Tightens Claude AI Safety After Investigating Unexpected Actions on Government Websites - Kingy AI",
+    "published": "2026-10-11T01:21:05+00:00",
+    "sent_at": "2026-10-11T01:58:38.008712+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWNOVUkzc2pvVzNIRjdKRUhMcFpVNGllQWJwdEdtZmxGU1ZUN2daaFlnVkFMbTRMdW1wbTVzSjdSZDAzTDAwcDBIYVhQTVlHVFpmWWJKVzktMjdwVldOUUZaVHBITVJxc2tfQzd2WVpFR3JxMVZyOFZZYnpnbkFoMURaeWdWd1dqbFllWXF0SFEwN3EzWDhUOS1zQTJ0QQ?oc=5",
+    "title": "White House demands transparency after Anthropic’s AI agents called in a false Philly homicide tip and applied for visas - The Spokesman-Review",
+    "published": "2026-10-11T01:07:29+00:00",
+    "sent_at": "2026-10-11T01:58:38.008712+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDc0WE5fQnp3NW9oNjlRNTZFbm9yOUxSNDlsaW9uVzVicFIzaUFLVHhSWjZUbFJzWmNqTUZIbFhvMkZWZmYxV2dSWFRaQUJHY1V1VWZSb09hcF96MC1iMUYzVjdpNGgzWjBDSEpKZ2RhVG9FbnJvMFoxQjF0WlJkWkdsR3NwUdIBjgFBVV95cUxPSm45Snh0LXA1VzU2Z0FiTEhINWtoa1Jwa0hFRlRIM1pmQ05YN09EX0d0MV9qNng5dHNFZFota3BmM3VGNmwzSGEzcmhTZ2tyN3hnN3pxbzhfMDFtWWlwUzNrYTFxTTROUXlyLUNaZGVPT256elVBSEV1UnJBT1RqbWptbUJ4M25aQ2VyWmhB?oc=5",
+    "title": "Anthropic AI Test Sent False Philadelphia Homicide Tip - FindArticles",
+    "published": "2026-10-11T00:22:21+00:00",
+    "sent_at": "2026-10-11T01:58:38.008712+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdUIzQm5ZMldyemRuX3U2eEhRRlh3aDFiQjJpQlkwTVFxV3N6OG9yNUlOUGcxMlZXeF9SaUtrd2hvbXFOOW5TTHpTLU55aVJPd2R5U2t3TVdaZGFPcHhkVTFvbzJGZVl6SkNvSmlvWGUwTTJkclEzNkV1N3UzQzNtbG1mR081akIwWEh1UlIzSUE?oc=5",
+    "title": "Do AI Labs Like Anthropic and OpenAI Have Economic Moats? - Morningstar",
+    "published": "2026-10-11T00:22:10+00:00",
+    "sent_at": "2026-10-11T01:58:38.008712+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT25pYzl4UFp0RWZVU194bmRKcXR6cmRteGh4VDFwZzlIYkkxQkdJbDRBYXVYNHJkYkNiUVBWSTdqUk9PQUgwd1BIcnA2MkUwSjRRVW5tRDllVWo5QVdvNFBUU21JMEhfNHJLaG5wMC1hQ0gtMXByRmQ2Yms4Zjg5aHVzSkdjc2ViSkRjMGJyN1dQenpua1prb3B4T25rczRWSFFQenRn?oc=5",
+    "title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police - FOX 10 Phoenix",
+    "published": "2026-10-11T00:12:36+00:00",
+    "sent_at": "2026-10-11T01:58:38.008712+00:00"
   }
 ]

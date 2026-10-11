@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
-    "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - WSJ",
-    "published": "2026-09-11T13:49:00+00:00",
-    "sent_at": "2026-09-11T16:23:31.040616+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-    "title": "Claude users found ways around safeguards for bioweapons research",
-    "published": "2026-09-11T13:02:35+00:00",
-    "sent_at": "2026-09-11T16:23:31.040616+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzBaNFhKdzJCTms2U0RXWXZTRVN6TFFZS294ZjkwRkc1YmRlT19ZQ3Bsc1FXRktXVE93NnFqRlMwcDBWM2xjcW1wNnJrUEpTUVNsaWtDQXNwa1k5OVhUSUJNbFktYlItNFpCQlVORV84cjNpQ0hOVXFJQkhlNHZxTkw4NzQwRzg1eEVqMmtWVndtYzJCSmpHM1ZrUEdERlR2Uk1ySXZ3Z1JPMmpxWDJJU1hkbGdlN3po?oc=5",
-    "title": "Iran used Claude to target US Navy in Middle East, Anthropic says - Navy Times",
-    "published": "2026-09-11T17:15:25+00:00",
-    "sent_at": "2026-09-11T20:54:44.848596+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-    "published": "2026-09-11T18:41:49+00:00",
-    "sent_at": "2026-09-11T20:54:44.848596+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE?oc=5",
-    "title": "Rebels used Anthropic’s AI bot to develop guided weapons, report says - The Washington Post",
-    "published": "2026-09-11T19:54:47+00:00",
-    "sent_at": "2026-09-11T20:54:44.848596+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGRfWG9zNVZTZHlQbmdxVzNva2dteVZXa3d6RWNaOHBYSV93ZXZUN0NtUVVfWjB2TnFyVzVoUUZmRkJUS3YtbVowUGQ0WklNbU9HQnk4dnVld1J5dmpJVmV3OE8tRDcxaWt5WHZJZktZMVo1MUVCV3Q2Y3FDQTZDUElSdXVLbVpU?oc=5",
-    "title": "Governments are turning to Claude to automate spying - Axios",
-    "published": "2026-09-11T13:32:25+00:00",
-    "sent_at": "2026-09-11T20:54:44.848596+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
     "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say - Reuters",
     "published": "2026-09-11T23:13:59+00:00",
@@ -1162,5 +1126,11 @@
     "title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police - FOX 10 Phoenix",
     "published": "2026-10-11T00:12:36+00:00",
     "sent_at": "2026-10-11T01:58:38.008712+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNak91SVNpZkcxalQ3M2RINkFzMXdqY19UQVZsYTNyek9HWC03aFlScDVmZDRma0RtVkc4YTJTcDcwZDNqVEVhSFpuMzBDVk1PU2c2VDFuNGxMZjY4NHc4RmpISXUxUFZsTkdPcTg3VmFyTUtIVlBfTHh4c1RTaG5FbVFleEFtWkZKeGRxOU1QV2FPRGs?oc=5",
+    "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests - Search Engine Journal",
+    "published": "2026-10-11T22:07:32+00:00",
+    "sent_at": "2026-10-11T23:37:20.555432+00:00"
   }
 ]

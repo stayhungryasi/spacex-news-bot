@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://finance.yahoo.com/video/spacex-signs-11-billion-per-month-computing-deal-195052486.html",
-    "title": "SpaceX signs $1.1 billion-per month computing deal - Yahoo Finance",
-    "published": "2026-09-11T19:50:52+00:00",
-    "sent_at": "2026-09-11T20:59:58.114790+00:00"
-  },
-  {
-    "url": "https://www.basenor.com/blogs/news/spacex-starship-flight-14-targeting-september-18-launch",
-    "title": "SpaceX Starship Flight 14 Targeting September 18 Launch - basenor.com",
-    "published": "2026-09-11T21:03:44+00:00",
-    "sent_at": "2026-09-12T00:20:34.489016+00:00"
-  },
-  {
-    "url": "https://therealdeal.com/texas/2026/09/11/musk-sues-ken-paxton-grimes-county-to-block-terafab-records/",
-    "title": "SpaceX sues Ken Paxton, Grimes County to block Terafab planning records release - The Real Deal",
-    "published": "2026-09-11T20:30:00+00:00",
-    "sent_at": "2026-09-12T00:49:43.080464+00:00"
-  },
-  {
-    "url": "https://www.moomoo.com/news/post/76166508/commercial-returns-or-deep-space-exploration-each-starship-launch-by",
-    "title": "Commercial returns or deep-space exploration? Each Starship launch by SpaceX (SPCX.US) presents a strategic choice. - moomoo.com",
-    "published": "2026-09-12T00:34:57+00:00",
-    "sent_at": "2026-09-12T00:49:43.080464+00:00"
-  },
-  {
-    "url": "https://www.tradingview.com/news/gurufocus:b685faca2094b:0-spacex-just-added-a-13-billion-ai-revenue-engine/",
-    "title": "SpaceX Just Added a $13 Billion AI Revenue Engine - TradingView",
-    "published": "2026-09-11T21:11:12+00:00",
-    "sent_at": "2026-09-12T00:49:43.080464+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-    "title": "Some satellite companies still have an appetite for boutique launch services",
-    "published": "2026-09-11T23:34:45+00:00",
-    "sent_at": "2026-09-12T00:49:43.080464+00:00"
-  },
-  {
-    "url": "https://www.fierce-network.com/wireless/t-mobile-and-spacex-odds-not-panel-discussion",
-    "title": "T-Mobile and SpaceX at odds? Not at this panel discussion - Fierce Network",
-    "published": "2026-09-11T21:41:07+00:00",
-    "sent_at": "2026-09-12T00:49:43.080464+00:00"
-  },
-  {
     "url": "https://www.spacex.com/launches/mpower-f",
     "title": "O3b mPOWER Mission - spacex.com",
     "published": "2026-09-12T19:36:57+00:00",
@@ -1198,5 +1156,35 @@
     "title": "CRS-35 Mission - SpaceX",
     "published": "2026-10-11T17:50:07+00:00",
     "sent_at": "2026-10-11T18:57:32.698757+00:00"
+  },
+  {
+    "url": "https://www.bgr.com/2279797/spacex-new-nasa-record-explained/",
+    "title": "SpaceX Achieved A New NASA Record - Here's What It Is - BGR",
+    "published": "2026-10-11T21:17:00+00:00",
+    "sent_at": "2026-10-12T01:56:39.989201+00:00"
+  },
+  {
+    "url": "https://www.bgr.com/2279871/why-spacex-plans-to-catch-starship-instead-of-landing-legs/",
+    "title": "Why SpaceX Wants To Catch Starship Instead Of Giving It Landing Legs - BGR",
+    "published": "2026-10-12T01:04:45+00:00",
+    "sent_at": "2026-10-12T01:56:39.989201+00:00"
+  },
+  {
+    "url": "https://beincrypto.com/bank-earnings-anthropic-ipo-spacex-windfall/",
+    "title": "Bank Earnings Hinge on Anthropic IPO as SpaceX Windfall Fades - BeInCrypto",
+    "published": "2026-10-12T01:01:00+00:00",
+    "sent_at": "2026-10-12T01:56:39.989201+00:00"
+  },
+  {
+    "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/",
+    "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
+    "published": "2026-10-11T14:29:52+00:00",
+    "sent_at": "2026-10-12T01:56:39.989201+00:00"
+  },
+  {
+    "url": "https://www.ksby.com/news/launch-tracker/falcon-9-launch-from-vandenberg-space-force-base-scheduled-for-monday-evening",
+    "title": "Falcon 9 launch from Vandenberg Space Force Base scheduled for Monday evening - KSBY News",
+    "published": "2026-10-12T01:00:20+00:00",
+    "sent_at": "2026-10-12T01:56:39.989201+00:00"
   }
 ]

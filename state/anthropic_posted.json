@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
-    "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say - Reuters",
-    "published": "2026-09-11T23:13:59+00:00",
-    "sent_at": "2026-09-12T00:10:51.380984+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
     "title": "Detecting and countering misuse of AI: September 2026 - Anthropic",
     "published": "2026-09-10T17:10:27+00:00",
@@ -1132,5 +1126,11 @@
     "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests - Search Engine Journal",
     "published": "2026-10-11T22:07:32+00:00",
     "sent_at": "2026-10-11T23:37:20.555432+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "published": "2026-10-08T18:19:42+00:00",
+    "sent_at": "2026-10-12T02:27:32.826037+00:00"
   }
 ]

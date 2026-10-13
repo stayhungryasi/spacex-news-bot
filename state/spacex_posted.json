@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://www.spacex.com/launches/mpower-f",
-    "title": "O3b mPOWER Mission - spacex.com",
-    "published": "2026-09-12T19:36:57+00:00",
-    "sent_at": "2026-09-12T22:20:16.472075+00:00"
-  },
-  {
-    "url": "https://ts2.tech/en/faa-lists-september-18-for-starship-flight-14-spacex-hasnt-confirmed-it/",
-    "title": "FAA Lists September 18 for Starship Flight 14—SpaceX Hasn’t Confirmed It - TechStock²",
-    "published": "2026-09-12T23:12:45+00:00",
-    "sent_at": "2026-09-13T00:31:29.042169+00:00"
-  },
-  {
-    "url": "https://www.basenor.com/blogs/news/spacexs-444-acre-starbase-expansion-5-details-that-matter",
-    "title": "SpaceX's 444-Acre Starbase Expansion: 5 Details That Matter - BASENOR - Tesla Accessories",
-    "published": "2026-09-12T22:05:37+00:00",
-    "sent_at": "2026-09-13T00:31:29.042169+00:00"
-  },
-  {
-    "url": "https://www.techi.com/spacex-spcx-ai-capex-segment-shift/",
-    "title": "SpaceX spent 13 times more on AI than on rockets last quarter - techi.com",
-    "published": "2026-09-12T20:30:59+00:00",
-    "sent_at": "2026-09-13T00:31:29.042169+00:00"
-  },
-  {
-    "url": "https://ng.investing.com/news/stock-market-news/spacex-weighting-in-nasdaq-100-set-to-more-than-double--bloomberg-2693864",
-    "title": "SpaceX weighting in Nasdaq 100 set to more than double - Bloomberg - Investing.com Nigeria",
-    "published": "2026-09-13T00:18:04+00:00",
-    "sent_at": "2026-09-13T00:31:29.042169+00:00"
-  },
-  {
-    "url": "https://simplywall.st/stocks/us/telecom/nasdaq-spcx/space-exploration-technologies/news/what-is-spacex-spcx-fixing-at-colossus-as-starlink-nears-a-s",
-    "title": "What Is SpaceX (SPCX) Fixing At Colossus As Starlink Nears A Spectrum Boost? - simplywall.st",
-    "published": "2026-09-12T21:27:18+00:00",
-    "sent_at": "2026-09-13T00:31:29.042169+00:00"
-  },
-  {
     "url": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/",
     "title": "SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES",
     "published": "2026-09-13T16:45:33+00:00",
@@ -1186,5 +1150,29 @@
     "title": "Falcon 9 launch from Vandenberg Space Force Base scheduled for Monday evening - KSBY News",
     "published": "2026-10-12T01:00:20+00:00",
     "sent_at": "2026-10-12T01:56:39.989201+00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/technology/ai/articles/spacex-bundles-grok-x-cursor-000517004.html",
+    "title": "SpaceX Bundles Grok, X, And Cursor Into New Subscription Tiers - Yahoo Finance",
+    "published": "2026-10-13T00:05:00+00:00",
+    "sent_at": "2026-10-13T03:18:02.714942+00:00"
+  },
+  {
+    "url": "https://www.moomoo.com/news/post/1000978875/investment-bank-pivotal-remains-bullish-on-spacex-spcxus-becoming-the",
+    "title": "Investment bank Pivotal remains bullish on SpaceX (SPCX.US) becoming the fourth-largest carrier in the U.S. following its $8 billion spectrum acquisition, reaffirming its \"Buy\" rating. - Moomoo",
+    "published": "2026-10-13T01:55:02+00:00",
+    "sent_at": "2026-10-13T03:18:02.714942+00:00"
+  },
+  {
+    "url": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
+    "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites from California",
+    "published": "2026-10-12T22:21:40+00:00",
+    "sent_at": "2026-10-13T03:18:02.714942+00:00"
+  },
+  {
+    "url": "https://theeagle.com/image_262e5634-ded8-40c8-9d2f-86fce80f36df.html",
+    "title": "US-NEWS-SCI-SPACEX-LAUNCH-FILEPIC-OS - Bryan College Station Eagle",
+    "published": "2026-10-13T01:27:28+00:00",
+    "sent_at": "2026-10-13T03:18:02.714942+00:00"
   }
 ]

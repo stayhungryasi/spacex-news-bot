@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://pulse2.com/spacex-says-next-starship-flight-will-be-its-first-revenue-generating-mission/",
-    "title": "SpaceX Says Next Starship Flight Will Be Its First Revenue-Generating Mission - Pulse 2.0",
-    "published": "2026-09-14T11:05:20+00:00",
-    "sent_at": "2026-09-14T12:52:47.257703+00:00"
-  },
-  {
     "url": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
     "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
     "published": "2026-09-14T17:25:17+00:00",
@@ -1180,5 +1174,11 @@
     "title": "SpaceX imposes unannounced speed limit on Starlink terminals used by Ukraine’s Defense Forces - Ukrinform",
     "published": "2026-10-14T07:15:00+00:00",
     "sent_at": "2026-10-14T07:41:14.845047+00:00"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cm2d6e62p49do",
+    "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says - BBC",
+    "published": "2026-10-14T13:11:17+00:00",
+    "sent_at": "2026-10-14T13:45:56.602750+00:00"
   }
 ]

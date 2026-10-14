@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
-    "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
-    "published": "2026-09-14T17:25:17+00:00",
-    "sent_at": "2026-09-14T19:24:24.388215+00:00"
-  },
-  {
-    "url": "https://www.inc.com/kit-eaton/spacex-is-about-to-put-its-starship-rocket-to-work-for-the-first-time-this-is-whats-riding-on-the-high-stakes-launch/91405045",
-    "title": "SpaceX Is About to Put Its Starship Rocket to Work for the First Time. This Is What's Riding on the High-Stakes Launch - inc.com",
-    "published": "2026-09-14T19:15:51+00:00",
-    "sent_at": "2026-09-14T19:24:24.388215+00:00"
-  },
-  {
-    "url": "https://aviationweek.com/space/launch-vehicles-propulsion/faa-clears-starship-sept-22-flight-test",
-    "title": "FAA Clears Starship For Sept. 22 Flight Test - Aviation Week",
-    "published": "2026-09-14T21:09:13+00:00",
-    "sent_at": "2026-09-14T23:09:45.562880+00:00"
-  },
-  {
-    "url": "https://wabcradio.com/2026/09/14/spaxex-to-sue-texas-ags-office/",
-    "title": "SpaxeX to Sue Texas AG’s Office - 77 WABC",
-    "published": "2026-09-14T22:07:07+00:00",
-    "sent_at": "2026-09-14T23:09:45.562880+00:00"
-  },
-  {
     "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4600256/spacex-signing-several-multi-billion-dollar-deals/",
     "title": "SpaceX Signing Several Multi-Billion-Dollar Deals! - The Globe and Mail",
     "published": "2026-09-15T00:33:45+00:00",
@@ -1186,5 +1162,17 @@
     "title": "FAA kicks off review of SpaceX’s bid to fly Starship nearly every day - Teslarati",
     "published": "2026-10-14T17:37:30+00:00",
     "sent_at": "2026-10-14T18:39:33.618611+00:00"
+  },
+  {
+    "url": "https://aviationweek.com/space/launch-vehicles-propulsion/debrief-spacex-asks-pick-pace-starship-flights-texas",
+    "title": "Debrief: SpaceX Asks To Pick Up Pace Of Starship Flights In Texas - Aviation Week",
+    "published": "2026-10-14T21:49:24+00:00",
+    "sent_at": "2026-10-14T23:16:27.914768+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+    "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+    "published": "2026-10-14T13:56:11+00:00",
+    "sent_at": "2026-10-14T23:16:27.914768+00:00"
   }
 ]

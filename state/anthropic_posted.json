@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDg3dC1KTGZCUzVUbnNPOGpvSUZHdUhZTlI0eEJjYmdFUE1ZT3RaV29jd3ZJamtjakVRTnNKbE0zcVFETmtSaC1RRXZHTS1GNG56UV8tYkJkbnJpVEVwSzM4MnhpZ3o2bkhkM3Y0aWVNcW1QT0dJVlZoTUlzc0JfaWhvS2phRVE3dVYyYnpzSmJ3UzhZRWVVb0FSblpxUDA?oc=5",
-    "title": "Anthropic selects Nasdaq for IPO, Business Insider reports - Reuters",
-    "published": "2026-09-13T16:23:45+00:00",
-    "sent_at": "2026-09-13T20:42:50.863210+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEJ6YVJJNkh0djM5TC1ZNW9wSkJoeU1nMDA1dmpxeW5XdjR1cmVlZzUzeEJLbHFfQm9KMFNhbkY2S2N1bHV1V2xncGtBMERtRzItTlFqUEFBVHZ0LUJwSDY2eTA5c21rS3hEdzBlWVZNMHgyalBTbnZ3MjgtbEozU00yUnY?oc=5",
-    "title": "Anthropic tells investors it will be profitable for second straight quarter - Financial Times",
-    "published": "2026-09-13T22:29:46+00:00",
-    "sent_at": "2026-09-14T00:06:03.671319+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWDlyZmc0bTdPci16TFF0TjNaY2lKWWlaamhvMWhjNDU3UmJ3S0cxbmdnSUZFTEQyeHNsSnJOZ1owbVpQZWlDYk04VUlhampOSWNibUFyRTExbGJMSFlndzRtRGJTMlh0b3JaVi1JRXZ6elJyUWl6MlY4cG52LTVIWW5uNWtLMDl3MEl5OTdNWS0tRC1HT2w2d0pBcEgxNlR5S0RDdHpiUGhZY04tcGRZMkpWd3NsbjdfWHV0SW1QeVdCUjZkZTlkc3lJMlphbUxN?oc=5",
     "title": "Anthropic tells investors it will be profitable for second straight quarter, FT reports - Reuters",
     "published": "2026-09-13T22:54:53+00:00",
@@ -1114,5 +1102,11 @@
     "title": "AI models may soon self-replicate without access to data centers, Anthropic warns - Reuters",
     "published": "2026-10-13T05:14:00+00:00",
     "sent_at": "2026-10-13T06:41:14.542815+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUxXc0hJVk5xRzdVTE5hQ2h2LWdnS21nUEZRVVFwX0dVZHJ5QUU1NUxmZUgydXVrRS1jSVNDRmtSVU1YYTh2RURQT0NQcEozdXdIb0FFM1RLakVTRXJFYTl4RU9kQXRPTUM5Vm1uVktaQ1NXaXp2Z3UySW5ZVktRTU5ZNGVocUszOTZV?oc=5",
+    "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices - The Guardian",
+    "published": "2026-10-13T20:56:00+00:00",
+    "sent_at": "2026-10-14T01:08:54.567476+00:00"
   }
 ]

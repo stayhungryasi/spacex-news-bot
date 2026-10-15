@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1menNzc0phaC1EUEpQRkdOLWRqTjM4U05TYy1iOVZfWHRyOENPWjI0djdCX1VfNG1QTkh3WmNnazljQlZQNzZXUm5ib3k1R0tndU1rbEZJVFNleGJkQ1hmbEhtTQ?oc=5",
-    "title": "Anthropic moving forward with $2 trillion IPO on Nasdaq - qz.com",
-    "published": "2026-09-15T12:41:57+00:00",
-    "sent_at": "2026-09-15T16:51:41.164795+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "published": "2026-09-15T15:47:03+00:00",
-    "sent_at": "2026-09-15T16:51:41.164795+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3FpWWR5WjA3RnlNXzc0eHk3OUplMDhxQldqdFNHYVpFcnpPTlJVd3hjdy1xT0RzY012ei1NQmZTS1dIbE9ZOUxjTkVuOHBzRXFXRmg1b1c5WUNVMDI5VTBPYk45dEppeGhZYm9nYWNodkEyRVdkZ0ZmMUVBeVhpTWROcGRnTmp5VXI0M3ZuM0FnTUNjTE1yQWlHNTFmeXptcDFzd1k3ZFpOZw?oc=5",
     "title": "OpenAI, Anthropic and Google working to create AI standards body - CNA",
     "published": "2026-09-16T01:06:14+00:00",
@@ -1150,5 +1138,11 @@
     "title": "FTC opens probe into safety of AI, including Anthropic and OpenAI - ABC News - Breaking News, Latest News and Videos",
     "published": "2026-10-15T07:47:27+00:00",
     "sent_at": "2026-10-15T11:19:48.870481+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+    "published": "2026-10-15T15:43:24+00:00",
+    "sent_at": "2026-10-15T16:51:45.938861+00:00"
   }
 ]

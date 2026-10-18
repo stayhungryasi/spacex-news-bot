@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0RJcUpHb0dTLUZYRlF2TDRIUmd6OFpZdUpyMXlna2FGai1nNl83RDBxR1RIdjNGNnk1ZU5QSWNyUmgzREpLTTU4aU9KMkpQTXZpa3E0RjE1SEhsSk5oQmd3bEFNMkx3eVA4dXI1VDZkc3B5ZjhsbkU?oc=5",
-    "title": "Anthropic says its chatbot Claude is taking over the work of building its own successor - washingtonpost.com",
-    "published": "2026-09-17T23:45:07+00:00",
-    "sent_at": "2026-09-18T00:07:48.464555+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
     "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
     "published": "2026-09-17T23:59:43+00:00",
@@ -1162,5 +1156,35 @@
     "title": "Pentagon gives Anthropic ultimatum on AI technology: Sources - ABC News - Breaking News, Latest News and Videos",
     "published": "2026-10-17T20:04:05+00:00",
     "sent_at": "2026-10-17T23:58:16.235872+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNk85UDhheTRLWlR3YUtHQ2FjUnU2dVg5Q3dIa1Y4b1p5bS1XajV1REJSMWotUUN4XzZLZGNIajBmRm45M0p5aTdBb0p3R082SHJFNVVXcFRKXzZBZGJsRURfWXhBNmRNdEJYYnJsaGVGM3ZNSXV5UE1NSkZTS0hSU2FsSS1nUVBnSGtBdGk2Sm11S0xqUkZNT3dRTDNTNVpwel9lS0pycU9jZHkxZUFRb1FCemdJdDdKUkhr?oc=5",
+    "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action - Mother Jones",
+    "published": "2026-10-17T19:25:21+00:00",
+    "sent_at": "2026-10-18T01:08:30.152240+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "published": "2026-10-17T18:48:08+00:00",
+    "sent_at": "2026-10-18T01:08:30.152240+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOXg1cnVLam5kdlRzekpwZ2ppalNIaHlYU1poOW9IQlJUMDlOc09zX2RZU2NtckE0bE9KWW1hQ3VGS185MTdSaHNFYnBlYTg0UVY2V2xKWEZUbWlTLTJlX0tFU053c05kaW1heTNxT2nSAXZBVV95cUxNMjJTd05DdHhXYVlhNDdrTWdhTk5XYkpYbEFORE9QeFJZLXhIU21ISjV4akVoVUt4b0w3VHZuUzBnQ3gyQm5Ec2swaGJKMFlqbkRkcm5KcjI3QkFlR04tVHJSalZDQUl2WFJHSDhyUVVGeWpMT1NR?oc=5",
+    "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers - CNBC",
+    "published": "2026-10-17T23:04:00+00:00",
+    "sent_at": "2026-10-18T01:08:30.152240+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "published": "2026-10-17T20:21:19+00:00",
+    "sent_at": "2026-10-18T01:08:30.152240+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ISnJVa0FFYzFaaHAwUkpFRHJlTllhRGNuUmE3bE9zSkkxYVdvYXlyRG10MEVoOV9qT1BFQVI5a291UGdjTTExZlJub3dRc3d5VFhnaHNiRWVQa296NndQV2FMWWpHeC1lWXJMWTh3?oc=5",
+    "title": "Anthropic Co-Founder Predicts US GDP to Surge 50% in 4 Years Through AI - news.sbs.co.kr",
+    "published": "2026-10-18T00:51:30+00:00",
+    "sent_at": "2026-10-18T01:08:30.152240+00:00"
   }
 ]

@@ -11,7 +11,7 @@
   "completed_alert_sent": false,
   "threshold_alert_sent": false,
   "atm3_alert_sent": false,
-  "last_run": "2026-10-18T23:42:04.475661+09:00",
+  "last_run": "2026-10-19T10:24:51.776102+09:00",
   "weekly_estimates": [
     {
       "date": "2026-10-05",
@@ -28,7 +28,15 @@
       "sold_usd_high": 387500000,
       "price": 34.7,
       "basis": "1차 ATM 속도 적용 추정 (2차 판매량 공시 전)"
+    },
+    {
+      "date": "2026-10-19",
+      "sold_usd_low": 190000000,
+      "sold_usd_mid": 316666667,
+      "sold_usd_high": 475000000,
+      "price": 27.97,
+      "basis": "1차 ATM 속도 적용 추정 (2차 판매량 공시 전)"
     }
   ],
-  "last_weekly_week": "2026-W42"
+  "last_weekly_week": "2026-W43"
 }

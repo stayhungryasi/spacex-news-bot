@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
-    "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
-    "published": "2026-09-19T22:05:00+00:00",
-    "sent_at": "2026-09-20T01:14:09.250268+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94TWRzRUxyeElVa2tCdXVmaXRGaUkzYXZVdFhORVVFY3F5cWpuWnozbmE5U0ROSVl4Q0tQc2d5cW4wRVFZQkVnQnVpc9IBQkFVX3lxTE1mdzZTd25TVTBESUIzeUM3ZXViOUdzeDlZQjMtdWdpTGljU0lFRmJUTHdqMnhiR2dHSW93ZHpMRkhXZw?oc=5",
-    "title": "Anthropic Builds a Biology Lab, AI Experiments Start to Be Brought to the Real World - VOI.ID",
-    "published": "2026-09-19T23:30:00+00:00",
-    "sent_at": "2026-09-20T01:14:09.250268+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVJCQTVnT0RPemxaLUJvOHBqRHZxU0w4YjlEQ3pPUnV3X2owRE44bXVTa3oyYnYxSUtqTnp4ZW9XV1dIeXdOcmtDc3VvWGNXelNoOFlETzV1NVJ0NXB1dlZrX0NUbUNCUVhmSzdLTnByUnBQc25TckpsVkFJMlA5QnpjdWRjUUp3WjVpRjNzSFFnc01BN0FVVFVER2NOeWRPNVVHeHdDUEVyY2M3?oc=5",
-    "title": "Op-Ed: AI welfare, AI mismanagement, and Anthropic’s critical AI dilemma - Digital Journal",
-    "published": "2026-09-19T23:15:04+00:00",
-    "sent_at": "2026-09-20T01:14:09.250268+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94UjJ3QUFFLXJmWk5ybjRma012Xy15aFR5TEZoRXFfcEtLcGVfQWFPQndEcjRyMENETkkwRHBRakZMZDZQXzZZcFFJWF9XLWszcGVIWnBQWHp1d00?oc=5",
-    "title": "Not all AI workers think the tech could kill everyone - BBC",
-    "published": "2026-09-19T23:01:57+00:00",
-    "sent_at": "2026-09-20T01:14:09.250268+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fdmRkSHlxZk5Fd0NzMENMcml4bE5BX2YxdWM0eGcxX0VLT0I2RUFGWWZaVExRUEpjdGRnNThUbTRqT3NGdGRSMDlXTHpZeWFqaWVZUWo1bDhrV3BUTGtFMmVBYTRVVkRjclRqdlJsN2RVX1lUY1E?oc=5",
-    "title": "Anthropic's IPO Delayed to November as Price War and Safety Fears Cloud $2 Trillion Ambitions - finance.biggo.com",
-    "published": "2026-09-19T22:25:00+00:00",
-    "sent_at": "2026-09-20T01:14:09.250268+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWp5cTZXc0VwMGkzZWNRM29aQ09xbG0ta1BvaEVxT3AxLW1PdHZzMEV4MEZBemgyVFNjVEpEMHUtUTg3TVZwcElQNkJtUDhybzNTdFh2Sk5iTjM1a3pUUkNyTVBBbDl2dTR5U2t0MTJxN3NWbzZaX0p4UzB1RTJiRklSeno3WUtRdk5IUWxMZ1hQb05RUjJ5cVFhVFE5Y0IxOVdfTEdkemhMRVRpMnp1LUJPQVJaWFNk?oc=5",
     "title": "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries - PYMNTS.com",
     "published": "2026-09-20T22:07:43+00:00",
@@ -1138,5 +1108,35 @@
     "title": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com",
     "published": "2026-10-19T19:24:06+00:00",
     "sent_at": "2026-10-19T23:34:03.996399+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "published": "2026-10-19T23:39:38+00:00",
+    "sent_at": "2026-10-20T01:52:43.769886+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR3VEUXU1UU9sakpKWXRFcDBqMEZnVWVLcHkzM0l4MXlFWjNEeDZnVFRYRmJYaVpqSnhiM2R1d3dYMGFBdmpBUk0xZDA5cTdwTDlmajBDZ3Nxb0MteGkyUzFzQ0pNTk4tLVFSQnMxZVRnNndlaHR5LWxjdTg5UXJWOVJyTElFNHRKblAzSk5yMjB4RGZMT3BzQzA0TXdDQnNDYzFkLTNwaC1DeVpFaFVFTFFB0gG3AUFVX3lxTE9QdG1HVzgyanE3Q1RBNG9RVzlhN1AxLTZfenhNVml6WmJGbTNCX21YNDRQczdic2xBSFQyU21LeGVfcHVwRnEzd2g2azdRakJrZ19GQWpjRkxaYWtJcjFIbXJiNmZSTkpFSUNGNHJtMGpfM012YUlqOXJyZjFCekhQeTc5cnpsMVlVZGkwZnFXaGpkWl9OTVhrUU9rNFhVeDZjNU9aU2FVNkRyc2U2ZzZzVXdvOTZZaw?oc=5",
+    "title": "Who gets a share of AI wealth? Anthropic and Musk have different answers - Firstpost",
+    "published": "2026-10-20T01:27:29+00:00",
+    "sent_at": "2026-10-20T01:52:43.769886+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0VwNzZtcF9VZ2RYR0UybzB5Y01rSmxqZTlIWG1iMHdISC1raGxFQ1loeXBjNUhJYkstRDZab1lUTTlqVGxFdUFKVXhDOWMxSks5cVlGbGtHMDJGWHBiVmFvS0N5Z3hISF9JM1VUeTcyNWtfNEo2dGFsRFRLX21CczByX3BqU21vRm1LNXA2aVFQZlQ2SXd6S3M4UzRRV0ZURDl4dXJGcXhOVjBiMVIwdXByNTVIT2t0TkNZU3N1M2Zrdw?oc=5",
+    "title": "OpenAI races to raise $30 bln ahead of Anthropic IPO, Reuters reports - Investing.com",
+    "published": "2026-10-20T01:05:46+00:00",
+    "sent_at": "2026-10-20T01:52:43.769886+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWThRTmJMNC1KVzljdDNvb1pkU3JrZ0xwRnBiQ3NOQUhlWHpkVks4WlhPTlJPQ3I2X0VGMk8tMkU3X1I2YjN2ZTN1U1VwOWhkTUY3M0ktUzJEQXNBTkd3cC1YS283OWRUTUp5LUxrdGJzT2pxTkdZWWsxQlpPb3J4ZnhDc05WVzNzZ19FNEdGbFJSSUNTc2RuREJ6ZjU0cjdncmc?oc=5",
+    "title": "Nscale Negotiates $45 Billion AI Computing Deal with Anthropic - GuruFocus",
+    "published": "2026-10-20T00:49:29+00:00",
+    "sent_at": "2026-10-20T01:52:43.769886+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3cEt0WFNpOS1HOWhYYkhFdGFZRDFKUlIwTTRtSDJLaHI3MEZONk9Lc0VLUXlXOVZCLTAydnJQMWducVZQRk43S1hDay1VYjh1Y0E?oc=5",
+    "title": "$85 Billion in Cash: Why Anthropic Is Not Worth $2 Trillion - Emerald Book",
+    "published": "2026-10-20T00:35:45+00:00",
+    "sent_at": "2026-10-20T01:52:43.769886+00:00"
   }
 ]

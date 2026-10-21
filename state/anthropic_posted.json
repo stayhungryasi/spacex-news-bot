@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWp5cTZXc0VwMGkzZWNRM29aQ09xbG0ta1BvaEVxT3AxLW1PdHZzMEV4MEZBemgyVFNjVEpEMHUtUTg3TVZwcElQNkJtUDhybzNTdFh2Sk5iTjM1a3pUUkNyTVBBbDl2dTR5U2t0MTJxN3NWbzZaX0p4UzB1RTJiRklSeno3WUtRdk5IUWxMZ1hQb05RUjJ5cVFhVFE5Y0IxOVdfTEdkemhMRVRpMnp1LUJPQVJaWFNk?oc=5",
-    "title": "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries - PYMNTS.com",
-    "published": "2026-09-20T22:07:43+00:00",
-    "sent_at": "2026-09-21T01:10:48.656887+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PUFZrTjRSRkdMNXFTNVI5eTR2MGg4NVhxMHlQYzdwZTZkTk0wZmRVZkNzOUhVbGtMRXl2VUZFOWdFY0ZDN2NxWU51OGtZRVFuLUtRLVhCNjBCM0R1VUNYdm1pX2xYRFR6OVlRdWVn?oc=5",
-    "title": "\"Anthropic Weighs Early Release of New Model Amid Astra's Rapid Rise\" - news.sbs.co.kr",
-    "published": "2026-09-21T00:49:14+00:00",
-    "sent_at": "2026-09-21T01:10:48.656887+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvSUswTm52amdmZFdTcjMxaEVpSDNjbnRWZlF5V21GSWQ4MXI0eTFSZ1ktN2NtUlRpdWF1YWI4V1RTQ0VIbGRYN3dCRGh0V2VKU2pNMEYtS3R4MHlXQU1LUThXOEYzWUc3TVdabnZCcFlnSWlmc1E?oc=5",
-    "title": "Anthropic Taps Accenture for $1 Billion AI Safety Evaluation Pact - finance.biggo.com",
-    "published": "2026-09-21T00:35:00+00:00",
-    "sent_at": "2026-09-21T01:10:48.656887+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejA1VTNKNWhGLXpWWm5kUDd3X2NjX1NHZmxsSVVRR2VKZzI3aEZlU0UwZ0YyTmhGWUZSUFFsRlJlb18tSU5SOEd4TUw1QVhNNHFPMXhrUDBGS3hJX0hfNFhPbXl6OHJMMmNsS2RuRFNUeVBkN1hoaXVjQ0ZSLXAybHhpRGNhd3ptUW1mQXl4eE93NUNkUzRZenFiY0swWjYw?oc=5",
-    "title": "Anthropic Opens Biology Beta With 30-Day Flagged-Data Retention - quasa.io",
-    "published": "2026-09-20T23:34:00+00:00",
-    "sent_at": "2026-09-21T01:10:48.656887+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0FPQ0VKbmx0R3owbHpGWC1EWXQtbm4wUnVlRUgxRUJQNmNnWG5pS2QxNmJ2YThSSHpzMVBhQkZoMU9WMFBtbjc3N3pldGRlMEFkeG13VW1QSndKMDBqRndlSUZRZHdLWEVWTTBlNnIzaWg0Rmgtc21Vc3E2aXdfdFFqZGlWMC1IWi01c3hDYURJaUw0YkJRcU9Ualk3Q255YWMybzJSVVp1aUszODdDaWVrNndSQ2wwd05z0gHAAUFVX3lxTE9PSU5TOGljWHd4c0d0c2ZScnhtNjQ4ZFVRM09waHl0YU5tdG5zOTZHWTBOZDhwQkU2YXhTSHJIdTBMbi0yVGNBNzJCczhWQlRIVU1YUkdjYy1WRHdscW53R1dFRmZDaXBVbVlmUGlYMEZXckIyUG9oWGRWRVpXS0d3TTZDTWJ3NVAxLThERGI3RlFqX1U5OXpieW5vZF91Qi1VLUExRjl4a3NubldjSmtBYVByX1UzeGhSOXpjMUgyZQ?oc=5",
-    "title": "Anthropic warns AI is beginning to accelerate its own development - Qatar Tribune",
-    "published": "2026-09-20T22:48:06+00:00",
-    "sent_at": "2026-09-21T01:10:48.656887+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXlPcXEwYlg5N3A0bjFFTTFxWDZqZUdqSHFOSlA1SXJCSm04MnhsUUFFaG9KNUU0blFIOW1jQUdxcjJoQTRGSV9uRTdrSEQ0WU1fcHZ4cDBvWkxvRy1qQkQyVTFVWFNfdGZCc05QYVk0NHdnd3hHbjlaLTE2TkdQV29rbzJLZGpRZUhZTGpTVmR2bGktMURJaTViUGtKdzFzU2Fr?oc=5",
     "title": "OpenAI, Anthropic, Google and SpaceXAI Hit With Antitrust Lawsuit Over Alleged AI Slowdown Pact - lawcommentary.com",
     "published": "2026-09-22T00:32:14+00:00",
@@ -1150,5 +1120,35 @@
     "title": "Anthropic’s cloud partnerships are getting messy",
     "published": "2026-10-20T21:25:22+00:00",
     "sent_at": "2026-10-21T00:33:36.195589+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VNkRtQVc2UUZVVmgyWUJOQU5RSjdCMjQ0V1JuczVKVmxoME1pQ295LWZ5a3J1M21SWk1yWUtGQ01pbTN3bFVldVVmc01QLXNYYlBqRi04UnZ4VWR5NzU1dTZuYzFxRVA5enZObVVFeE1sVURIVFp1NGVn?oc=5",
+    "title": "How Claude designed protein binders against scorpion neurotoxins - Anthropic",
+    "published": "2026-10-20T17:03:55+00:00",
+    "sent_at": "2026-10-21T01:39:16.191610+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "published": "2026-10-20T17:55:12+00:00",
+    "sent_at": "2026-10-21T01:39:16.191610+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBV0N0VkdVSjQ0RXM2T1p6aEswYnp1VkZDMkFaVkl5cHpSWGNtUkhFdzB1aTVSLWFieUVITzdIeHAtV1pvQ0NIVm9MdHBtZEloMnNsTQ?oc=5",
+    "title": "Anthropic May Spend Up to $750 Billion on AI Infrastructure Ahead of IPO, WSJ Reports - bloomingbit",
+    "published": "2026-10-21T01:10:32+00:00",
+    "sent_at": "2026-10-21T01:39:16.191610+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByMFNVMVFKQnJoQmRfVGZ4SWNYTmJHMHlrUVVuSV8yU1AtbFUtQkhFSnh6dWxYMXZNc0pmU1BIcEw4a0swTWhrd1VnZXJkMW9Qdm95dkZGazZuNE5WanE4ODhVZWx1S3c?oc=5",
+    "title": "Who Made Money on the SpaceX IPO? A Warning for Anthropic - Memeburn",
+    "published": "2026-10-21T00:32:36+00:00",
+    "sent_at": "2026-10-21T01:39:16.191610+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUERNc0tRaVcxc2JFR2pHQU1JcHRkZk5ySTVXUHlsOFhxaE5mdGJjOTY5ek9HQTFNdzVzQmtpcFY5LTlEako5aHRPSnBXdmg1ZVZ0N0JpRUEyS1dma28xUF9IdEVxRnM1ZjB3eHpMSGhjb1dlc0JvYmtBYjJqQmsxWTN3?oc=5",
+    "title": "DeepSeek Opens DeepInfer, Presses OpenAI, Anthropic [2026] - shattered.io",
+    "published": "2026-10-21T00:26:32+00:00",
+    "sent_at": "2026-10-21T01:39:16.191610+00:00"
   }
 ]

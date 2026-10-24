@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://www.aero-news.net/index.cfm?do",
-    "title": "NASA Orders Three More SpaceX Crew Flights - Aero-News Network",
-    "published": "2026-09-23T04:01:08+00:00",
-    "sent_at": "2026-09-23T07:47:32.845433+00:00"
-  },
-  {
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-astronaut-launch-for-nasa-now-set-for-oct-1-after-delay",
-    "title": "SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay - Space",
-    "published": "2026-09-23T13:00:00+00:00",
-    "sent_at": "2026-09-23T13:40:29.427498+00:00"
-  },
-  {
-    "url": "https://nz.news.yahoo.com/elon-musk-starship-megarocket-heading-161156621.html",
-    "title": "Elon Musk’s Starship megarocket is heading to orbit for the first time. Here’s how to watch - nz.news.yahoo.com",
-    "published": "2026-09-23T16:11:56+00:00",
-    "sent_at": "2026-09-23T18:25:26.959038+00:00"
-  },
-  {
-    "url": "https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/",
-    "title": "SpaceX stack Starship and Super Heavy for first orbital flight",
-    "published": "2026-09-23T21:47:00+00:00",
-    "sent_at": "2026-09-23T22:58:34.314219+00:00"
-  },
-  {
-    "url": "https://finance.yahoo.com/technology/articles/nasa-946-million-spacex-award-222539616.html",
-    "title": "NASA’s $946 Million SpaceX Award Extends Crew Dragon Through 2030, But Redundancy Remains Uncertain - finance.yahoo.com",
-    "published": "2026-09-23T22:25:39+00:00",
-    "sent_at": "2026-09-23T22:58:34.314219+00:00"
-  },
-  {
-    "url": "https://finance.yahoo.com/technology/articles/nasa-946-million-spacex-award-222539616.html",
-    "title": "NASA’s $946 Million SpaceX Award Extends Crew Dragon Through 2030, But Redundancy Remains Uncertain - Yahoo Finance",
-    "published": "2026-09-23T22:25:39+00:00",
-    "sent_at": "2026-09-24T00:59:29.196328+00:00"
-  },
-  {
-    "url": "https://www.fool.com/investing/2026/09/23/spacex-can-t-join-the-s-and-p-500-before-june-2027-and-its-losses-could-keep-it-out-longer/",
-    "title": "SpaceX Can't Join the S&P 500 Before June 2027 -- and Its Losses Could Keep It Out Longer - The Motley Fool",
-    "published": "2026-09-24T00:51:23+00:00",
-    "sent_at": "2026-09-24T00:59:29.196328+00:00"
-  },
-  {
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-edgecortix-looks-to-work-with-spacex-on-space-data-center-chips",
-    "title": "Japan's EdgeCortix looks to work with SpaceX on space data center chips - Nikkei Asia",
-    "published": "2026-09-23T23:14:00+00:00",
-    "sent_at": "2026-09-24T00:59:29.196328+00:00"
-  },
-  {
-    "url": "https://broadbandbreakfast.com/trump-administrations-bead-overhaul-aided-spacex-levin/",
-    "title": "Trump Administration's BEAD Overhaul Aided SpaceX: Levin - Broadband Breakfast",
-    "published": "2026-09-23T22:56:45+00:00",
-    "sent_at": "2026-09-24T00:59:29.196328+00:00"
-  },
-  {
-    "url": "https://www.klfy.com/video/one-acadianas-involvement-in-spacex-development/12199940/",
-    "title": "One Acadiana’s involvement in SpaceX development - KLFY.com",
-    "published": "2026-09-23T23:16:17+00:00",
-    "sent_at": "2026-09-24T00:59:29.196328+00:00"
-  },
-  {
     "url": "https://www.techspot.com/news/113977-spacex-may-stop-flying-falcon-9-after-2028.html",
     "title": "SpaceX has stopped taking Falcon 9 bookings past 2028, betting everything on Starship - TechSpot",
     "published": "2026-09-24T15:53:00+00:00",
@@ -1162,5 +1102,35 @@
     "title": "Musk’s public endorsement of SpaceX-Tesla deal could complicate talks - Reuters",
     "published": "2026-10-22T22:57:30+00:00",
     "sent_at": "2026-10-23T01:07:54.326751+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+    "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+    "published": "2026-10-23T11:00:57+00:00",
+    "sent_at": "2026-10-24T01:16:39.521626+00:00"
+  },
+  {
+    "url": "https://www.investing.com/news/company-news/spacexs-40bn-ai-debt-deal-faces-hurdles-amid-credit-market-turmoil--bloomberg-4970497",
+    "title": "SpaceX’s $40bn AI debt deal faces hurdles amid credit market turmoil - Bloomberg - Investing.com",
+    "published": "2026-10-23T22:57:59+00:00",
+    "sent_at": "2026-10-24T01:16:39.521626+00:00"
+  },
+  {
+    "url": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-and-space-x-form-merger-committees-as-profits-drop-while-rivian-buys-ai-startup-and-gm-ford-advance-ev-plans/cZUG5xVRBU9",
+    "title": "Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans - Stocktwits",
+    "published": "2026-10-24T00:58:00+00:00",
+    "sent_at": "2026-10-24T01:16:39.521626+00:00"
+  },
+  {
+    "url": "https://www.wbrz.com/news/spacex-to-lease-ul-lafayette-property-on-pecan-island-before-buying-it",
+    "title": "SpaceX to lease UL Lafayette property on Pecan Island before buying it - WBRZ",
+    "published": "2026-10-23T23:14:02+00:00",
+    "sent_at": "2026-10-24T01:16:39.521626+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+    "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+    "published": "2026-10-23T11:30:22+00:00",
+    "sent_at": "2026-10-24T01:16:39.521626+00:00"
   }
 ]

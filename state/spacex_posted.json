@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.techspot.com/news/113977-spacex-may-stop-flying-falcon-9-after-2028.html",
-    "title": "SpaceX has stopped taking Falcon 9 bookings past 2028, betting everything on Starship - TechSpot",
-    "published": "2026-09-24T15:53:00+00:00",
-    "sent_at": "2026-09-24T17:14:25.088322+00:00"
-  },
-  {
-    "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
-    "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission - NASA (.gov)",
-    "published": "2026-09-24T21:16:35+00:00",
-    "sent_at": "2026-09-24T21:33:11.052121+00:00"
-  },
-  {
     "url": "https://www.teslarati.com/google-suncatcher-spacex-orbital-ai/",
     "title": "Google just picked SpaceX for its first step into orbital AI - Teslarati",
     "published": "2026-09-24T23:21:33+00:00",
@@ -1138,5 +1126,11 @@
     "title": "SpaceX just pulled in $14.6 BILLION in three months. That's a hell of a quarter. Revenue jumped 161% in a year, and Starship has now started earning its keep. Its first commercial mission delivered 26 Starlink V3 satellites into orbit, adding roughly 10X the do - X",
     "published": "2026-10-24T14:30:00+00:00",
     "sent_at": "2026-10-24T15:59:57.916066+00:00"
+  },
+  {
+    "url": "https://satnews.com/2026/10/24/spacex-returns-to-profitability-with-4-4-billion-third-quarter-on-starlink-and-compute-growth/",
+    "title": "SpaceX Returns to Profitability With $4.4 Billion Third Quarter on Starlink and Compute Growth - SatNews Publishers",
+    "published": "2026-10-24T20:43:29+00:00",
+    "sent_at": "2026-10-24T22:30:47.378384+00:00"
   }
 ]

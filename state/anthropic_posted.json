@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-    "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-    "published": "2026-09-23T18:00:00+00:00",
-    "sent_at": "2026-09-23T18:22:31.984315+00:00"
-  },
-  {
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "published": "2026-09-22T16:00:00+00:00",
-    "sent_at": "2026-09-23T22:55:13.621535+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVGZCZ3prNmhaQXp3bkxTeWlRWlpjYUkxV2V0UWJGTy01dTFZQ2NoLXlXQWtVQ3lySFJsZmNuMDRWMWZQbmhfUGpqN3VsbFlPZ1ltNl9HQQ?oc=5",
-    "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI - UN News",
-    "published": "2026-09-24T00:48:09+00:00",
-    "sent_at": "2026-09-24T01:28:22.786230+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEFSX0g4QlZFMHlEMHpKWjNpZ05zZHdUSFplcHd2dnhZWWQ2N1pkSjUwR1c0bUFWVmpKYVBhcXQ2cTJra09fU1ZiV3k2NHNwUUE1aWVhVS1YUmhsM3czMkc1VDUta3JDaHV5b0h5ZW16Y2dsWWFXWnlJeTBIaWt6dUt2UUp1bzFHb2RlZzZZdVZDWmZfdFpwek1RTm16OE9FR3E5V3pJMlktZXptdXJUb0llVWxZaFY4WlYw?oc=5",
-    "title": "At U.N., tech leaders urge global effort to limit AI’s risk to humanity - The Washington Post",
-    "published": "2026-09-24T01:20:09+00:00",
-    "sent_at": "2026-09-24T01:28:22.786230+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmdCdmZkWkVaS3VyR0hKaHVDdTFtRGRtZjB6a3hSbGV2TFJyOThtS1o0R013dFBOZXRfT05LZk51VjBmdGlIN3NrVDMyV1hZUUh2T1E1bWR2WEZXREFZWGFfZ3d2NHh0cEwwaDV2MHF3a2xwSDdXZEs0TEhmbDNNWFZfQXlVNmdjS2J0UlVkdVRYd2xwSmFr?oc=5",
-    "title": "Anthropic Claims Claude Uncovered a Brand-New Enzyme System Inside Virus DNA - Android Headlines",
-    "published": "2026-09-24T00:05:55+00:00",
-    "sent_at": "2026-09-24T01:28:22.786230+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lQ0VQbDllbmZEMFBSMk1ESkNLeDVLamdRWUNIa1REbUhUTUJZQjVxc2J3eG1PeFNIMTRDZTJnNE9qd0pzbUFidFhyMHFMcjJPMmg4?oc=5",
-    "title": "Anthropic's AI finds an overlooked enzyme system hiding in phage DNA - FirstWord",
-    "published": "2026-09-23T23:06:56+00:00",
-    "sent_at": "2026-09-24T01:28:22.786230+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQi1hWGxSQmlBOGo3dGxMY1hpTV95WTUzWEJ4XzVqek14QmtOVWR5VHBpaDVsV3VhRVlwSnhkYlFJOVFXeVk3V1dUYXZ0UFhXbTZpYlJTMjE1V1RpekIxRnFBWURpSENmWGNYR3ZnN1dZLV9sVEZjS04tR19GUkhTeFhSeWJKcDlmUGI3anJtUkRFekHSAZMBQVVfeXFMUEItYVhsUkJpQThqN3RsTGNYaU1feVk1M1hCeF81anpNeEJrTlVkeVRwaWg1bFd1YUVZcEp4ZGJRSTlRV3lZN1dXVGF2dFBYV202aWJSUzIxNVdUaXpCMUZxQVlEaUhDZlhjWEd2ZzdXWS1fbFRGY0tOLUdfRlJIU3hYUnliSnA5ZlBiN2pybVJERXpB?oc=5",
-    "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What - Decrypt",
-    "published": "2026-09-23T22:56:03+00:00",
-    "sent_at": "2026-09-24T01:28:22.786230+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc?oc=5",
     "title": "Akamai, Anthropic sign $11.6 billion cloud services deal - Reuters",
     "published": "2026-09-24T20:11:23+00:00",
@@ -1162,5 +1120,35 @@
     "title": "Anthropic’s Elevator Problem: Persuading Investors to Share Its AI Dream - The Information",
     "published": "2026-10-23T00:30:00+00:00",
     "sent_at": "2026-10-23T01:35:00.023904+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPT0R4ZTBtQWtQMTBJWGx2NGV2TVNxRl9aa2liNDQ2SGJFVFEta0I2M2lhaEkwR2hWMmxDMlZXamdQYkpFRkU1Wl9PN3JOLXljb3JuTFJ1Z0wwTFp6ZVlqQkRnVHpZOW1uMkpnR0hUYzkzZm9BXzNXSEQ1cnBic2M2cHpqM0FSempQUGNoQzVhWmdyQksxcVN4QVJGZ2NSaEZ3N0pZMno3SFFIQm9ORVBaWWhkM25DQm1pRkIzd1dyOEZvSmxtMnRBTkxYSXp5dW1IZmhNTC1CczY2T0ZDVlBPT1NvZnZ2YXRxLXZxbklsVnQtSVoxQWlsd0hlbVBEUkxpbTNlNUlBRUJmUXdpQ3BCaUVEQTR0SjRVQTdxQw?oc=5",
+    "title": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026 - RIABiz",
+    "published": "2026-10-24T01:14:02+00:00",
+    "sent_at": "2026-10-24T01:39:30.311134+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jMXNpV19MTWRVNy1Sc2ptbkJ5bUpjZ0ZQT1c3dGhKcUtBa2N3aWJEUy1NRjd1d0xHUEdNTm1Ua0RDVUE4c3RlMVBMVVJUMjRRcUZzWGtFRXhFeTg?oc=5",
+    "title": "TeraWulf’s 20-year lease agreement with Anthropic expected to generate $19B in revenue - Fox Business",
+    "published": "2026-10-24T00:13:42+00:00",
+    "sent_at": "2026-10-24T01:39:30.311134+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV3dqUk5faExZdzlTVHlwNVg1WHF1N3l4M3ZpTUJ1VDNCMll2TnA0NUxTQjJsYmVacF95Ui1mbk4yMXMzTFNTQVRNVnI4NW5VX3ZOZ1pfQVljR0Rvd2t0c0pIMVhSb0pnV3pGX3NJODNWUmRicUkySVlQMTlObUdrV19XbXBPS2trZGxTVXFjUnRhRjV0UXFHYm1yNGdGWEVZcE56VE45V1FVSV9JOHBTLXZGR3poWGF5d3I4c05B?oc=5",
+    "title": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project - SiliconANGLE",
+    "published": "2026-10-23T23:28:00+00:00",
+    "sent_at": "2026-10-24T01:39:30.311134+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEgtSy0yTlpneW1Oa2l0NkVTV29zRjdpNXZ5eXBiSmt1dWRwMWV2bU90UE0xZU84T0NLUF9UNFNyRl9GaUZvS0xVRVhxNkgyT0hUSEFmeDJ1eXNIeHFzZnkyeVR3WjJCRDdKZ3lyNFV0eFAwSndyNlljNnQ4NzZpYnJybzZlUVF2Yzhqdm9EV0didDBLZ3B2RWVKczRuY05QY2ZaRUhPQ2praDFGeGNUTWx3?oc=5",
+    "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic - Bloomberg.com",
+    "published": "2026-10-23T23:01:00+00:00",
+    "sent_at": "2026-10-24T01:39:30.311134+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbVMxbXlyS2JEMTBHUmllX1hralpkMy11VTFfdUtlR3pTa1RyYkZTZUJvNkx2MF9yRVVJMElUVUhzQUtYdGFRamxlM2NTVDk5WFJ5TDJZbS1qUzJQUXJQTUZxSGtQVUlSN2J6ZGhUTzBuQ2FfaGdRQTRJVnRocVdZZGluMlp6Y05uTkFlZG5hQWU5YldkNTBmTnk4Uy12Rl9kcmJJMWxwSWN4WlhCVkJvVnJQT0tDQTdqbUlLak1IR1FKejNudC01cVFWOEZSWXhkbXBZbnA3bGhYWEh6NHQ2TVpyaHA1UQ?oc=5",
+    "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa - The Register",
+    "published": "2026-10-23T22:36:11+00:00",
+    "sent_at": "2026-10-24T01:39:30.311134+00:00"
   }
 ]

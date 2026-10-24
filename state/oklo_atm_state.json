@@ -11,7 +11,7 @@
   "completed_alert_sent": false,
   "threshold_alert_sent": false,
   "atm3_alert_sent": false,
-  "last_run": "2026-10-24T00:48:01.646169+09:00",
+  "last_run": "2026-10-24T10:43:10.646398+09:00",
   "weekly_estimates": [
     {
       "date": "2026-10-05",

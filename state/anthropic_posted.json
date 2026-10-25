@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc?oc=5",
-    "title": "Akamai, Anthropic sign $11.6 billion cloud services deal - Reuters",
-    "published": "2026-09-24T20:11:23+00:00",
-    "sent_at": "2026-09-24T21:27:26.462677+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5",
     "title": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review - Politico",
     "published": "2026-09-24T16:43:00+00:00",
@@ -1150,5 +1144,35 @@
     "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa - The Register",
     "published": "2026-10-23T22:36:11+00:00",
     "sent_at": "2026-10-24T01:39:30.311134+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTh5TVotQUREU29MT1BHc3JwV0p6X2FiUjlIbllhX3hkaWpxZnNMUzkyMHU0elBhRFBlUmJKWTE1X1k3VmhFQ056RFZ2cHV3ZS1jcW1hQXN6djRLcFNjNmdIeEFpY3FZU1RFVkZPM296WDNwOEM1S3R3WU9kSGhJeVFqRUhpVG1NWWZlczdYWW5veElSaG9SM1JGeGpRUUZ5bUNQMHpKOU9udVpISzdCUjFPNkRIWFk?oc=5",
+    "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission - Rolling Stone",
+    "published": "2026-10-24T18:28:26+00:00",
+    "sent_at": "2026-10-25T01:15:20.863930+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaURKclZiTXFBamI0c05icXZaamhMeFRBRjNBMjNDX3FHMnVoRFl1YzNhOWF6ekVGdGJnWGx5LWZZcGhYTFJmb0pSYVk0MU5aSzlhVWdMcEhqZlRBYldVN3hPS1pxb1RWT1ZEdjBfb3UtbnNjS19ud25SMTV6ZnNKUDhFMDZHLU1tRFcxQlJqUWFkZ0RicEhLdA?oc=5",
+    "title": "Anthropic unveils Claude Duet, its answer to AI agents like Dots - Yahoo Tech",
+    "published": "2026-10-25T00:25:00+00:00",
+    "sent_at": "2026-10-25T01:15:20.863930+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KR1lVTVhRM0xJamFELVV5THBNeEhKNDk2U2dLX1RCNGdUZFpZc2FyTjRkNkpxLVQ3MGRNU0hLSjBaYUFUa1p1Rl9EOG1UeU1GbElINmg1Sks2VXF3UVRuelhNQ09VeHdBYzZKaTZNczZQdDlqdXlrV3ZmTQ?oc=5",
+    "title": "Claude Duet keeps working when your laptop is off, but uses your plan's limits - MIXED Reality News",
+    "published": "2026-10-24T23:19:08+00:00",
+    "sent_at": "2026-10-25T01:15:20.863930+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNVRycmlWXzJTdWtVSVZMbkN2SlVsVEhpUTktdFVuX1g0RmNGNjV4WUhaTjlCMTZmVEg1dWVlSkRWUjJuWGd4bXNvU2dqOXFScG9QMnNrUmJNMmZKNXJtMmp3?oc=5",
+    "title": "Who Is Dario Amodei? The Anthropic CEO Behind Claude - The Profile | Polina Pompliano",
+    "published": "2026-10-24T20:35:29+00:00",
+    "sent_at": "2026-10-25T01:15:20.863930+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNkF2a3dXRzRRMmR0Q0s2UE1jSXNqaDVnRF9WMExzWE1zbDhWR2FzdTBmRFl6enlNZzlvS2l6djFvcGE2U0Vsc09wd0NHbkFTa0lXMWh5dVVKRHJQSkFQVjRMT081M1IwbkE0N2FXeXhBeEpxVE9JakJmeHJXcngxZjZsaDhfMFpmc1VUblBhSE1mbUJQU0xSVllsRlBvZ3liOUFkZ0Q0X0RFbGhnekZqSWZEV3hJY3VaM0FSRG9ENDIzMUpPOVNpaXYwbTVFZ9IB0wFBVV95cUxPekI4dURzZW5KRHhXUlhoYk5TdmNJX2dQODNmZU82dHV6Yk9HOUJqY3R5QnVvYzdTenpMZU5tRUNidkMteHNFRnFHZXlTdWl5RUw3Y0ZSTTZoRUtvcElJYk1lZndVcFU2WE44ZkdRNHVUSWFfUHg4cW5PTGYxdmVYOE5hejZOVHVJMi1VSjZNckx2dEJYa2dYNVA3UHhpRUFxYThQZWdwb3lwb2VMb3pESFhkYWJaZjlZQ2xPRGVTMXpCOEpjWHpXbkg2MWxpdzFtTmlz?oc=5",
+    "title": "Britain is building the world's first AI biosecurity lab, with OpenAI and Anthropic inside - WION",
+    "published": "2026-10-24T20:07:00+00:00",
+    "sent_at": "2026-10-25T01:15:20.863930+00:00"
   }
 ]

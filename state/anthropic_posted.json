@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "published": "2026-09-27T20:34:28+00:00",
-    "sent_at": "2026-09-28T01:43:22.418873+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1V4cHRDMlBrTDlxNlRReXJ5S2lkWFZWRmpFY3g3ZUlHbENldDRnRGRhTVhsZnU4bTZPLUNvbmlQenhqSndSSEtDVEVHQXU1VWpMSThJVWlVbHBTMkpScFVZUUdkSk1jZHJwaDhlQV9BR2dwUlNDVnlmY1Rtd0xuTWxxLVl2Y2M5NEhlWHp6Q2UwNXJSZVE3LWV3WF9ad21iSS1r?oc=5",
-    "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - AP News",
-    "published": "2026-09-27T18:13:00+00:00",
-    "sent_at": "2026-09-28T01:43:22.418873+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSk1qOGxtaGFlS09COTdKOHk1S2NDRnFURlN3ejJvcHE3THNIQUdHblZESVdzMzBpWnc3ZV9OLUstajZtbkppdkRUd0tOR1c5S1hEdzZSVGlHZV9JRTRvMUtja1lZSVVKclJiMlVYR1QxTDhVYVhqUmhaZW8yNzJHTDRmdGVFd1lDZlIwQW1lZDViRnJuRVFucTZwWERTZEFJdlNUR18ySU54WEdUcVdMdmY2NWk3QkdpM3ZIZ2dR0gHDAUFVX3lxTE1waGdnZmxOMXdNU1BPT2hHb1p5dGR1LVgxazBvemRyUkxZRk9wNHFKVFlSZ0dVWjloNTVlaWI5eVdheFZKVjNFbUdOQ25MZktlVThMTVdNN3RXUjdFRUhkOUQ3QWZUOENnOFE0U0ZWOWl1OFp0SWJSbElIWnhseWtTQUFxQTlfRGUxY1lEZzM5TDA5Q3hXYkszMmEwRWtoQ2JlQzRCZ0hHNGFITG1SbFk1UjBXWWxWMlhkeUczaE45Rzdvdw?oc=5",
-    "title": "Anthropic CEO Amodei to dine with Trump at White House - The Manila Times",
-    "published": "2026-09-28T01:11:00+00:00",
-    "sent_at": "2026-09-28T01:43:22.418873+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUlQRzRuZHlvaFpXODRLd1VReWRib3BnX0VHNHpfWktaaXJfTnBndWQxaW1vdUd3aDdnVkp2aWtLR0NfRTluMmlqeEU2M3JhOFBkV0xEeVpOYXFIZ3F4U1BSV2hqbER6UTU2RWt5ZTkydVI1dDlnZFlOb2RHazZpVFBSaUZSZm53UmJzcjBacUJUcGx5UGZBMTh1aTQ?oc=5",
-    "title": "Concerns Rise Over AI Risks as Anthropic's CEO Meets Trump - gurufocus.com",
-    "published": "2026-09-28T01:03:19+00:00",
-    "sent_at": "2026-09-28T01:43:22.418873+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMGhIbXBiTzd1SFkzaW0wbHR5Q3BBNmg1ZFR2YlNEWm5yRXdkNGhqMVkwajZkaWdVc1JMSDlwQklXRVgteHZKYWlsR1psMWVzOHluMHZfX2lJU2lWNFp2Z1J6MGRoUS10QTBTUDViWm5KdTRQUDN3NkN30gGOAUFVX3lxTE9BVFEzR2V0bTdjR2k5YTMyYjg5MWFlV01waGVQdURMbnVrNGtMWFdiMEZYRlRJdFB1dFZSZlpsRnZRVXJzTllmQXVZbTVHUk1JQ1VXZFJJWjg5N01FSVExMjVqaldsRUdxSzIxQkxlc09NWWY4djhWVVJKQ2t6VjVYUDJvZ1htZkhXaFRxNWc?oc=5",
-    "title": "Trump dines with Anthropic CEO, signals thaw in AI policy rift - CHOSUNBIZ - Chosunbiz",
-    "published": "2026-09-28T01:03:00+00:00",
-    "sent_at": "2026-09-28T01:43:22.418873+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c?oc=5",
     "title": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing - Reuters",
     "published": "2026-09-29T00:17:00+00:00",
@@ -1144,5 +1114,35 @@
     "title": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement - The New York Times",
     "published": "2026-10-27T05:05:00+00:00",
     "sent_at": "2026-10-27T12:01:27.392307+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxxMllvRjN2M1VzSVJVSU5xNnJmamxXSTA3a3dWU2VLeW1sZjhLbDhLcXoyakFIYjFCVktFMFNfM3JaenA5UjFMRTE2cEVVTXdlN3l0eUpQN2d3cXM4VUhZc3owSGdUTDF2N01pT0U2WTVIXy12bDBtRS1ZUjNob3YtYUVkUU5hVEdxVVFjaEpHMVdfVHNHY1ktOEtLa2c5?oc=5",
+    "title": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal - WSJ",
+    "published": "2026-10-27T17:50:00+00:00",
+    "sent_at": "2026-10-28T02:20:52.856609+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5",
+    "title": "Early progress on accelerating drug development with Claude - Anthropic",
+    "published": "2026-10-27T20:20:53+00:00",
+    "sent_at": "2026-10-28T02:20:52.856609+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0F5Y1FhMzdTUEljckNrTHVhQ2tpOGdheFE0dUNKeGtuM0JPdFU5MWpXOEN6NnJWRUpDaGhSdDdWeTNMTXpFUW13WXhObjRFRGhWc2N6eklnT3dzTXhrZ3RicjZvdjNMUjF0U1FZN210TU1BR1VIU2lXWTdjUHlWdGZmMVhaRGtwWGpxeEx5b09YMTktRWhJd0hmYw?oc=5",
+    "title": "Anthropic's record IPO faces some big questions - Yahoo Finance",
+    "published": "2026-10-28T01:38:00+00:00",
+    "sent_at": "2026-10-28T02:20:52.856609+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government - Anthropic",
+    "published": "2026-10-28T01:16:46+00:00",
+    "sent_at": "2026-10-28T02:20:52.856609+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0hza3dNdjUwV2kxTjduRGwzRjluVTU0TXJiRWY2WElramdvXzR1MGJtazJ5RXNvcXFrQ3JEVklNdnpCb2E1bUQ5cmRhNmxmM0tpS2hfZHZrZWRQaGtqSWNmZElVMXBvVWU2MUZ4b3hxdEI5U2JwNzFEVGFWMWcyV0xKNnlMSUpVTU5HM2dINHhUeTRFd2hXS2JtRGh0UWpNaWRZRzNDV2RxUlgxS0dJSEIydnk4eFE?oc=5",
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more - TechCrunch",
+    "published": "2026-10-28T01:15:28+00:00",
+    "sent_at": "2026-10-28T02:20:52.856609+00:00"
   }
 ]

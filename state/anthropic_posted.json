@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.anthropic.com/news/barclays-scales-claude",
-    "title": "Barclays scales Claude to upgrade operations and improve client experience",
-    "published": "2026-09-30T16:00:00+00:00",
-    "sent_at": "2026-10-01T13:02:46.553547+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5",
-    "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters",
-    "published": "2026-10-01T10:53:44+00:00",
-    "sent_at": "2026-10-01T13:02:46.553547+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWZoTkRIQzBZSFBSM19FVnlybXpkVVJfOWFnUjlyMjdHeF9UaUR5eVlvUDRMT0ZFLUZlWkFwMlZ2YkNLdHNmazFFMk9QYlhHWW1iNDFvWHhFQ3RETEtkQ1VzR2MtZ0N2NFpTUU5rTXFQWms2OUdoalVUbmhaNU93Z1I1NUFmdDdGdGxUcS1TN09hR1g5UzZaWkI3TXJUeXNxVUwtaVoxeEVhQ3hKS1YwTTdDSjZ6NEhMcGdz?oc=5",
     "title": "Anthropic pushes for opt-out model for Australian content as ABC warns of ‘cannibalisation’ of news - The Guardian",
     "published": "2026-10-01T21:53:00+00:00",
@@ -1126,5 +1114,35 @@
     "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
     "published": "2026-10-30T21:09:54+00:00",
     "sent_at": "2026-10-31T12:13:11.275558+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "published": "2026-10-28T19:19:58+00:00",
+    "sent_at": "2026-11-01T02:17:13.212310+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNbGRJdXBHSkFzU0ZaeEJxZ3BZd29mU2pQR2xzUldOVXhOODZJUWJNN1Awd0VnMjU0UnE4eEs5d29jSzY3SmI5Rmo4aW9HUm92LXpzd2loUENNMUZuMnJiRTc4TzN3YXdSNEI5Y2tPWGJTR1FnT3c?oc=5",
+    "title": "Betting on 'Up to 10x' Before Anthropic's IPO…Hyperliquid Launches Derivatives Trading - BigGo Finance",
+    "published": "2026-11-01T01:55:00+00:00",
+    "sent_at": "2026-11-01T02:17:13.212310+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmY0I0ZWZzbHdXTmxia2EyWk5KVFdJYjBtdXBILVpQdVZPT0VFZGtLRG1lZTRiMGkzUVJRWVZXano0LVNjM21lZzVUb0M4c3hhU3NoU3ZnME5wTzN4VDZpZTBlQk9HNE03cjUyMWxqR1lQbElYazhrVEp2UGdzUQ?oc=5",
+    "title": "Anthropic IPO [2026]: $80.7B Loss Meets Shaky Partners - shattered.io",
+    "published": "2026-11-01T01:45:33+00:00",
+    "sent_at": "2026-11-01T02:17:13.212310+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZGZtcS1LWXVnN3pveFp6bmlZU0pmTlZGR1NqVzd1Q1Y4M1dyNVloRGRrTUVGMFA5b3VRcDRkcWUxOF8tMlJIOGVtT2Z5OE9rcVZvYnUwcWpoZU10aWhIWDFEbzNGS3YtalFvRHc3ZTlQckxZb2tqdkhWc0pCeld3aVZzdFQ2NEh1ejJDN0swQm4well5RE5FLUVaTQ?oc=5",
+    "title": "Anthropic warns investors of blowback risks from runaway AI - 1News",
+    "published": "2026-11-01T01:09:32+00:00",
+    "sent_at": "2026-11-01T02:17:13.212310+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYkpBamk3Ni1QRk0xSkZoNWhuMElEeWhNYXVyamhOMEhuc0RBeEZKQkpkODQwZmo5ZE93ODNFZ3ZSY1ZZbjFuUjdVMm94Q3R6aE9zblQ5eU84LXViVEtOYjlsNmtFRkd3dkhEZ3lIQVM1OXdkTzVSYm5KLVg2NnNIeV9rdmZxZl9QQ2lveFEzV1JfVGlmdldhZ2ZCbXVmZmtuVF9seXZuNFlzVXZCRF9OeEJkVWJ3MFE2a0dnYmtpZ1FJekhnNnMxUkpCU21KQmZDOUhsUU9WSUhLa2ExZjR3TTJCOUlnVjZYanp2UVJXVkI?oc=5",
+    "title": "Anthropic's Frenemies Meta and Google Are Showing Cracks In the AI Trade. What That Tells Us About the Anthropic IPO. - Barchart.com",
+    "published": "2026-11-01T01:00:03+00:00",
+    "sent_at": "2026-11-01T02:17:13.212310+00:00"
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/",
-    "title": "Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station",
-    "published": "2026-10-01T02:03:53+00:00",
-    "sent_at": "2026-10-01T05:59:37.556476+00:00"
-  },
-  {
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-13-astronaut-mission-docks-iss-fastest-trip-us-spacecraft",
-    "title": "Record breaker! SpaceX Crew-13 astronauts dock at ISS less than 8 hours after launch in fastest American flight ever - Space",
-    "published": "2026-10-01T23:09:36+00:00",
-    "sent_at": "2026-10-01T23:54:40.088723+00:00"
-  },
-  {
-    "url": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
-    "title": "Falcon Heavy to fly its first mission for U.S. spy satellite agency",
-    "published": "2026-10-01T22:37:30+00:00",
-    "sent_at": "2026-10-01T23:54:40.088723+00:00"
-  },
-  {
     "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
     "title": "SpaceX describes surgical intervention before launch of latest crew mission",
     "published": "2026-10-01T22:07:33+00:00",
@@ -1066,5 +1048,35 @@
     "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
     "published": "2026-10-29T21:57:22+00:00",
     "sent_at": "2026-10-31T01:56:11.391957+00:00"
+  },
+  {
+    "url": "https://tech-insider.org/spacex-starship-commercial-payloads-715m-revenue-failure-cost-2026/",
+    "title": "Starship Commercial Payloads: $715M a Year or Loss [2026] - tech-insider.org",
+    "published": "2026-11-01T01:39:03+00:00",
+    "sent_at": "2026-11-01T01:43:04.539706+00:00"
+  },
+  {
+    "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
+    "title": "How Big And Powerful Is SpaceX's Starship Rocket? - Engadget",
+    "published": "2026-10-31T23:45:00+00:00",
+    "sent_at": "2026-11-01T01:43:04.539706+00:00"
+  },
+  {
+    "url": "https://www.foxbusiness.com/video/6407718721112",
+    "title": "Former Clinton Labor Secretary Robert Reich calls for nationalizing Elon Musk's SpaceX, Starlink - Fox Business",
+    "published": "2026-10-31T22:47:28+00:00",
+    "sent_at": "2026-11-01T01:43:04.539706+00:00"
+  },
+  {
+    "url": "https://www.thehindu.com/business/merging-spacex-tesla-makes-more-sense-for-musk-than-its-investors/article71649406.ece",
+    "title": "Merging SpaceX, Tesla makes more sense for Musk than its investors - The Hindu",
+    "published": "2026-11-01T01:02:00+00:00",
+    "sent_at": "2026-11-01T01:43:04.539706+00:00"
+  },
+  {
+    "url": "https://wccftech.com/bill-ackman-says-elon-musk-might-have-to-borrow-a-trillion-dollars-of-capital-to-meet-spacexs-2027-compute-target-as-musk-eyes-petawatt-year-space-based-compute-capacity/",
+    "title": "Bill Ackman Says Elon Musk Might Have To Borrow “A Trillion Dollars Of Capital” To Meet SpaceX’s 2027 Compute Target, As Musk Eyes “Petawatt/Year” Space-Based Compute Capacity - Wccftech",
+    "published": "2026-10-31T22:55:01+00:00",
+    "sent_at": "2026-11-01T01:43:04.539706+00:00"
   }
 ]

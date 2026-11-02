@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-    "title": "SpaceX describes surgical intervention before launch of latest crew mission",
-    "published": "2026-10-01T22:07:33+00:00",
-    "sent_at": "2026-10-02T01:54:33.743228+00:00"
-  },
-  {
-    "url": "https://www.orlandosentinel.com/2026/10/01/pictures-50-space-coast-launches-and-counting-in-2026/",
-    "title": "Pictures: 57 Space Coast launches and counting in 2026 - Orlando Sentinel",
-    "published": "2026-10-02T00:02:49+00:00",
-    "sent_at": "2026-10-02T01:54:33.743228+00:00"
-  },
-  {
-    "url": "https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/",
-    "title": "Canada Rocket Company plans first large-scale engine test site in London, Ontario",
-    "published": "2026-10-01T15:30:36+00:00",
-    "sent_at": "2026-10-02T01:54:33.743228+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-    "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-    "published": "2026-10-02T13:54:34+00:00",
-    "sent_at": "2026-10-03T01:35:58.872432+00:00"
-  },
-  {
-    "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62149196/spacex-stock-three-launches-google-ai",
-    "title": "SpaceX Stock Jumps 7% After 3 Launches in 13 Hours, Including Google's Orbital AI Experiment - Benzinga",
-    "published": "2026-10-02T21:00:11+00:00",
-    "sent_at": "2026-10-03T01:35:58.872432+00:00"
-  },
-  {
-    "url": "https://www.bgr.com/2268813/merlin-vs-raptor-spacex-rocket-engines-compare/",
-    "title": "Merlin Vs. Raptor: How Do These SpaceX Rocket Engines Compare? - bgr.com",
-    "published": "2026-10-02T20:47:00+00:00",
-    "sent_at": "2026-10-03T01:35:58.872432+00:00"
-  },
-  {
-    "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-third-quarter-just-ended-000101914.html",
-    "title": "SpaceX's Third Quarter Just Ended. Here Are the 3 Numbers That Matter Most for the Stock. - Yahoo Finance",
-    "published": "2026-10-03T00:01:00+00:00",
-    "sent_at": "2026-10-03T01:35:58.872432+00:00"
-  },
-  {
-    "url": "https://www.investors.com/news/starship-launch-forecast-elon-musk-cuts-target-spacex-stock-rocketlab-electron/",
-    "title": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab - Investor's Business Daily",
-    "published": "2026-10-02T20:41:00+00:00",
-    "sent_at": "2026-10-03T01:35:58.872432+00:00"
-  },
-  {
     "url": "https://www.spacex.com/launches/sda-t1tl-a",
     "title": "SDA’s Fourth Tranche 1 Mission - SpaceX",
     "published": "2026-10-03T10:35:09+00:00",
@@ -1078,5 +1030,35 @@
     "title": "Bill Ackman Says Elon Musk Might Have To Borrow “A Trillion Dollars Of Capital” To Meet SpaceX’s 2027 Compute Target, As Musk Eyes “Petawatt/Year” Space-Based Compute Capacity - Wccftech",
     "published": "2026-10-31T22:55:01+00:00",
     "sent_at": "2026-11-01T01:43:04.539706+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/a262badc-684c-44ea-b527-c24eb7e904a2",
+    "title": "School IB economics: SpaceX and Tesla boards explore potential merger - Financial Times",
+    "published": "2026-11-01T23:58:21+00:00",
+    "sent_at": "2026-11-02T01:59:47.737367+00:00"
+  },
+  {
+    "url": "https://www.thecooldown.com/green-business/grimes-county-spacex-tax-break-records/",
+    "title": "County withheld SpaceX tax break records despite state ruling, residents' lawsuit says - The Cool Down",
+    "published": "2026-11-01T23:15:00+00:00",
+    "sent_at": "2026-11-02T01:59:47.737367+00:00"
+  },
+  {
+    "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/8582180/starlink-s-subscriber-growth-is-explosive-could-spacex-unlock-a-second-growth-engine/",
+    "title": "Starlink's Subscriber Growth Is Explosive. Could SpaceX Unlock a Second Growth Engine? - The Globe and Mail",
+    "published": "2026-11-01T21:22:45+00:00",
+    "sent_at": "2026-11-02T01:59:47.737367+00:00"
+  },
+  {
+    "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/8583406/here-s-my-top-reason-to-buy-spacex-stock-right-now/",
+    "title": "Here's My Top Reason to Buy SpaceX Stock Right Now - The Globe and Mail",
+    "published": "2026-11-02T01:47:08+00:00",
+    "sent_at": "2026-11-02T01:59:47.737367+00:00"
+  },
+  {
+    "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+    "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
+    "published": "2026-10-28T22:46:41+00:00",
+    "sent_at": "2026-11-02T01:59:47.737367+00:00"
   }
 ]

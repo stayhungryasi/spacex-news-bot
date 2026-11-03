@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://www.spacex.com/launches/sda-t1tl-a",
-    "title": "SDA’s Fourth Tranche 1 Mission - SpaceX",
-    "published": "2026-10-03T10:35:09+00:00",
-    "sent_at": "2026-10-03T11:42:43.984686+00:00"
-  },
-  {
-    "url": "https://www.nasa.gov/blogs/commercialcrew/2026/10/03/nasa-spacex-set-no-earlier-than-oct-7-for-crew-12-departure/",
-    "title": "NASA, SpaceX Set No Earlier Than Oct. 7 for Crew-12 Departure - NASA (.gov)",
-    "published": "2026-10-04T01:22:46+00:00",
-    "sent_at": "2026-10-04T02:17:07.213392+00:00"
-  },
-  {
-    "url": "https://mjengohub.co.ke/articles/infrastructure/spacex-and-tesla-erect-first-structural-steel-at-advanced-technology-chip-fabrication-facility",
-    "title": "SpaceX and Tesla erect first structural steel at Advanced Technology Chip fabrication facility - Mjengo Hub",
-    "published": "2026-10-03T21:02:14+00:00",
-    "sent_at": "2026-10-04T02:17:07.213392+00:00"
-  },
-  {
-    "url": "https://pluang.com/en/news-feed/elon-musk-spacex-pendapatan-ai-melewati-semua-bisnis-september",
-    "title": "SpaceX's AI revenue expected to surpass other s... - Pluang",
-    "published": "2026-10-03T21:15:32+00:00",
-    "sent_at": "2026-10-04T02:17:07.213392+00:00"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html",
-    "title": "With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface - The New York Times",
-    "published": "2026-10-03T21:14:45+00:00",
-    "sent_at": "2026-10-04T02:17:07.213392+00:00"
-  },
-  {
-    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-nvidia-spacex-bloom-energy-buy-signals/",
-    "title": "Dow Jones Futures: Nasdaq Hits High As Nvidia, SpaceX, Bloom Energy Flash Buy Signals, But Note These Risks - Investor's Business Daily",
-    "published": "2026-10-03T21:41:00+00:00",
-    "sent_at": "2026-10-04T02:17:07.213392+00:00"
-  },
-  {
     "url": "https://www.basenor.com/blogs/news/starship-ship-43-preps-for-flight-16-launch-from-florida",
     "title": "Starship Ship 43 Preps for Flight 16 Launch from Florida - BASENOR",
     "published": "2026-10-05T01:06:35+00:00",
@@ -1060,5 +1024,35 @@
     "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
     "published": "2026-10-28T22:46:41+00:00",
     "sent_at": "2026-11-02T01:59:47.737367+00:00"
+  },
+  {
+    "url": "https://www.gsmarena.com/elon_musks_spacex_may_buy_boost_mobile_to_make_starlink_into_a_fullfledged_carrier-news-75317.php",
+    "title": "Elon Musk's SpaceX may buy Boost Mobile to make Starlink into a full-fledged carrier - GSMArena.com news - GSMArena.com",
+    "published": "2026-11-03T03:15:02+00:00",
+    "sent_at": "2026-11-03T03:47:59.724501+00:00"
+  },
+  {
+    "url": "https://www.kxxv.com/news/local-news/in-your-neighborhood/grimes-county/citizens-group-sues-grimes-county-for-public-records-tied-to-spacex-terafab-project-amid-transparency-fight",
+    "title": "Citizens group sues Grimes County for public records tied to SpaceX TeraFab project amid transparency fight - KXXV",
+    "published": "2026-11-03T00:25:42+00:00",
+    "sent_at": "2026-11-03T03:47:59.724501+00:00"
+  },
+  {
+    "url": "https://www.latintimes.com/spacex-xai-merger-orbital-ai-data-centers-600805",
+    "title": "SpaceX's xAI acquisition puts Musk's plan for million-satellite AI data centers at the center of a $1.25 trillion merger - Latin Times",
+    "published": "2026-11-02T22:47:55+00:00",
+    "sent_at": "2026-11-03T03:47:59.724501+00:00"
+  },
+  {
+    "url": "https://www.thelec.net/news/articleView.html?idxno",
+    "title": "Up to 5,000 Developers Infected by Malware on SpaceX-Owned Cursor Marketplace - THE ELEC, Korea Electronics Industry Media",
+    "published": "2026-11-03T01:18:30+00:00",
+    "sent_at": "2026-11-03T03:47:59.724501+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/other/spacex-could-mirror-nvidia-s-revenue-boom-sequoia-partner-says-tesla-influencer-runs-hypothetical-merger-math/ar-AA2gzhob",
+    "title": "SpaceX could mirror Nvidia’s revenue boom, Sequoia partner says — Tesla influencer runs hypothetical merger math - MSN",
+    "published": "2026-11-02T23:53:09+00:00",
+    "sent_at": "2026-11-03T03:47:59.724501+00:00"
   }
 ]

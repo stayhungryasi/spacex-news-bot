@@ -1,7 +1,8 @@
 {
   "seen_accessions": [
     "0001104659-26-106909",
-    "0001104659-26-106897"
+    "0001104659-26-106897",
+    "0001628280-26-071319"
   ],
   "atm2_sold_shares": null,
   "atm2_gross_usd": null,
@@ -11,7 +12,7 @@
   "completed_alert_sent": false,
   "threshold_alert_sent": false,
   "atm3_alert_sent": false,
-  "last_run": "2026-11-06T12:29:30.737397+09:00",
+  "last_run": "2026-11-07T03:08:23.247885+09:00",
   "weekly_estimates": [
     {
       "date": "2026-10-05",

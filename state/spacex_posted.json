@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
-    "title": "Crew-12 set to depart the ISS after eighth months in orbit",
-    "published": "2026-10-06T23:43:49+00:00",
-    "sent_at": "2026-10-07T01:55:29.251660+00:00"
-  },
-  {
-    "url": "https://www.wwltv.com/article/news/politics/louisiana-politics/spacex-plans-roads-bridge-and-wharf-for-vermilion-parish-site/289-1156b260-bfe8-4af7-84a5-ba78bb2654a2",
-    "title": "SpaceX plans roads, bridge and wharf for Vermilion Parish site - WWLTV.com",
-    "published": "2026-10-07T01:05:00+00:00",
-    "sent_at": "2026-10-07T01:55:29.251660+00:00"
-  },
-  {
-    "url": "https://www.benzinga.com/markets/tech/26/10/62208031/spacex-apollo-40-billion-nvidia-chips-financing",
-    "title": "SpaceX Seeks $40 Billion, Led By Apollo, to Buy Nvidia Chips - SpaceX (NASDAQ:SPCX) - Benzinga",
-    "published": "2026-10-07T01:49:29+00:00",
-    "sent_at": "2026-10-07T01:55:29.251660+00:00"
-  },
-  {
-    "url": "https://www.marketbeat.com/instant-alerts/filing-spacex-spcx-stock-holdings-lifted-by-private-capital-advisors-inc-2026-10-06/",
-    "title": "SpaceX $SPCX Stock Holdings Lifted by Private Capital Advisors Inc. - MarketBeat",
-    "published": "2026-10-06T23:53:38+00:00",
-    "sent_at": "2026-10-07T01:55:29.251660+00:00"
-  },
-  {
-    "url": "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/",
-    "title": "Launch preview: More than 100 spacecraft hitch a ride to orbit on SpaceX’s Transporter-18",
-    "published": "2026-10-01T17:51:39+00:00",
-    "sent_at": "2026-10-07T01:55:29.251660+00:00"
-  },
-  {
     "url": "https://satnews.com/2026/10/07/fcc-grants-spacex-approval-for-15000-satellite-very-low-earth-orbit-direct-to-device-constellation/",
     "title": "FCC Grants SpaceX Approval for 15,000-Satellite Very Low Earth Orbit Direct-to-Device Constellation - SatNews Publishers",
     "published": "2026-10-07T16:00:53+00:00",
@@ -1060,5 +1030,35 @@
     "title": "SpaceX Targets Nov 13 for Starship Flight 15 and First Ship Catch - BASENOR - Tesla Accessories",
     "published": "2026-11-05T22:04:32+00:00",
     "sent_at": "2026-11-05T23:39:58.933937+00:00"
+  },
+  {
+    "url": "https://www.basenor.com/blogs/news/spacex-runs-full-water-deluge-test-at-starship-pad-39a",
+    "title": "SpaceX Runs Full Water Deluge Test at Starship Pad 39A - BASENOR - Tesla Accessories",
+    "published": "2026-11-05T23:03:29+00:00",
+    "sent_at": "2026-11-06T02:59:18.586335+00:00"
+  },
+  {
+    "url": "https://www.wwltv.com/article/money/business/small-business/vermilion-parish-government-responds-to-lawsuit-over-spacex-deal/289-67bccce0-75d5-4eba-8cd0-a3616a922c50",
+    "title": "Vermilion Parish government responds to lawsuit over SpaceX deal - WWLTV.com",
+    "published": "2026-11-06T01:29:07+00:00",
+    "sent_at": "2026-11-06T02:59:18.586335+00:00"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/texas-governor-elect-requests-pause-on-land-talks-with-spacex",
+    "title": "Texas Governor-Elect Requests Pause on Land Talks With SpaceX - Bloomberg.com",
+    "published": "2026-11-06T00:39:00+00:00",
+    "sent_at": "2026-11-06T02:59:18.586335+00:00"
+  },
+  {
+    "url": "https://broadbandbreakfast.com/spacex-calls-fcc-high-cost-broadband-subsidies-corporate-welfare/",
+    "title": "SpaceX Calls FCC High Cost Broadband Subsidies ‘Corporate Welfare’ - Broadband Breakfast",
+    "published": "2026-11-05T23:43:04+00:00",
+    "sent_at": "2026-11-06T02:59:18.586335+00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/technology/articles/t-t-mobile-reportedly-ready-001548771.html",
+    "title": "AT&T, T-Mobile Are Reportedly Ready To Boot Boost Mobile If SpaceX Buys It - Yahoo Finance",
+    "published": "2026-11-06T00:24:42+00:00",
+    "sent_at": "2026-11-06T02:59:18.586335+00:00"
   }
 ]

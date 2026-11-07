@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "published": "2026-10-02T17:56:00+00:00",
-    "sent_at": "2026-10-08T02:43:38.170290+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-    "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-    "published": "2026-10-07T21:56:42+00:00",
-    "sent_at": "2026-10-08T02:43:38.170290+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-    "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-    "published": "2026-10-02T13:23:09+00:00",
-    "sent_at": "2026-10-08T02:43:38.170290+00:00"
-  },
-  {
     "url": "https://www.anthropic.com/news/genesis-mission-commitment",
     "title": "Building on our commitment to American scientific discovery",
     "published": "2026-10-07T16:00:00+00:00",
@@ -1084,5 +1066,35 @@
     "title": "Anthropic Claude can now analyse your spending, but its access to money is 'read-only' - Firstpost",
     "published": "2026-11-06T02:36:15+00:00",
     "sent_at": "2026-11-06T03:28:43.885448+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zQUNVYk03WEg1anJqMFdVd0hwa2E4MTNzTDdTQmM1Y2NQanplejhaRERoWGxNemgyNjNJREVwaEt6RFJiM2hfQjdBdkFRZ3ZZUFZHbm1yRWcwV0xUSmo5b29QZzd2Rmt3QUNfaUdLUXpQbEhpTFE?oc=5",
+    "title": "Project EVE: Claude plays MMORPGs - Anthropic",
+    "published": "2026-11-06T20:52:05+00:00",
+    "sent_at": "2026-11-07T02:52:43.020593+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWdnSE1HT3NiM2VseHpuNm1iTWZvWnFJNlpnUklnN3Q0THpTdXR3MUpxZ0NGRDM0SGJHTFZmQ0xaLXgwcFRFTnlya3dVb2txamh3TVVpd2xoSWN6cE1xZ0FhZm9aQ2xqR0NXZnJoNjllSEpPbHZQYUdvc3R5ODZ2SDhHa1NhTzdmVzI2eEZ0RDRFanlCQmI0aUNfdm5NdEQ0WUhYbU0yNUwwVnkzT0JwOUlsTEMtR2s?oc=5",
+    "title": "Anthropic’s IPO Seen as AI’s True Reckoning - Bloomberg.com",
+    "published": "2026-11-07T02:01:58+00:00",
+    "sent_at": "2026-11-07T02:52:43.020593+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdlVlZTFDbk5DZ09La3pxeE9DSFZkRjRpajIxV0RVU2x1b0FmSlpUc0EwdEtpRXhQNmVQVHVwQ25jMDNJZlZfUWw0c1Y3WlFKX0NTa0dSbk0tODBzb21sS19SaUxQZm5kaE5yMmVjbDllbTNXR0RyUFEyb1AtVlZERXBweEZ6elRSeFVHMUR1SWhsVF9hLXlLaTZoTDJEQmI0eGV2dnJtX25Vc2hnaXVQQ0VGVFk0Umx6Y1N4TQ?oc=5",
+    "title": "Can Teammate AI Be Trusted? Questions Raised by Anthropic's 'Sabotage' Experiment - Inven Global",
+    "published": "2026-11-07T01:23:43+00:00",
+    "sent_at": "2026-11-07T02:52:43.020593+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVV2MmJnQVdxRkgtcmdrS2JNeUNWOGZfOV9hdi1yVG1WTXAxd0RWSlpJN3lZSFRwOUxvS1BSVjY5eTJDdHJYZFRaY0U3aTNfTURBYUdUbGRBVzJadXJmMWZGdzZjV3c1RGlWb3dBT2RDZldOUGxWLTlQcDVQMGhxX3NhclJidXg4WkRVczFhRUtHWi1VZTItcDIyRnRIOFZadDNwd1l5SU9IVmt4dU94XzVtckhadw?oc=5",
+    "title": "An unreleased Anthropic model just helped solve a major quantum-computing question - Business Insider",
+    "published": "2026-11-07T00:49:00+00:00",
+    "sent_at": "2026-11-07T02:52:43.020593+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yTl96WG92c29IdFAtUW9FWXhGRDNRaFhyVXVEb1ZWMHNTTzRpcTk4cVBYbGJQSGc4S1R0c0RXSnVuUVA4LUJZc19IeGlzb3dlZFo2TWFxb3JNd0I1Q29mcXpKQ3hLS3Jka1VIRFp0aE1rTzlMN0E?oc=5",
+    "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade - Axios",
+    "published": "2026-11-07T00:07:43+00:00",
+    "sent_at": "2026-11-07T02:52:43.020593+00:00"
   }
 ]

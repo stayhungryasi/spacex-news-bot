@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-    "title": "Building on our commitment to American scientific discovery",
-    "published": "2026-10-07T16:00:00+00:00",
-    "sent_at": "2026-10-08T19:51:28.885701+00:00"
-  },
-  {
-    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-    "title": "Introducing the Anthropic Cyber Mission",
-    "published": "2026-10-07T16:00:00+00:00",
-    "sent_at": "2026-10-08T19:51:28.885701+00:00"
-  },
-  {
-    "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-    "title": "2026 Usage Policy update",
-    "published": "2026-10-07T16:00:00+00:00",
-    "sent_at": "2026-10-08T19:51:28.885701+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k?oc=5",
     "title": "Anthropic launches dashboard, animation tools for Claude - Reuters",
     "published": "2026-10-08T19:08:01+00:00",
@@ -1096,5 +1078,35 @@
     "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade - Axios",
     "published": "2026-11-07T00:07:43+00:00",
     "sent_at": "2026-11-07T02:52:43.020593+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rLVltMFY0UFlmby1uSWtsdF9VZHpwWmNqUWZ3dFpTUDZKd2ZfZTVZRHl0aE5OdGxvLUt0OXc3WXZvLWdjSkNQZEpvSk9jNVJYUWlZZGpHZ0Q5Z2hQNFpDZ3JjZl9DUGROYXc0NWE4aWZfYnREX1ZMT3VGT3RaUQ?oc=5",
+    "title": "Teaching AI to build scientific models - Anthropic",
+    "published": "2026-11-06T19:03:59+00:00",
+    "sent_at": "2026-11-08T02:32:24.749353+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BNElfX1h3dWcxZ0dzSXNOOFRaQkVodXNhcVFHN1F0YktiZWlYSDFtSmI1SHJVSW9oWTVFWFJaVzdRMVBydU84NG5EYmhERUxmZGhtRkJGVUNxQQ?oc=5",
+    "title": "Anthropic Fellowship: Eligibility, Funding and How to Apply - CASRAI",
+    "published": "2026-11-08T00:09:53+00:00",
+    "sent_at": "2026-11-08T02:32:24.749353+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GMXhJZ2kwTmdKc3NxNDZNZFN0UU9vVnNuX2I0NW85NVRTa00yWFBvRkJ3alRJVjBvYkVDaU1zT2J4Y21Ua1U4WlRkbUw3UTVLYk5BU1QtRmVGcmZ1VVhmcWtBT2RZMlhyRGIzNnpsaVJmeW5fM1E?oc=5",
+    "title": "Anthropic's Model Progress Has Doubled in Speed, AI-Assisted Research Likely the Main Driver - BigGo Finance",
+    "published": "2026-11-07T22:55:00+00:00",
+    "sent_at": "2026-11-08T02:32:24.749353+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jZ01rTXFWLXR6Qm1oSTRaSlRKV3pZSzlVaGU4NHAwZnhYSXVlWUx4c3ltUERjNzZ1OG5pazY2QjlSWHRPbG9KYWN6bEhySmJCcU1BTUpTUUlEWXhtYWVZSmNiSWd3eTZIYjNEckxSaVl4RXVveGc?oc=5",
+    "title": "Anthropic IPO Valuation Slashed From $2 Trillion to ¥206 Trillion as Investors Drive a Harder Bargain on Revenue Multiple - BigGo Finance",
+    "published": "2026-11-07T22:25:00+00:00",
+    "sent_at": "2026-11-08T02:32:24.749353+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ic1Rfd3RqLWdONU1HclJkSmpTMTRwbUZzUHdtclliZEN4ZjVrZ1JwM3Y4dWg5Ymp3WFpqMGdia3VIdmFBdXoxWWtDczNmcTZLUnZfS2RIN1pMZnU4bVRGU2xEaDFQMzVYLTFBRGRpT0JHdXZnUzJkWk9TcjFXTXM?oc=5",
+    "title": "AI Daily: Lenders Price AI Risk as Anthropic Readies IPO - FourWeekMBA",
+    "published": "2026-11-07T21:17:49+00:00",
+    "sent_at": "2026-11-08T02:32:24.749353+00:00"
   }
 ]

@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/",
-    "title": "SpaceX Wants To Become A 'Major Mobile Carrier' With Low-Band Spectrum Acquisition - Engadget",
-    "published": "2026-10-09T08:30:18+00:00",
-    "sent_at": "2026-10-09T09:08:54.883777+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
-    "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
-    "published": "2026-10-09T18:24:39+00:00",
-    "sent_at": "2026-10-09T22:41:11.816188+00:00"
-  },
-  {
-    "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/",
-    "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
-    "published": "2026-10-09T14:36:44+00:00",
-    "sent_at": "2026-10-10T02:00:45.199509+00:00"
-  },
-  {
-    "url": "https://www.reuters.com/business/media-telecom/venezuela-president-authorizes-spacexs-starlink-operate-country-2026-10-10/",
-    "title": "Venezuela president authorizes SpaceX's Starlink to operate in the country - Reuters",
-    "published": "2026-10-10T00:02:00+00:00",
-    "sent_at": "2026-10-10T02:00:45.199509+00:00"
-  },
-  {
-    "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
-    "title": "SpaceX to make another attempt to launch 21 data satellites for the Space Development Agency",
-    "published": "2026-10-09T21:41:30+00:00",
-    "sent_at": "2026-10-10T02:00:45.199509+00:00"
-  },
-  {
-    "url": "https://www.foxbusiness.com/video/6406570240112",
-    "title": "Inside SpaceX's new frontier - Fox Business",
-    "published": "2026-10-10T01:20:48+00:00",
-    "sent_at": "2026-10-10T02:00:45.199509+00:00"
-  },
-  {
-    "url": "https://www.sfchronicle.com/food/restaurants/article/spacex-stateline-napa-late-payment-22463945.php",
-    "title": "SpaceX is worth $2 trillion. So why hasn’t it paid this Bay Area chef the $70,000 it owes him? - San Francisco Chronicle",
-    "published": "2026-10-10T00:05:06+00:00",
-    "sent_at": "2026-10-10T02:00:45.199509+00:00"
-  },
-  {
     "url": "https://www.basenor.com/blogs/news/musk-explains-spacexs-60b-cursor-acquisition-data-is-the-moat",
     "title": "Musk Explains SpaceX's $60B Cursor Acquisition: Data Is the Moat - BASENOR - Tesla Accessories",
     "published": "2026-10-10T23:06:36+00:00",
@@ -1042,5 +1000,35 @@
     "title": "SpaceX Booster 1067 Hits 37 Flights — A Record No Rocket Has Touched - BASENOR - Tesla Accessories",
     "published": "2026-11-08T02:03:54+00:00",
     "sent_at": "2026-11-08T09:02:09.052799+00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-lands-45-billion-220638884.html",
+    "title": "SpaceX (SPCX) Lands $45 Billion AI Deal As New Contracts Recast Its Growth Story - Yahoo Finance",
+    "published": "2026-11-08T22:06:38+00:00",
+    "sent_at": "2026-11-09T02:15:49.412692+00:00"
+  },
+  {
+    "url": "https://finance.biggo.com/news/1cd27dc4-4a07-480a-8359-144c640c57b1",
+    "title": "Musk Lays Out SpaceX Revenue Roadmap: $500 Billion Annualized by End of Next Year, Chip Capacity Aiming for 30 Times Global Output - BigGo Finance",
+    "published": "2026-11-09T00:08:55+00:00",
+    "sent_at": "2026-11-09T02:15:49.412692+00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-bulls-could-burned-gary-223005762.html",
+    "title": "Tesla Bulls Could Get Burned? Gary Black Sees Trouble With SpaceX All-Stock Merger: Warns 24% Premium 'Can Quickly Go Negative' - Yahoo Finance",
+    "published": "2026-11-08T22:30:05+00:00",
+    "sent_at": "2026-11-09T02:15:49.412692+00:00"
+  },
+  {
+    "url": "https://fourweekmba.com/ai-spacex-pitches-6gw-plus-supercomputer-campus-in-arizona/",
+    "title": "SpaceX Pitches 6GW-Plus Supercomputer Campus in Arizona - FourWeekMBA",
+    "published": "2026-11-08T22:42:51+00:00",
+    "sent_at": "2026-11-09T02:15:49.412692+00:00"
+  },
+  {
+    "url": "https://www.aol.com/articles/spacexs-starlink-could-build-nationwide-012000000.html",
+    "title": "SpaceX's Starlink Could Build a Nationwide Cell Network. Here's What Investors Need to Know - AOL.com",
+    "published": "2026-11-09T01:20:00+00:00",
+    "sent_at": "2026-11-09T02:15:49.412692+00:00"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
-    "title": "Exclusive: Anthropic breaches spark White House AI reporting mandate - Axios",
-    "published": "2026-10-10T00:24:39+00:00",
-    "sent_at": "2026-10-10T05:41:21.339046+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzYzFyWXcwLVRXZzdZcDZkM1dKWFNqcFRWY3ZNYU4yWFBzQ05BUE5nTzlTT21QNjdIdVVfUEl4YVI1Qi1mYW1qV21XaVN2T0c4Ry1rc3F0c1IxaVdGM1lNRE5WbVBidHNqRmc?oc=5",
     "title": "Anthropic Tightens Claude AI Safety After Investigating Unexpected Actions on Government Websites - Kingy AI",
     "published": "2026-10-11T01:21:05+00:00",
@@ -1084,5 +1078,23 @@
     "title": "The race for Anthropic employees’ new wealth: ‘They’re not buying Lamborghinis’ - Financial News London",
     "published": "2026-11-09T00:06:58+00:00",
     "sent_at": "2026-11-09T02:43:03.459462+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "published": "2026-11-09T19:24:51+00:00",
+    "sent_at": "2026-11-10T00:13:38.861514+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "published": "2026-11-09T17:24:26+00:00",
+    "sent_at": "2026-11-10T00:13:38.861514+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5",
+    "title": "Claude can design electronic prototypes from start to finish - Anthropic",
+    "published": "2026-11-09T18:58:57+00:00",
+    "sent_at": "2026-11-10T00:13:38.861514+00:00"
   }
 ]

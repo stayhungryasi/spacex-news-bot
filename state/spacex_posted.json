@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://www.spacex.com/launches/crs35",
-    "title": "CRS-35 Mission - SpaceX",
-    "published": "2026-10-11T17:50:07+00:00",
-    "sent_at": "2026-10-11T18:57:32.698757+00:00"
-  },
-  {
-    "url": "https://www.bgr.com/2279797/spacex-new-nasa-record-explained/",
-    "title": "SpaceX Achieved A New NASA Record - Here's What It Is - BGR",
-    "published": "2026-10-11T21:17:00+00:00",
-    "sent_at": "2026-10-12T01:56:39.989201+00:00"
-  },
-  {
-    "url": "https://www.bgr.com/2279871/why-spacex-plans-to-catch-starship-instead-of-landing-legs/",
-    "title": "Why SpaceX Wants To Catch Starship Instead Of Giving It Landing Legs - BGR",
-    "published": "2026-10-12T01:04:45+00:00",
-    "sent_at": "2026-10-12T01:56:39.989201+00:00"
-  },
-  {
-    "url": "https://beincrypto.com/bank-earnings-anthropic-ipo-spacex-windfall/",
-    "title": "Bank Earnings Hinge on Anthropic IPO as SpaceX Windfall Fades - BeInCrypto",
-    "published": "2026-10-12T01:01:00+00:00",
-    "sent_at": "2026-10-12T01:56:39.989201+00:00"
-  },
-  {
-    "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/",
-    "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
-    "published": "2026-10-11T14:29:52+00:00",
-    "sent_at": "2026-10-12T01:56:39.989201+00:00"
-  },
-  {
-    "url": "https://www.ksby.com/news/launch-tracker/falcon-9-launch-from-vandenberg-space-force-base-scheduled-for-monday-evening",
-    "title": "Falcon 9 launch from Vandenberg Space Force Base scheduled for Monday evening - KSBY News",
-    "published": "2026-10-12T01:00:20+00:00",
-    "sent_at": "2026-10-12T01:56:39.989201+00:00"
-  },
-  {
     "url": "https://finance.yahoo.com/technology/ai/articles/spacex-bundles-grok-x-cursor-000517004.html",
     "title": "SpaceX Bundles Grok, X, And Cursor Into New Subscription Tiers - Yahoo Finance",
     "published": "2026-10-13T00:05:00+00:00",
@@ -1036,5 +1000,11 @@
     "title": "SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards - Yahoo Finance",
     "published": "2026-11-09T21:30:29+00:00",
     "sent_at": "2026-11-10T04:26:31.504428+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+    "title": "The US military seems to be getting nervous about the launch supply crunch",
+    "published": "2026-11-10T23:02:39+00:00",
+    "sent_at": "2026-11-11T01:57:28.470998+00:00"
   }
 ]

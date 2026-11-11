@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNak91SVNpZkcxalQ3M2RINkFzMXdqY19UQVZsYTNyek9HWC03aFlScDVmZDRma0RtVkc4YTJTcDcwZDNqVEVhSFpuMzBDVk1PU2c2VDFuNGxMZjY4NHc4RmpISXUxUFZsTkdPcTg3VmFyTUtIVlBfTHh4c1RTaG5FbVFleEFtWkZKeGRxOU1QV2FPRGs?oc=5",
-    "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests - Search Engine Journal",
-    "published": "2026-10-11T22:07:32+00:00",
-    "sent_at": "2026-10-11T23:37:20.555432+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-    "published": "2026-10-08T18:19:42+00:00",
-    "sent_at": "2026-10-12T02:27:32.826037+00:00"
-  },
-  {
     "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
     "published": "2026-10-10T00:18:32+00:00",
@@ -1108,5 +1096,35 @@
     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
     "published": "2026-11-10T17:30:00+00:00",
     "sent_at": "2026-11-10T23:10:38.196324+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "published": "2026-11-10T20:52:13+00:00",
+    "sent_at": "2026-11-11T02:51:06.934698+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2xWUGd3ZGl1T0lMWGtiSWpvUnplVEFORXBXY3J4ZXBIYm50U3U4U2R2OEwzTkNQZEYwM0tQckhWQkF1VnN3UmJjSUdZOEdEc0ZsbnZ4bUxpYmtYbFlNTlpZMmJ2ZHp0eF93bTY4enZIWUNtWUdQZ2doYVIzaDlvSFR1LWdOWFJneHpXbXl2bGNJdzhrVWtTbTBSSXZlOTg?oc=5",
+    "title": "Anthropic Is Reserving Up to 20% of Its IPO for Retail Investors, Far Above the Typical 5% to 10% - Yahoo Finance",
+    "published": "2026-11-11T01:32:53+00:00",
+    "sent_at": "2026-11-11T02:51:06.934698+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3JDTlRpUnJBd3B5dFpHcU1KX0RmWE5HN3d4TEN5b3JaZjlLQjBGWmYtcGQ2cF9hbjBLR0Q1X3VRQ2J2c3JCQm90c1kzbk1VcGxxOU1ITkJRYkZLbmpOd2o4QzZ2ZEFSc2NRbGZtSXJDQ3IwNTVaTThJRDAtWUdUd0RLWQ?oc=5",
+    "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies - CNBC",
+    "published": "2026-11-11T01:26:00+00:00",
+    "sent_at": "2026-11-11T02:51:06.934698+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDE4S1RTcDdIQUg3SXN2VURMbFBURlZDcWp0eHJBbTYyTVpXd3l3Y0g3c0V2dkUzMHF2LVpxZlZUVVlhUUFBZUdIdDdLSGRkclU0SlV4M3FpcERTTTNIV1lHWW9BZ0ZLOGtfMVR2Tk5EZDdUQkhNZHZTSGNYM1VuSFBHNkc5TVNsMHNZZzNIZ1Z2SWo2UkE?oc=5",
+    "title": "Amazon and Google Win Big From Anthropic IPO - The Information",
+    "published": "2026-11-11T01:01:00+00:00",
+    "sent_at": "2026-11-11T02:51:06.934698+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTlDNllXUVdvem9XemM4RWhEUnJfaHotMGpfOWhzV0VxWVV4cGJJRExPWklCT2pCeFhIdGhmUlA1cWhIeDdlNjBpbmNoeXNHcVBkRjVSbnlRR2FnckJueFpOTk1CNUhpWGswaFRhZGZFRWNUeUdGU0xKMUZreUwzT1VuRGZDZWhGWWEyeTJZcUtsdFpKbnBuc0VTQURaRkFaTmQ3MnkyenRndVVrd0VISkJDSlZaNkdJb1Rzb1NaR3EzMlI5cmRjU0hBYVJjTHRoYmc?oc=5",
+    "title": "Anthropic Is Reserving Up to 20% of Its IPO for Retail Investors, Far Above the Typical 5% to 10% - The Motley Fool",
+    "published": "2026-11-11T00:57:27+00:00",
+    "sent_at": "2026-11-11T02:51:06.934698+00:00"
   }
 ]

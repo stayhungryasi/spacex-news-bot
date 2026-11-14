@@ -19,6 +19,8 @@ import sys
 from datetime import datetime, timedelta, timezone
 
 import anthropic
+
+import llm
 import feedparser
 import requests
 from dotenv import load_dotenv
@@ -46,9 +48,9 @@ TELEGRAM_CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "").strip()
 
 KST = timezone(timedelta(hours=9))
 
-# claude-sonnet-4-6 is used both for the editor scoring pass (per spec) and for
-# Korean summarization.
-MODEL = "claude-sonnet-4-6"
+# One model does both the editor scoring pass and the Korean summaries.
+# It is chosen in llm.py.
+MODEL = llm.MODEL  # set in llm.py (NEWS_MODEL / NEWS_EFFORT env override)
 
 # Telegram hard-caps messages at 4096 chars; keep a small margin for safety
 # since HTML entities can expand.
@@ -732,8 +734,8 @@ def score_candidates(client: anthropic.Anthropic, candidates: list[dict]) -> boo
     )
 
     try:
-        response = client.messages.create(
-            model=MODEL,
+        response = llm.create(
+            client,
             max_tokens=4096,
             system=system,
             messages=[{"role": "user", "content": user}],
@@ -999,8 +1001,8 @@ def _scrub_summary(parsed: dict) -> dict:
 def _summarize_once(
     client: anthropic.Anthropic, system: str, user: str
 ) -> dict:
-    response = client.messages.create(
-        model=MODEL,
+    response = llm.create(
+        client,
         max_tokens=1024,
         system=system,
         messages=[{"role": "user", "content": user}],

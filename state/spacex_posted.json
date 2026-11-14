@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://www.ukrinform.net/rubric-ato/4174208-spacex-imposes-unannounced-speed-limit-on-starlink-terminals-used-by-ukraines-defense-forces.html",
-    "title": "SpaceX imposes unannounced speed limit on Starlink terminals used by Ukraine’s Defense Forces - Ukrinform",
-    "published": "2026-10-14T07:15:00+00:00",
-    "sent_at": "2026-10-14T07:41:14.845047+00:00"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cm2d6e62p49do",
-    "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says - BBC",
-    "published": "2026-10-14T13:11:17+00:00",
-    "sent_at": "2026-10-14T13:45:56.602750+00:00"
-  },
-  {
-    "url": "https://www.teslarati.com/faa-review-spacex-starship-launches/",
-    "title": "FAA kicks off review of SpaceX’s bid to fly Starship nearly every day - Teslarati",
-    "published": "2026-10-14T17:37:30+00:00",
-    "sent_at": "2026-10-14T18:39:33.618611+00:00"
-  },
-  {
-    "url": "https://aviationweek.com/space/launch-vehicles-propulsion/debrief-spacex-asks-pick-pace-starship-flights-texas",
-    "title": "Debrief: SpaceX Asks To Pick Up Pace Of Starship Flights In Texas - Aviation Week",
-    "published": "2026-10-14T21:49:24+00:00",
-    "sent_at": "2026-10-14T23:16:27.914768+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-    "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
-    "published": "2026-10-14T13:56:11+00:00",
-    "sent_at": "2026-10-14T23:16:27.914768+00:00"
-  },
-  {
-    "url": "https://satnews.com/2026/10/14/spacex-requests-faa-approval-for-up-to-456-starship-launches-annually-at-starbase/",
-    "title": "SpaceX Requests FAA Approval for Up to 456 Starship Launches Annually at Starbase - SatNews Publishers",
-    "published": "2026-10-14T23:41:58+00:00",
-    "sent_at": "2026-10-15T01:08:17.303351+00:00"
-  },
-  {
-    "url": "https://euromaidanpress.com/2026/10/14/starshield-systems-are-owned-and-controlled-by-the-us-government-musk-says-trump-not-spacex-is-behind-cut-hitting-ukraine/",
-    "title": "\"Starshield systems are owned and controlled by the US government\": Musk says Trump, not SpaceX, is behind cut hitting Ukraine - Euromaidan Press",
-    "published": "2026-10-14T23:16:46+00:00",
-    "sent_at": "2026-10-15T01:08:17.303351+00:00"
-  },
-  {
-    "url": "https://www.ksby.com/news/launch-tracker/spacex-plans-to-launch-ussf-481-mission-on-thursday-from-vandenberg",
-    "title": "SpaceX plans to launch USSF-481 mission on Thursday from Vandenberg - KSBY News",
-    "published": "2026-10-15T00:54:31+00:00",
-    "sent_at": "2026-10-15T01:08:17.303351+00:00"
-  },
-  {
-    "url": "https://stocktwits.com/news-articles/markets/equity/tesla-space-x-merger-could-be-announced-as-early-as-before-december-agm-says-barclays/cZxQdGeRBqr",
-    "title": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays - Stocktwits",
-    "published": "2026-10-14T23:50:47+00:00",
-    "sent_at": "2026-10-15T01:08:17.303351+00:00"
-  },
-  {
-    "url": "https://www.marketbeat.com/instant-alerts/filing-elmwood-wealth-management-inc-acquires-new-position-in-spacex-spcx-2026-10-14/",
-    "title": "Elmwood Wealth Management Inc. Acquires New Position in SpaceX $SPCX - MarketBeat",
-    "published": "2026-10-14T23:47:29+00:00",
-    "sent_at": "2026-10-15T01:08:17.303351+00:00"
-  },
-  {
     "url": "https://www.krgv.com/news/faa-reviewing-spacex-proposal-for-nearly-500-annual-starship-launches-from-starbase/",
     "title": "FAA reviewing SpaceX proposal for nearly 500 annual Starship launches from Starbase - KRGV",
     "published": "2026-10-15T01:12:00+00:00",
@@ -1048,5 +988,35 @@
     "title": "SpaceX reveals details on its proposal to buy Boca Chica State Park - The Texas Tribune",
     "published": "2026-11-13T00:26:33+00:00",
     "sent_at": "2026-11-13T03:03:40.562961+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+    "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+    "published": "2026-11-14T00:49:13+00:00",
+    "sent_at": "2026-11-14T02:49:47.123727+00:00"
+  },
+  {
+    "url": "https://kauainownews.com/2026/11/13/debris-from-spacex-launch-causes-all-us-west-coast-flights-to-be-grounded/",
+    "title": "‘Debris from SpaceX launch’ causes all US West Coast flights to be grounded - Kauai Now",
+    "published": "2026-11-14T00:56:59+00:00",
+    "sent_at": "2026-11-14T02:49:47.123727+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+    "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+    "published": "2026-11-12T19:09:57+00:00",
+    "sent_at": "2026-11-14T02:49:47.123727+00:00"
+  },
+  {
+    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+    "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+    "published": "2026-11-09T22:37:05+00:00",
+    "sent_at": "2026-11-14T02:49:47.123727+00:00"
+  },
+  {
+    "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+    "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon",
+    "published": "2026-11-13T12:25:06+00:00",
+    "sent_at": "2026-11-14T02:49:47.123727+00:00"
   }
 ]

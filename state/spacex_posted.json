@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.krgv.com/news/faa-reviewing-spacex-proposal-for-nearly-500-annual-starship-launches-from-starbase/",
-    "title": "FAA reviewing SpaceX proposal for nearly 500 annual Starship launches from Starbase - KRGV",
-    "published": "2026-10-15T01:12:00+00:00",
-    "sent_at": "2026-10-15T04:44:05.005086+00:00"
-  },
-  {
-    "url": "https://www.redlakenationnews.com/story/2026/10/15/news/ukraine-says-spacex-hampers-drones-for-attack-and-defence-as-us-ties-fray/143395.html",
-    "title": "Ukraine says SpaceX hampers drones for attack and defence, as US ties fray - Red Lake Nation News",
-    "published": "2026-10-15T02:11:35+00:00",
-    "sent_at": "2026-10-15T04:44:05.005086+00:00"
-  },
-  {
-    "url": "https://www.expressnews.com/business/article/starship-launches-starbase-faa-review-22478909.php",
-    "title": "Plan for 456 annual Starship launches from South Texas under FAA review - San Antonio Express-News",
-    "published": "2026-10-15T21:41:55+00:00",
-    "sent_at": "2026-10-16T00:55:30.946047+00:00"
-  },
-  {
-    "url": "https://www.aol.com/articles/spacex-launched-3-rockets-13-002500000.html",
-    "title": "SpaceX Launched 3 Rockets in 13 Hours and the Stock Jumped 7%. Here's the Number That Actually Matters. - AOL.com",
-    "published": "2026-10-16T00:25:00+00:00",
-    "sent_at": "2026-10-16T00:55:30.946047+00:00"
-  },
-  {
-    "url": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
-    "title": "SpaceX launches a classified payload for U.S. Space Force",
-    "published": "2026-10-15T19:11:45+00:00",
-    "sent_at": "2026-10-16T00:55:30.946047+00:00"
-  },
-  {
-    "url": "https://mezha.net/eng/news/mezha-f3cc95e8e61fa9131c8c9375_ai_could_drive/",
-    "title": "AI could drive a Tesla-SpaceX tie-up as soon as this fall, analysts say - Mezha.net",
-    "published": "2026-10-15T21:51:58+00:00",
-    "sent_at": "2026-10-16T00:55:30.946047+00:00"
-  },
-  {
-    "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/7973153/could-2-000-invested-in-spacex-help-you-retire-early/",
-    "title": "Could $2,000 Invested in SpaceX Help You Retire Early? - The Globe and Mail",
-    "published": "2026-10-15T23:03:51+00:00",
-    "sent_at": "2026-10-16T00:55:30.946047+00:00"
-  },
-  {
     "url": "https://spacelaunchnow.me/launch/falcon-9-block-5-dragon-crs-2-spx-35/",
     "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35 — Launch Successful",
     "published": "2026-10-13T10:33:44+00:00",
@@ -1018,5 +976,11 @@
     "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon",
     "published": "2026-11-13T12:25:06+00:00",
     "sent_at": "2026-11-14T02:49:47.123727+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+    "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+    "published": "2026-11-15T00:40:59+00:00",
+    "sent_at": "2026-11-15T01:57:24.789637+00:00"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://spacelaunchnow.me/launch/falcon-9-block-5-dragon-crs-2-spx-35/",
-    "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35 — Launch Successful",
-    "published": "2026-10-13T10:33:44+00:00",
-    "sent_at": "2026-10-17T00:56:03.188486+00:00"
-  },
-  {
-    "url": "https://spacelaunchnow.me/launch/falcon-9-block-5-sda-tranche-1-transport-layer-a/",
-    "title": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A — Launch Successful",
-    "published": "2026-10-10T07:39:44+00:00",
-    "sent_at": "2026-10-17T00:56:03.188486+00:00"
-  },
-  {
-    "url": "https://newscord.org/article/elon-musk-unveils-tesla-roadster-flying-car-with-spacex-thrusters-in-texas--Story_20261017_TeslaunveilsitsRoads311122bf",
-    "title": "Elon Musk Unveils Tesla Roadster Flying Car With SpaceX Thrusters in Texas: 28 outlets compared - NewsCord",
-    "published": "2026-10-17T00:12:23+00:00",
-    "sent_at": "2026-10-17T00:56:03.188486+00:00"
-  },
-  {
-    "url": "https://ny1.com/nyc/all-boroughs/inside-city-hall/2026/10/16/spacex-testifies-before-city-council-about-potential-risks-of-ai",
-    "title": "SpaceX testifies before City Council about potential risks of AI - Spectrum News NY1",
-    "published": "2026-10-17T00:30:00+00:00",
-    "sent_at": "2026-10-17T00:56:03.188486+00:00"
-  },
-  {
-    "url": "https://www.bloomberg.com/news/articles/2026-10-16/openai-poaches-another-spacex-sales-lead-focused-on-ai",
-    "title": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI - Bloomberg.com",
-    "published": "2026-10-16T21:36:22+00:00",
-    "sent_at": "2026-10-17T00:56:03.188486+00:00"
-  },
-  {
     "url": "https://united24media.com/war-in-ukraine/zelenskyy-says-starlink-restrictions-apply-only-in-ukraine-while-spacex-ignores-kyivs-inquiries-23549",
     "title": "Zelenskyy Says Starlink Restrictions Apply Only in Ukraine While SpaceX Ignores Kyiv’s Inquiries - UNITED24 Media",
     "published": "2026-10-17T14:59:41+00:00",
@@ -1012,5 +982,23 @@
     "title": "Starship returns to Starbase and a successful tower catch",
     "published": "2026-11-13T19:15:11+00:00",
     "sent_at": "2026-11-15T17:13:48.190318+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+    "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+    "published": "2026-11-15T23:11:54+00:00",
+    "sent_at": "2026-11-16T02:30:32.347333+00:00"
+  },
+  {
+    "url": "https://finance.biggo.com/news/1524ebd2-149d-4a05-8e96-33079a8af5a1",
+    "title": "SpaceX Stock Trades 116% Below Morgan Stanley's $300 Target as Starship Booster Failure Tests Bull Case - BigGo Finance",
+    "published": "2026-11-16T00:27:00+00:00",
+    "sent_at": "2026-11-16T02:30:32.347333+00:00"
+  },
+  {
+    "url": "https://ktla.com/news/california/spacex-plans-3-rocket-launches-from-california-in-one-week-warns-of-sonic-booms/",
+    "title": "SpaceX plans 3 rocket launches from California in one week, warns of sonic booms - KTLA",
+    "published": "2026-11-15T23:52:27+00:00",
+    "sent_at": "2026-11-16T02:30:32.347333+00:00"
   }
 ]

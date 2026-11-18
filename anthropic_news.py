@@ -6,6 +6,8 @@ import sys
 from datetime import datetime, timedelta, timezone
 
 import anthropic
+
+import llm
 import requests
 from dotenv import load_dotenv
 
@@ -28,7 +30,7 @@ TELEGRAM_CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "@stayhungry_asi")
 KST = timezone(timedelta(hours=9))
 QUERY = "Anthropic OR Claude AI OR Claude Opus OR Claude Sonnet"
 TOP_N = 5
-MODEL = "claude-sonnet-4-6"
+MODEL = llm.MODEL  # set in llm.py (NEWS_MODEL / NEWS_EFFORT env override)
 TELEGRAM_CHUNK_LIMIT = 3800
 
 logging.basicConfig(
@@ -311,8 +313,8 @@ def summarize(client: anthropic.Anthropic, title: str, body: str) -> dict:
         '"summary": ["요약 1", "요약 2", "요약 3"]}'
     )
 
-    response = client.messages.create(
-        model=MODEL,
+    response = llm.create(
+        client,
         max_tokens=1024,
         system=system,
         messages=[{"role": "user", "content": user}],

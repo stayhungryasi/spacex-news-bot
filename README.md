@@ -7,7 +7,7 @@
 
 1. NewsAPI에서 `SpaceX OR Starship OR Starlink OR Falcon` 키워드로
    지난 24시간 영문 뉴스 수집 (관련도 정렬, 중복 제목 제거)
-2. 상위 5건을 Claude(`claude-sonnet-4-6`)로 한국어 제목 + 3줄 요약 생성
+2. 상위 5건을 Claude(모델은 `llm.py` — 아래 "모델 설정")로 한국어 제목 + 3줄 요약 생성
 3. HTML 포맷으로 정리해 텔레그램 채널에 발송 (4096자 초과 시 자동 분할)
 
 ## 초기 설정
@@ -77,3 +77,15 @@ spacex-news-bot/
 ├── run.bat           ← 작업 스케줄러용 진입점
 └── README.md
 ```
+
+## 모델 설정 (2026-11-14)
+
+모델은 `llm.py` 한 곳에서 정합니다. 기본값은 **Claude Fable 5.2 · 노력 medium**.
+
+| 환경 변수 | 기본값 | 뜻 |
+|---|---|---|
+| `NEWS_MODEL` | `claude-fable-5-2` | 채점·요약에 쓰는 모델 |
+| `NEWS_EFFORT` | `medium` | 노력 수준(low · medium · high · xhigh · max) |
+| `NEWS_FALLBACK_MODEL` | `claude-sonnet-4-6` | 기본 모델이 거절되면(HTTP 400·403·404) 그 호출만 이 모델로 다시 |
+
+기본 모델이 이 API 키에서 안 열려 있어도 봇은 멈추지 않고 이전 모델로 보냅니다. 로그에 `falling back to` 가 찍히면 그 회차는 이전 모델로 돈 것입니다.

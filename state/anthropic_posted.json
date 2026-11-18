@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://www.anthropic.com/news/public-benefit-fund",
-    "title": "Investing in the public benefit",
-    "published": "2026-10-17T16:00:00+00:00",
-    "sent_at": "2026-10-18T18:35:29.472502+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ldi1odjJCSEJvLUdWNk5LaHd6R2RoRjMtcGxHWE5YRHVyck9LcUdCMl9DcUoxNm1xR0dvSFp2VnBicVNFYjBwUndjbGQ4Q0ZDSFA4?oc=5",
-    "title": "Breaking News: Anthropic Officially Announces 320 Billion Donation to Distribute Directly to Ordinary People - 36Kr",
-    "published": "2026-10-19T01:12:43+00:00",
-    "sent_at": "2026-10-19T01:21:01.476056+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ISFpZMnFpbzQ3NWZQZmF0ZDUyNk1wSFg2WUFZT0hiSXh6THFObUw3dUFCbzk5UVY0NjNfdXQxQWhybEQxLXNZNlB4cllkOXFMa05CZ3dmekU1dTZkSGdMczZqeXFneFFCcUxmc3d4UDczdw?oc=5",
-    "title": "What to Know About the Obscure Private Trust Looming Over Anthropic’s IPO - WSJ",
-    "published": "2026-10-19T01:00:00+00:00",
-    "sent_at": "2026-10-19T01:21:01.476056+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KV1pGM3ZFa04yMUpsWTRRVExDd0tUZGJVVkxIZ3prOXp1UUkyaUNQUGZtckpDVTZaajdPRmtJQWlLbVhaRlBrRWlYMFUtQk55c3Nn?oc=5",
-    "title": "Anthropic Unveils 4 Years Later World: Only 5% of AI Development Work Remains for Humans - 36Kr",
-    "published": "2026-10-19T00:52:32+00:00",
-    "sent_at": "2026-10-19T01:21:01.476056+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzE3Y1l2ai02VGx4ZGQxWVdwUGNoZW41WnVrazJmSlZocWJhMmNFQ1BBRmZGZk5HWlpKemIzSjE5S19hY3o1ajZqVTlkTTZ2N21yZDc3SlhxNUNtRGo5ZmZ3RkpFLTN5Vm9wdXFFZ2s4VmNVSnR1RGtxbjlXQktXYkJVZ0dKYWZUUzRwUnZVSUdoT3BUWHk3QWo3SEc0TjIt?oc=5",
-    "title": "Meta blames Anthropic's Claude for wrongly suspending No Kings Instagram - Startup Fortune",
-    "published": "2026-10-19T00:49:53+00:00",
-    "sent_at": "2026-10-19T01:21:01.476056+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0V5T2tFZXNqUkJzSmtrdWxOY3NaT2N2WUhhRjhhLVgtZkJPY0s2VUV1QXZ2NGhBZ3lKZ2NTVFhJOFdQTWNVMEJULVcwUWs5VlFjRC01Ti12ek8wZ1Fjenk5SDl3ZTBKSW9tNDZ1LUladTkwVVM5akRKRU5qXzRrQUNsRFUyMjlKank3cXlJd2o0N0lsMElTUjFBMjVlTVdVZkxaQ09US1hNdGprc0pudTRIeDlDUlE?oc=5",
-    "title": "Anthropic Turns to Lawyers to Teach AI Agents to Negotiate - PYMNTS.com",
-    "published": "2026-10-19T00:48:49+00:00",
-    "sent_at": "2026-10-19T01:21:01.476056+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPM1lSczhESmRndWxlZjZIbWhtVS0zZXBjS2Z2Qi12ZVIwcXR0c2lZTWNSYjQxc2lTUnBGaEVBQWZpbUFhNUxQcUhNeVByZVFPQ0hJbm52TVVrX2c0WFFaMDJHSjktNHV3VFVhcDZoY2Ewc1Q4Yks2N0FTek1HR0lYYVoxV0ZYb0Y0c2RmUUtRdVlSbDRNYWJvcm5PeFdqQkVOeFVfQ1RMZTZTeGtzcDFR?oc=5",
     "title": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com",
     "published": "2026-10-19T19:24:06+00:00",
@@ -1048,5 +1012,35 @@
     "title": "US Futures Fall Ahead of Nvidia, Anthropic’s $64.4B IPO - shattered.io",
     "published": "2026-11-17T03:17:57+00:00",
     "sent_at": "2026-11-17T05:07:03.892941+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZTd2cjduSjRrUnFJZ2dwWDFBWW51WHJWLU5Vb0VVNHp3ZXAwbFF6V2VrZXBSemJSemVmRDA3NGVXTGNIZDVCaFRLczg2WDdDcXJhSWVid3Z6aXpaRU8tZHpoZnV4eDB5VFhZUFdINGwtY05SeVZhZWdCYmhkcmdJRW1NVUhuNjNEQnVNWmlDa2E5UQ?oc=5",
+    "title": "Anthropic Perps Surge as IPO Nears - Briefs Finance",
+    "published": "2026-11-18T04:08:30+00:00",
+    "sent_at": "2026-11-18T04:28:01.753415+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUJEVTZHT1VXTVB4ZTMwLUpYZ1F6TkUxaGVNSW83SU1TX2YtSWJDUkZnTzJ1ZENCTWZ5NE9VWERsOVp0RU9IR1ZxODlWTkZNc3BIZV9PQVFHMHdzdlp6bktoTVdKSnZJOXZBU1pPWDNrVjVoZUVFTW1EWmhXQzRwN2J2ZlBhandiZk56RWQ3YzF5dw?oc=5",
+    "title": "Anthropic IPO: Amazon and Google Take 28% Stake - Briefs Finance",
+    "published": "2026-11-18T04:08:27+00:00",
+    "sent_at": "2026-11-18T04:28:01.753415+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWtsT3FJNVhYNGxfYWUzdkhHcjBVcXJPb3h4T0VUNVgtSEltZnFBS1pfVXVZaFZLV2FnbG44WUpEdWY5YjRvWFFZdGJqM0M0MFdnemV0WkR2QkhDWGhfYkNQTnBkMkZ4RENid212UWtIbWlmdXJ2SktGdmN3TzVTbUVremdoTGEwNVVXTUx3?oc=5",
+    "title": "Coatue Could Gain Billions From Anthropic IPO - Briefs Finance",
+    "published": "2026-11-18T04:08:21+00:00",
+    "sent_at": "2026-11-18T04:28:01.753415+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MN1UwclU4T0ZwUnBPWV9CbkY4VWt1LUoxZkIxZDVpV0NNczB2Q0lTRVZrMEp5RGdXdHNJN0VzcldhZ1ZKbGRqSDE3aTdKYW9HcjFtTlVJSUJDTDdPdmhoOUlIVDN6SGtvREJWdDNfdmJwbFo3alE?oc=5",
+    "title": "SpaceX CFO Questions Anthropic's Data Center Ambitions as AI Giant Preps $80-Plus Nasdaq Debut - BigGo Finance",
+    "published": "2026-11-18T03:35:00+00:00",
+    "sent_at": "2026-11-18T04:28:01.753415+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdDBZbFpMQUEyM0t2NVdMQjBkZ2Eya3lFVUEwRW9zOEdlb1plVGNmbGs1T0hsT1M3R05zM2FTUUthMkZScjBRU19BQTVJMVRQWkRfQVJ3SEZGNUZaMi1fR2xSeUZWeDhTU3VIcWZ4UGtNbzBoUm5lSFpKUzFaTUZVZkdBVmo4SXpKUHFkSF9QaFltTFR3cWhyc3cxOG5kX2lyNWJCbkx1T2NDajlDaElZd1djZGpoRmFZdksyN0RWNDdzdTQx?oc=5",
+    "title": "Anthropic Is Shooting for the IPO Pricing Moon: Evening Briefing Americas - Bloomberg.com",
+    "published": "2026-11-18T03:30:08+00:00",
+    "sent_at": "2026-11-18T04:28:01.753415+00:00"
   }
 ]

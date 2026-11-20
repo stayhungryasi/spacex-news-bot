@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3pZQUU3NTI4WFhrZkxldDBxUTRpT20za0J4X2JkYTUxdExnbFdaUEoyam5PWmFTa2xNWHpTTGZqdTl6SWhuOW4tcXMyNE9uOHNqcHlIRGhHendlM2JyYkJVRjE1RnNSUDhpVjFZNEY3Vy1kamtSVTJXaFdiWE1oYXlxS2Q1Ylg4NV9kNmhLMElBOTAxdXJVa0E1eEt6NUkxWU9UcTU1MGIyeDdBUy1jcXFvR04?oc=5",
-    "title": "Anthropic, music labels to make key arguments in AI training case - Reuters",
-    "published": "2026-10-21T13:01:52+00:00",
-    "sent_at": "2026-10-21T13:42:40.772758+00:00"
-  },
-  {
     "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
     "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
     "published": "2026-10-21T19:53:20+00:00",
@@ -1042,5 +1036,11 @@
     "title": "Tom Lee Says Anthropic Debut Selloff Feels Like ‘Max Pain’: Will Tech Rebound? - Yahoo Finance",
     "published": "2026-11-20T03:05:00+00:00",
     "sent_at": "2026-11-20T04:01:36.168081+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "published": "2026-11-20T16:34:13+00:00",
+    "sent_at": "2026-11-20T21:46:26.477516+00:00"
   }
 ]

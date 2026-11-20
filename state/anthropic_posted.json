@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "published": "2026-10-20T23:01:23+00:00",
-    "sent_at": "2026-10-21T00:33:36.195589+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "published": "2026-10-20T21:25:22+00:00",
-    "sent_at": "2026-10-21T00:33:36.195589+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VNkRtQVc2UUZVVmgyWUJOQU5RSjdCMjQ0V1JuczVKVmxoME1pQ295LWZ5a3J1M21SWk1yWUtGQ01pbTN3bFVldVVmc01QLXNYYlBqRi04UnZ4VWR5NzU1dTZuYzFxRVA5enZObVVFeE1sVURIVFp1NGVn?oc=5",
-    "title": "How Claude designed protein binders against scorpion neurotoxins - Anthropic",
-    "published": "2026-10-20T17:03:55+00:00",
-    "sent_at": "2026-10-21T01:39:16.191610+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "published": "2026-10-20T17:55:12+00:00",
-    "sent_at": "2026-10-21T01:39:16.191610+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBV0N0VkdVSjQ0RXM2T1p6aEswYnp1VkZDMkFaVkl5cHpSWGNtUkhFdzB1aTVSLWFieUVITzdIeHAtV1pvQ0NIVm9MdHBtZEloMnNsTQ?oc=5",
-    "title": "Anthropic May Spend Up to $750 Billion on AI Infrastructure Ahead of IPO, WSJ Reports - bloomingbit",
-    "published": "2026-10-21T01:10:32+00:00",
-    "sent_at": "2026-10-21T01:39:16.191610+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByMFNVMVFKQnJoQmRfVGZ4SWNYTmJHMHlrUVVuSV8yU1AtbFUtQkhFSnh6dWxYMXZNc0pmU1BIcEw4a0swTWhrd1VnZXJkMW9Qdm95dkZGazZuNE5WanE4ODhVZWx1S3c?oc=5",
-    "title": "Who Made Money on the SpaceX IPO? A Warning for Anthropic - Memeburn",
-    "published": "2026-10-21T00:32:36+00:00",
-    "sent_at": "2026-10-21T01:39:16.191610+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUERNc0tRaVcxc2JFR2pHQU1JcHRkZk5ySTVXUHlsOFhxaE5mdGJjOTY5ek9HQTFNdzVzQmtpcFY5LTlEako5aHRPSnBXdmg1ZVZ0N0JpRUEyS1dma28xUF9IdEVxRnM1ZjB3eHpMSGhjb1dlc0JvYmtBYjJqQmsxWTN3?oc=5",
-    "title": "DeepSeek Opens DeepInfer, Presses OpenAI, Anthropic [2026] - shattered.io",
-    "published": "2026-10-21T00:26:32+00:00",
-    "sent_at": "2026-10-21T01:39:16.191610+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3pZQUU3NTI4WFhrZkxldDBxUTRpT20za0J4X2JkYTUxdExnbFdaUEoyam5PWmFTa2xNWHpTTGZqdTl6SWhuOW4tcXMyNE9uOHNqcHlIRGhHendlM2JyYkJVRjE1RnNSUDhpVjFZNEY3Vy1kamtSVTJXaFdiWE1oYXlxS2Q1Ylg4NV9kNmhLMElBOTAxdXJVa0E1eEt6NUkxWU9UcTU1MGIyeDdBUy1jcXFvR04?oc=5",
     "title": "Anthropic, music labels to make key arguments in AI training case - Reuters",
     "published": "2026-10-21T13:01:52+00:00",
@@ -1054,5 +1012,35 @@
     "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
     "published": "2026-11-17T22:29:05+00:00",
     "sent_at": "2026-11-19T20:27:52.576068+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk51MERjcW5QczZjMlVnYWtCbUl0R3k3QndGa0hZeGltbmduZVFrQ1RrbTlZdWRuZWVPT1hFRVRRQWpGTm9sSXB6VVFOdHhQN2tsdWVKOUNONjF5ZWw3TUdPTXRaTHRYNjhWSjF0M3NON3BpMmFRYzdjYjQzWFdjMlZ6ck11WlpkcE5ZcUJNWjlRUU9FN1U5VHN6QW5IXy1IMGJ3Vm13dnVsLVN2SU1CNlViNm1XTHBzZkRUNFFOQlA?oc=5",
+    "title": "Dow Jones Futures: Techs Slide, Anthropic Retreats After Ugly Market Reversal To New Lows - Investor's Business Daily",
+    "published": "2026-11-20T03:50:00+00:00",
+    "sent_at": "2026-11-20T04:01:36.168081+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjI0QjdiX0U5NWY1NDNvM2g5Q0N2SkVkTEkxSERpckxnOWwzSnFycV8wR3J6U3hYQkFrQTI3SGJhYlRSM2V5YkJHTFNuZ2ZoVHFzUE5BMkNNMjU5bXRlZ1I1UDRoOFNXS0wyZnBMSTcyWFl3YlFwOUxqQWVYX0VjTm5Ybmc5TXFxLWtCRnZOdzJlVkl5Wks5VU5vZk1OS0NtZUZQRjJ0SDJabG11ZFY2NlZsVmRaRjAyMENzQ25ic24?oc=5",
+    "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry - The Guardian",
+    "published": "2026-11-20T03:35:00+00:00",
+    "sent_at": "2026-11-20T04:01:36.168081+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpQc3lwTkVycDlCTjk1a242TUctbGF1ZWFiY19BUG9MWWZVSG1IUWdXcm44MW03TUg4OE84ejBJZFlZVTRtM0MtR0VIR0dYLVBKcVFYQWl1WmFlZk1mM1hVSHNyMEY1RGFhcnk4Wnk1S3VhdnJYekNlbk9HMDV0RUFNVF9jcmt1dnc1YTZaQ3hBYURnU012R2dsUlZvYUhOeUc1NkFZOUNnSWZNX2E4TzJUaw?oc=5",
+    "title": "BTC slides to $61,300 after Anthropic's IPO, triggers $660 million in liquidations - CoinDesk",
+    "published": "2026-11-20T03:32:00+00:00",
+    "sent_at": "2026-11-20T04:01:36.168081+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU05IcE5RazNyajNodmVGbEJxU0g5U3FPc2IzMFlfdVdSbkxsUWRFYkxpc0JpOWxQNnVZSGlEVWpHSklHMGwyRzRmdjZXUFVYWDdxdTIwbmRGUVk0WGZ6RnB3MHFhSS1YR3VJSVUxeUtlcktQY1NDbUVWNXpfOVpXREFYY3k5bXpnMjEwM2drWTdMQldwWEFFVG9BX2cySUdmUUNOcFFURVNIa2dZal84?oc=5",
+    "title": "Anthropic Slumps 5% Post-Market After Record $107.3 Billion IPO - Bloomberg.com",
+    "published": "2026-11-20T03:11:00+00:00",
+    "sent_at": "2026-11-20T04:01:36.168081+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1pKRkdBZGE2UDNpMlFCN2JES28tRnoxdWYwbUNlVm9Rdk9TUmJRYWNtSk1nQUZGMldzdHd6XzNWV0tQTGxEYmg4bWRkQk5zLV8tX25YY05ab2dFTDlnNEZTOGtwTWFNTDNxbTlZZENnNzh3dkZWZ0FSQm1POUhORmdhUHVFM1gyOGhuMFV6VEgtMDZ5NF9R?oc=5",
+    "title": "Tom Lee Says Anthropic Debut Selloff Feels Like ‘Max Pain’: Will Tech Rebound? - Yahoo Finance",
+    "published": "2026-11-20T03:05:00+00:00",
+    "sent_at": "2026-11-20T04:01:36.168081+00:00"
   }
 ]

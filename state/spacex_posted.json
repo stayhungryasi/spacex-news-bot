@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.investing.com/news/stock-market-news/spacex-seeks-access-to-80000-us-cell-sites-for-wireless-network-bloomberg-news-reports-4967805",
-    "title": "SpaceX seeks access to 80,000 US cell sites for wireless network, Bloomberg News reports By Reuters - Investing.com",
-    "published": "2026-10-22T23:11:58+00:00",
-    "sent_at": "2026-10-23T01:07:54.326751+00:00"
-  },
-  {
-    "url": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/",
-    "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
-    "published": "2026-10-22T21:55:02+00:00",
-    "sent_at": "2026-10-23T01:07:54.326751+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
-    "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-    "published": "2026-10-22T21:52:31+00:00",
-    "sent_at": "2026-10-23T01:07:54.326751+00:00"
-  },
-  {
-    "url": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
-    "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co. - CNBC",
-    "published": "2026-10-23T00:46:00+00:00",
-    "sent_at": "2026-10-23T01:07:54.326751+00:00"
-  },
-  {
-    "url": "https://www.reuters.com/video/watch/idRW234822102026RP1/",
-    "title": "Musk’s public endorsement of SpaceX-Tesla deal could complicate talks - Reuters",
-    "published": "2026-10-22T22:57:30+00:00",
-    "sent_at": "2026-10-23T01:07:54.326751+00:00"
-  },
-  {
     "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
     "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
     "published": "2026-10-23T11:00:57+00:00",
@@ -958,5 +928,11 @@
     "title": "Following Ship 42’s catch, SpaceX looks to the future",
     "published": "2026-11-20T19:49:06+00:00",
     "sent_at": "2026-11-21T12:42:07.697349+00:00"
+  },
+  {
+    "url": "https://tech.yahoo.com/science/articles/elon-musk-says-starship-catch-213005351.html",
+    "title": "Elon Musk Says Starship Catch Clears Major Hurdle for SpaceX's Plan to Move AI Computing Into Orbit: 'Last Major Piece of the Puzzle' - Yahoo Tech",
+    "published": "2026-11-21T21:30:05+00:00",
+    "sent_at": "2026-11-22T02:16:29.025923+00:00"
   }
 ]

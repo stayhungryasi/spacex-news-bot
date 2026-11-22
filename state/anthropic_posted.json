@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5",
-    "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots - CNBC",
-    "published": "2026-10-21T21:42:54+00:00",
-    "sent_at": "2026-10-22T04:31:12.560147+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-    "title": "Claude Duet app is Anthropic’s bet on agents",
-    "published": "2026-10-22T13:53:26+00:00",
-    "sent_at": "2026-10-22T17:04:26.114315+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWU0S2RSc3UweGd3OGdmMlF0VVNnQ3paTmp3SjhrT0hxMUU2eXdDRGp2cXl6S043dFJ0Z0Z6RnhQb3g0NjJTRWtDYWx1YzJJTFdkemRIbkFHY2Yybi1WUjc0Sk5aX1NEblZBUURoakwxUEFCdUVmRFRlbnF3blhpczNwLVlzZERvVnpZaVIxa2hCdk1za0VJTnFoQjZxc1BvZ1NWSElxWVlJUlpnalFrc1lB?oc=5",
-    "title": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC - Bloomberg.com",
-    "published": "2026-10-22T19:34:03+00:00",
-    "sent_at": "2026-10-23T01:35:00.023904+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDE5V3NNUV9BRGdBQkNJYVRybEtyQXZMbEE1VXVrZEV3V0xNaVZqdXBadDlwbzZyMGF5TW1JejdseXEyMjBTdF8yQlBOZS1vY2RxQXliWExoMG9yR0dqcFgyUVR4bkRuWWdwVTU2eWV5UjJyN2QtdlZFTGZCdGlwSUgzZw?oc=5",
-    "title": "Reservoir Sues Suno & Anthropic in Latest Lawsuits Over AI Music: ‘Meant to Replace the Artists’ - Billboard",
-    "published": "2026-10-22T18:10:53+00:00",
-    "sent_at": "2026-10-23T01:35:00.023904+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5",
-    "title": "Open call for guest investigators in the life sciences - Anthropic",
-    "published": "2026-10-22T22:03:06+00:00",
-    "sent_at": "2026-10-23T01:35:00.023904+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
-    "title": "LLMs are making formal software verification feasible at a much larger scale - Anthropic",
-    "published": "2026-10-22T21:58:06+00:00",
-    "sent_at": "2026-10-23T01:35:00.023904+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLU52SmQxWnlEZlhaRDExZ0pndEFyeHNLNjBtRUdBUUVLYU1NaldsY01hSnJkRXA2SkE2Z1VZOXlsLVVpYjItd0dRZ253RVhMb3lPdF9lUEFMak1FeWk0ak5FZlhKTER6UTNOV3RnR19zSXVjSkNRMk9GWWVDb2FPbXA0S0VSaGFWSTNVa2ZEeGJ2UVRZMmN6RTFYT2lNaEJVbHpUVFVvQXl1RFpVdGhfN0Y4N1I5bGs?oc=5",
-    "title": "Anthropic’s Elevator Problem: Persuading Investors to Share Its AI Dream - The Information",
-    "published": "2026-10-23T00:30:00+00:00",
-    "sent_at": "2026-10-23T01:35:00.023904+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPT0R4ZTBtQWtQMTBJWGx2NGV2TVNxRl9aa2liNDQ2SGJFVFEta0I2M2lhaEkwR2hWMmxDMlZXamdQYkpFRkU1Wl9PN3JOLXljb3JuTFJ1Z0wwTFp6ZVlqQkRnVHpZOW1uMkpnR0hUYzkzZm9BXzNXSEQ1cnBic2M2cHpqM0FSempQUGNoQzVhWmdyQksxcVN4QVJGZ2NSaEZ3N0pZMno3SFFIQm9ORVBaWWhkM25DQm1pRkIzd1dyOEZvSmxtMnRBTkxYSXp5dW1IZmhNTC1CczY2T0ZDVlBPT1NvZnZ2YXRxLXZxbklsVnQtSVoxQWlsd0hlbVBEUkxpbTNlNUlBRUJmUXdpQ3BCaUVEQTR0SjRVQTdxQw?oc=5",
     "title": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026 - RIABiz",
     "published": "2026-10-24T01:14:02+00:00",
@@ -1042,5 +1000,35 @@
     "title": "Ark Invest acquires 705,982 shares of Anthropic as Cathie Wood leans into AI - Crypto Briefing",
     "published": "2026-11-21T01:34:53+00:00",
     "sent_at": "2026-11-21T04:00:55.435399+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
+    "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times",
+    "published": "2026-11-21T16:52:00+00:00",
+    "sent_at": "2026-11-22T03:14:51.156050+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "published": "2026-11-20T20:59:08+00:00",
+    "sent_at": "2026-11-22T03:14:51.156050+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXVvVTBfMERnRGNhVjJLTnBsOXZWTnVEUk1CeXYxNFBhdkFQRlFMMnIxSkNEZmhwVW96amNFdlE3akZGWS1MNFRzeFBmdnFkRFdUV3JtYXRQa2p1TnNza0JaREtrQ0RtbThxV2lBdU9qOXVBZU5rcU5TZF8yUFE0UkU4VFRkcmJmSWNTdEVB?oc=5",
+    "title": "Seohak Ants Buy $163.8M in Anthropic Shares, One-Fifth of SpaceX's - 조선일보",
+    "published": "2026-11-22T03:03:48+00:00",
+    "sent_at": "2026-11-22T03:14:51.156050+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ekFnLVFhdTZHVm1qOUxTY3VrY2NfZXl3Qklobl9Hb1VQN0JfZEpMdm1wY294WlpDNm9YR2NZMzVzUTJsTFMyYi0zbjZTbE9mbE03LTdyY0t2Vnlic2RkT25tQkpuQzk4NFdvQkUyanNWUWVxd3c?oc=5",
+    "title": "Anthropic Sheds approximately $109 Billion in Market Value Two Days After Nasdaq Debut; Nasdaq Wipes Out $4 Trillion - BigGo Finance",
+    "published": "2026-11-22T02:56:00+00:00",
+    "sent_at": "2026-11-22T03:14:51.156050+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13cFROSnVkUnBjaW5mdzFUN2NPZWJrWDZKQXpSLUM4R0tpTEFtX182MGNpVU41NkhRYUJ3UjhjTEEwWEVJeEgtT0MxSVhUajBIdTFDR1dpd3Fvbzk1RDd4akh0Z3ctU3k0OFhLNEdB?oc=5",
+    "title": "Who Is Leopold Aschenbrenner? His Fund’s $5 Billion Anthropic Stake - The Profile | Polina Pompliano",
+    "published": "2026-11-22T02:07:42+00:00",
+    "sent_at": "2026-11-22T03:14:51.156050+00:00"
   }
 ]

@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://x.com/MarioNawfal/status/2114001467702984715/video/1",
-    "title": "SpaceX just pulled in $14.6 BILLION in three months. That's a hell of a quarter. Revenue jumped 161% in a year, and Starship has now started earning its keep. Its first commercial mission delivered 26 Starlink V3 satellites into orbit, adding roughly 10X the do - X",
-    "published": "2026-10-24T14:30:00+00:00",
-    "sent_at": "2026-10-24T15:59:57.916066+00:00"
-  },
-  {
-    "url": "https://satnews.com/2026/10/24/spacex-returns-to-profitability-with-4-4-billion-third-quarter-on-starlink-and-compute-growth/",
-    "title": "SpaceX Returns to Profitability With $4.4 Billion Third Quarter on Starlink and Compute Growth - SatNews Publishers",
-    "published": "2026-10-24T20:43:29+00:00",
-    "sent_at": "2026-10-24T22:30:47.378384+00:00"
-  },
-  {
-    "url": "https://newscord.org/article/ukraine-says-starlink-speeds-restored-after-spacex-throttling-over-drone-strikes--Story_20261024_MusksayshewasbehindS7d09a34c",
-    "title": "Ukraine Says Starlink Speeds Restored After SpaceX Throttling Over Drone Strikes: 20 outlets compared - NewsCord",
-    "published": "2026-10-24T23:23:10+00:00",
-    "sent_at": "2026-10-25T00:43:14.506266+00:00"
-  },
-  {
-    "url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
-    "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
-    "published": "2026-10-20T05:01:48+00:00",
-    "sent_at": "2026-10-25T00:43:14.506266+00:00"
-  },
-  {
-    "url": "https://www.fool.com/investing/2026/10/24/spacexs-1-trillion-revenue-ambition-can-elon-musk-deliver/",
-    "title": "SpaceX’s $1 Trillion Revenue Ambition: Can Elon Musk Deliver? - The Motley Fool",
-    "published": "2026-10-25T00:06:35+00:00",
-    "sent_at": "2026-10-25T00:43:14.506266+00:00"
-  },
-  {
-    "url": "https://finance.yahoo.com/markets/stocks/articles/ignore-spacex-hype-buy-rocket-001000293.html",
-    "title": "Should You Ignore the SpaceX Hype and Buy Rocket Lab Instead? - Yahoo Finance",
-    "published": "2026-10-25T00:10:00+00:00",
-    "sent_at": "2026-10-25T00:43:14.506266+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-    "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-    "published": "2026-10-23T22:48:25+00:00",
-    "sent_at": "2026-10-25T00:43:14.506266+00:00"
-  },
-  {
     "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
     "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says - CNBC",
     "published": "2026-10-26T00:37:00+00:00",
@@ -970,5 +928,35 @@
     "title": "Elon Musk Says 2027 AI Cash Crunch Will Be ‘Nuts’ — Analysts Still See SpaceX Emerging As The Biggest AI Hyperscaler - Yahoo Finance",
     "published": "2026-11-23T02:32:00+00:00",
     "sent_at": "2026-11-23T03:23:57.305092+00:00"
+  },
+  {
+    "url": "https://finimize.com/content/tesla-and-spacex-name-directors-for-merger-talks",
+    "title": "Tesla And SpaceX Name Directors For Merger Talks - Finimize",
+    "published": "2026-11-24T05:49:33+00:00",
+    "sent_at": "2026-11-24T06:37:21.262035+00:00"
+  },
+  {
+    "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
+    "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+    "published": "2026-11-23T22:21:32+00:00",
+    "sent_at": "2026-11-24T06:37:21.262035+00:00"
+  },
+  {
+    "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+    "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+    "published": "2026-11-21T16:50:51+00:00",
+    "sent_at": "2026-11-24T06:37:21.262035+00:00"
+  },
+  {
+    "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+    "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+    "published": "2026-11-23T23:28:00+00:00",
+    "sent_at": "2026-11-24T06:37:21.262035+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "published": "2026-11-23T21:30:44+00:00",
+    "sent_at": "2026-11-24T06:37:21.262035+00:00"
   }
 ]

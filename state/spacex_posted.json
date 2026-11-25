@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-    "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says - CNBC",
-    "published": "2026-10-26T00:37:00+00:00",
-    "sent_at": "2026-10-26T00:53:35.703445+00:00"
-  },
-  {
-    "url": "https://seekingalpha.com/article/4957313-spacex-ramping-up-capex-risk",
-    "title": "SpaceX: Ramping Up CapEx Risk (NASDAQ:SPCX) - Seeking Alpha",
-    "published": "2026-10-26T00:00:00+00:00",
-    "sent_at": "2026-10-26T00:53:35.703445+00:00"
-  },
-  {
-    "url": "https://observer.com/2026/10/elon-musk-tesla-spacex-merger-control/",
-    "title": "Tesla’s Earnings Are Mixed, but Elon Musk Is Pushing Beyond Cars - Observer",
-    "published": "2026-10-26T00:49:53+00:00",
-    "sent_at": "2026-10-26T00:53:35.703445+00:00"
-  },
-  {
     "url": "https://www.chosun.com/english/industry-en/2026/10/27/ARWQHUZIYBGXBC77RTNE4QULZQ/",
     "title": "U.S. Military, SpaceX Demonstrate 1-Hour Rocket Delivery Across Earth - 조선일보",
     "published": "2026-10-26T23:22:35+00:00",
@@ -958,5 +940,35 @@
     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
     "published": "2026-11-23T21:30:44+00:00",
     "sent_at": "2026-11-24T06:37:21.262035+00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-vs-spacex-heres-better-043501393.html",
+    "title": "Anthropic vs. SpaceX: Here's the Better IPO Stock to Buy With $1,000 Right Now - Yahoo Finance",
+    "published": "2026-11-25T04:35:00+00:00",
+    "sent_at": "2026-11-25T05:09:45.458322+00:00"
+  },
+  {
+    "url": "https://www.fool.com/investing/2026/11/24/anthropic-vs-spacex-here-s-the-better-ipo-stock-to-buy-with-usd1-000-right-now/",
+    "title": "Anthropic vs. SpaceX: Here's the Better IPO Stock to Buy With $1,000 Right Now - The Motley Fool",
+    "published": "2026-11-25T04:15:00+00:00",
+    "sent_at": "2026-11-25T05:09:45.458322+00:00"
+  },
+  {
+    "url": "https://finance.biggo.com/news/347979c1-100f-42ad-b5c7-9d4d05c370db",
+    "title": "Starship 40% Upscale, Heat Shield Damage at 0.005%: SpaceX's Reusability Economics Put to the Test - BigGo Finance",
+    "published": "2026-11-25T03:56:00+00:00",
+    "sent_at": "2026-11-25T05:09:45.458322+00:00"
+  },
+  {
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/8996327/worlds-best-space-company-spacex-will-soon-be-40-better/",
+    "title": "World's Best Space Company SpaceX Will Soon Be 40% Better - The Globe and Mail",
+    "published": "2026-11-25T03:54:43+00:00",
+    "sent_at": "2026-11-25T05:09:45.458322+00:00"
+  },
+  {
+    "url": "https://www.fool.com/investing/2026/11/24/world-best-space-company-spacex-soon-40-better/",
+    "title": "World's Best Space Company SpaceX Will Soon Be 40% Better - The Motley Fool",
+    "published": "2026-11-25T03:00:00+00:00",
+    "sent_at": "2026-11-25T05:09:45.458322+00:00"
   }
 ]

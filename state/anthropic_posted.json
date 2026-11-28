@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbzh3WHRfc1NZQVJFS1ZaWURuVmhrV0hhS3d0UEpYeTQ5WE5pYVFLa3RrcWNaTmVmT0ZMaXBZWHE4cERGVmg4OFdRZzVtTnFFWFotNWRhb2hhYTloOXlpV3pSYnlBU1pVQnFfc1J6WE45WUFPSjZkRWZvRm9VTzZOUExn?oc=5",
-    "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits - The Hacker News",
-    "published": "2026-10-28T08:15:00+00:00",
-    "sent_at": "2026-10-28T19:28:41.143986+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
-    "title": "AI for Science expands to foundations and research institutions - Anthropic",
-    "published": "2026-10-28T20:14:19+00:00",
-    "sent_at": "2026-10-29T02:29:18.660441+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1FUdUtZM1lZLXM5SWpKSHYyMElWS2IxXy1tX2tkWkxkUFBJSklFY21yUkpaNUtCb1BNUUlzQ2dpU3I1cXpxTWkwWEhjRFJ6SnFFR2hqR2NEZlBFd0pPWkJSMGVlVzJLTjY0d0ZDRjBYVHBuMlRDVW9sV00yZC1nZHByamdPZ19TLXc?oc=5",
-    "title": "Anthropic Backs Court Blocks & 6-Month Risk Reports [2026] - https://tech-insider.org/",
-    "published": "2026-10-29T02:09:38+00:00",
-    "sent_at": "2026-10-29T02:29:18.660441+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSktIaXJTMDZTSzBBQ1VIUW03ajJzZ2JQV1VYOFN2amxQbTdQQVk5NjQybDlpakZmRFZBWkRqdFJ0VEgxMlpqT181Y0N3YmFVall0N08tdzVSMHVrYm5QdW5pbmxTNU1YeTFSemY4MjNVTlliaUJOeXNYM3BzMDhQU1M0c3VEejRwOWNlQkhFSQ?oc=5",
-    "title": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] - shattered.io",
-    "published": "2026-10-29T02:00:26+00:00",
-    "sent_at": "2026-10-29T02:29:18.660441+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVucGNEMHhvTHhUNnlHbi1sRHNKelRJYnl2ZC0xVGtMeGVkWjNXU0pnT09jQ2twX2FCcWgwZ2ZBeEgxTzBiVTlJQkttV0VkaF9xUzJfVzBMYUNBb1poQWN0WUp3dHhkaDV4bEVjN2NfQUg4aGRLbENZNHJ3WTY4cjdMZlFSWlNVS3hnZHh0N0RpWE5LSXY2RWxVdm5IV0E2WC16UU15elVMTWxxb21HMnJBd1A3NVd4bGc?oc=5",
-    "title": "Opinion | Anthropic’s plan to protect humanity has a flaw - The Washington Post",
-    "published": "2026-10-29T01:50:28+00:00",
-    "sent_at": "2026-10-29T02:29:18.660441+00:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaG1hXzY4RG1XZmlaeGtMYXdGWTg1QXZUbDNyTDZYMTZFTWNGTGc1Y21PVENNRHJ1SWdHc3lBcGRRWWtndnBkdzgzb2t1RENGOUJFVXVYWVgwYXg0R2V0cXJkNHVvN2pwYU9FWWdOczlKSUMtd2dla3cycTJqelBwcTlGakR3Z3ZjeUptUVNn?oc=5",
-    "title": "KOSPI Reclaims 6,000 on Anthropic, SK Hynix Strength - 조선일보",
-    "published": "2026-10-29T01:30:00+00:00",
-    "sent_at": "2026-10-29T02:29:18.660441+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcENRRHBZYjJVQVFZOVEzS1dqbDFka1pKenVodDB5bU5JN1JuUGRaNmhWa3ZsaC1xVmxnNVoxeU9mZnNEYjRTVGIxMktzRm5WTmdNNWlkcHhPWTNQLVQ4SU9ISzRFX3hPM091eW9LZFFtaGN2WWU2Z1pZSUtvMjJRUUtZanRkdkc2THhGVnFiNEVBdThwVXZvN1R1dGFRR3p0SkE0c3dnRVhPeTdla0ZtTU9vYllrZ2s?oc=5",
     "title": "Nvidia discusses credit guarantees for Nscale’s deal with Anthropic — Channel NewsAsia - UA.NEWS",
     "published": "2026-10-30T01:42:49+00:00",
@@ -970,5 +934,35 @@
     "title": "Can AI resist temptation? Anthropic finds lower violation rates in new Claude models - digitimes",
     "published": "2026-11-27T04:09:08+00:00",
     "sent_at": "2026-11-27T05:05:49.511695+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVhwM1d4VGtCX3pRUlBUcWljb2JSOENMbHhNcW9WRDFCNnBrd2I5MzdkLVdOSkViVWFXeHNPQ1lwN0Rwd1kwR19XdGs0Ykd2NzBlNUVoaUMyVW5GRHFWYTl5MHlPQ0dibURnUkc5al8xczVnMmluV1ptWUhDVkQtNm9VYl9RWU1VWnVtQll3a0ZMQjFERHQ0T3F4ek80MjE4bWZWcHE0MF9Eb1ZZSzVuZk9EVHNSUQ?oc=5",
+    "title": "Anthropic Finishes First Full Week Above IPO Price - Bloomberg.com",
+    "published": "2026-11-28T04:43:47+00:00",
+    "sent_at": "2026-11-28T04:45:26.529825+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10clNkcERWTHpXdGpMVlFhUmVhUEx3d0c1NzJ5eFBVcW91UDBKMnpJRjlyeXIzVlJlbWF2bGFfbnRzTlltM3ZNcnJ1clowaG1PTDBzbnplYkFiU3A4WWNKMUhyaHdySlRWMklzUjVYYnoyeWhBcHRZ?oc=5",
+    "title": "Anthropic employee pushes back on claims Claude sabotages ML research - Crypto Briefing",
+    "published": "2026-11-28T04:40:39+00:00",
+    "sent_at": "2026-11-28T04:45:26.529825+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHpaZThLX0V6eDVfcXNLRnNlenFLdXN6UU5uUFU3T2Z3OXMweWZmS3VrNDlDcnlzMHhIYXYwam9WYUhhVXVpUkR3dkM0SVUtSnczWnVFVXpqNFZaSGc3RUN2cEQtcGw2ZXF1UVNTUkNsQ1JEWEY3OWxNNVl2RTRUUTRmOXVaZ1hsRVRxQkFKTmhadw?oc=5",
+    "title": "Anthropic IPO Floods San Francisco with New Wealth - and a Tight Housing Market - Briefs Finance",
+    "published": "2026-11-28T04:03:39+00:00",
+    "sent_at": "2026-11-28T04:45:26.529825+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVVrZjVETkxxZmtrc3kyRnl1azF0MTlQQXpHOW9WY0JxRFJTR29TNVQ1NjJ6ZWV4dEhWZkdTQ1hOZG5RX2g0NzhKbkRVNDdPMnpiVGp3MV9TbGxqNW9TbTZfU3RVME9DYlVjbFZlYjM1VkFEVm82bnIxSi1uUEg4LUp5TQ?oc=5",
+    "title": "Anthropic Denies Training Claude to Sabotage Users’ Work - Unite.AI",
+    "published": "2026-11-28T03:57:06+00:00",
+    "sent_at": "2026-11-28T04:45:26.529825+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkRNcTZxT2VmYlJNVmNaajdBMmd2SzFEU1FER1JYS1dmTFJvRkRCLWNPWEsyc3MwRW5KRExVU25kSHE4ejRoV0N5U0NQbjlvcUh2ckFiT3NZUElVajdwV1VTRTh2OVR5aFZwRVFOZ2R2WWdzTDN6WHVOTWJZSXpsTEl4VG5KeEZrdUpaN18zMGd5ZDF5Z2k2Q0psLTg3Tlp6ZjB4N2htWkw2ckp0S0JmcXR4UzVsYV9qcHVPZw?oc=5",
+    "title": "US Stock Market Trends (November 28): Nasdaq up 2.31%, Anthropic gains nearly 11%, Dow records largest weekly gain in f… - 深潮TechFlow",
+    "published": "2026-11-28T03:39:39+00:00",
+    "sent_at": "2026-11-28T04:45:26.529825+00:00"
   }
 ]
